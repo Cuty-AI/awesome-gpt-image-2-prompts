@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/banner.webp" alt="Awesome GPT Image 2 Prompts" width="100%" />
+<a href="https://www.cuty.ai/prompts/gpt-image-2"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/banner.webp" alt="Awesome GPT Image 2 Prompts" width="100%" /></a>
 
 # 🖼️ Awesome GPT Image 2 Prompts
 
@@ -57,7 +57,9 @@ En lo que destaca de verdad:
 
 **Descripción:** Retrato de caricatura 3D estilizado con proporciones de efecto cómico extremadamente exageradas, características sobredimensionadas, expresiones audaces, materiales suaves y mates, y un fondo degradado saturado para un fuerte contraste visual.
 
-<a href="https://x.com/salihsanal/status/2057741572666445999"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/f43d70dc026c.webp" alt="Retrato de Caricatura CGI 3D Exagerada" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=268544723649132"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/f43d70dc026c.webp" alt="Retrato de Caricatura CGI 3D Exagerada" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=268544723649132)
 
 **Prompt:**
 
@@ -73,7 +75,9 @@ Extrema caricatura CGI 3D de [character] con proporciones extremadamente exagera
 
 **Descripción:** Una joven con cabello ondulado en un sofá color crema en una sala de estar minimalista iluminada por el sol, rostro cubierto por un bloque de privacidad para una estética de apartamento japonés/coreano aireada.
 
-<a href="https://x.com/SusumuMind/status/2057586669839331576#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b68deb650095.webp" alt="Retrato de Estilo de Vida Acogedor por la Mañana con Bloque de Privacidad" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=200720655909013"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b68deb650095.webp" alt="Retrato de Estilo de Vida Acogedor por la Mañana con Bloque de Privacidad" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=200720655909013)
 
 **Prompt:**
 
@@ -89,7 +93,9 @@ Crea un retrato de estilo de vida suave y fotorrealista en una sala de estar min
 
 **Descripción:** Retrato de estudio sofisticado de una mujer de espaldas a la cámara, mirando con confianza por encima de su hombro, con iluminación lateral dramática contra un fondo de color sólido.
 
-<a href="https://x.com/ChillaiKalan__/status/2057542507928736240"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4bdcbfc2734b.webp" alt="Retrato de Estudio por Encima del Hombro" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=83411482080075"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4bdcbfc2734b.webp" alt="Retrato de Estudio por Encima del Hombro" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=83411482080075)
 
 **Prompt:**
 
@@ -105,7 +111,9 @@ Una joven con cabello largo, [oscuro] y llamativos [anteojos de gato] es captura
 
 **Descripción:** Primer plano con perspectiva gran angular donde el rostro del personaje se acerca extremadamente a la pantalla, exagerando una característica como un ojo o una oreja para una distorsión cómica.
 
-<a href="https://x.com/challenger_ND/status/2057466141174612455"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/421379eb2a03.webp" alt="Primer Plano de Cara Exagerada con Gran Angular" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=72651417266691"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/421379eb2a03.webp" alt="Primer Plano de Cara Exagerada con Gran Angular" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=72651417266691)
 
 **Prompt:**
 
@@ -121,7 +129,9 @@ Estilo gran angular. El personaje acerca su rostro extremadamente a la pantalla.
 
 **Descripción:** Retrato vertical de busto de una escolar en uniforme de verano blanco mordiendo una fresa junto a la ventana, renderizado en un suave estilo de película pastel con profundidad de campo superficial.
 
-<a href="https://x.com/CyberTotal2026/status/2057465950275010685"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1cdee044649a.webp" alt="Escolar de Película Suave con Fresa" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=31743570896026"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1cdee044649a.webp" alt="Escolar de Película Suave con Fresa" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=31743570896026)
 
 **Prompt:**
 
@@ -137,7 +147,9 @@ Sujeto: [fresa junto a la ventana]. Persona/Expresión: mujer, cabello negro lar
 
 **Descripción:** Retrato editorial cinematográfico en 8K de un hombre con suéter negro y blazer a medida, iluminado con bokeh de estilo GQ de lujo contra un gradiente de estudio verde esmeralda oscuro.
 
-<a href="https://x.com/iamaiistudio/status/2057463278608252933"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/34a2247a2dbc.webp" alt="Retrato Editorial Masculino de Riqueza Silenciosa" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=57871001333180"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/34a2247a2dbc.webp" alt="Retrato Editorial Masculino de Riqueza Silenciosa" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=57871001333180)
 
 **Prompt:**
 
@@ -161,7 +173,9 @@ Calificación: tratamiento de color premium de revista GQ, sensación de campañ
 
 **Descripción:** Collage de selfies en cuatro paneles de una joven en un suéter gris de gran tamaño y falda en una cama, rostro suavemente desenfocado, ambientado en un acogedor dormitorio minimalista cálido.
 
-<a href="https://x.com/kasu_mi_ai/status/2057424172842946815#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/d8824f5c7e2a.webp" alt="Collage de Selfies Acogedor 2x2 en el Dormitorio" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=238054188809770"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/d8824f5c7e2a.webp" alt="Collage de Selfies Acogedor 2x2 en el Dormitorio" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=238054188809770)
 
 **Prompt:**
 
@@ -177,7 +191,9 @@ Crea un collage realista 2x2 de cuatro retratos suaves estilo selfie de la misma
 
 **Descripción:** Retrato cinematográfico hiperrrealista en blanco y negro con franjas de luz de larga exposición detrás de un sujeto cuyo rostro está parcialmente oculto por mechones de cabello que barran y un desenfoque de movimiento lateral.
 
-<a href="https://x.com/aidetool/status/2057406992642445720"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/24accc190b1d.webp" alt="Retrato Cinemático en Blanco y Negro con Desenfoque de Movimiento" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=40324577168157"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/24accc190b1d.webp" alt="Retrato Cinemático en Blanco y Negro con Desenfoque de Movimiento" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=40324577168157)
 
 **Prompt:**
 
@@ -193,7 +209,9 @@ Un retrato hiperrrealista y cinematográfico en blanco y negro de una [mujer] ca
 
 **Descripción:** Cercano cinematográfico en perfil lateral de una mujer bajando suavemente la cabeza hacia una flor cubierta de rocío, iluminada por luz de fondo dorada cálida contra un fondo natural desenfocado de color verde oscuro.
 
-<a href="https://x.com/Shinning1010/status/2057332420383494441"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/245f53cc546c.webp" alt="Perfil Lateral Soñado con Lirio" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=39991846392940"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/245f53cc546c.webp" alt="Perfil Lateral Soñado con Lirio" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=39991846392940)
 
 **Prompt:**
 
@@ -211,7 +229,9 @@ No cambies la identidad de la persona. No copies las características faciales d
 
 **Descripción:** Collage editorial de cuadrícula de cuatro paneles de una mujer en atuendo activo beige a través de una cocina de mármol, baño de lujo, rincón de bienestar y café brillante, disparado en suave luz natural cálida.
 
-<a href="https://x.com/iamaiistudio/status/2057734834982879662"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/235dcee76026.webp" alt="Collage de Estilo de Vida de Bienestar en Cuatro Paneles" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=38885810200614"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/235dcee76026.webp" alt="Collage de Estilo de Vida de Bienestar en Cuatro Paneles" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=38885810200614)
 
 **Prompt:**
 
@@ -241,7 +261,9 @@ Composición final: un limpio collage de cuadrícula de cuatro paneles, enfoque 
 
 **Descripción:** Hoja de contacto nostálgica de película soñadora 4x4 de una joven pareja en atuendos casuales de verano de noche y junto al mar, rostros cubiertos con rectángulos de desenfoque suave.
 
-<a href="https://x.com/Anifun_AI/status/2057701330761007611"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/5cdbd1260157.webp" alt="Hoja de Contacto Nostálgica de Pareja de 16 Fotos" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=102099176522071"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/5cdbd1260157.webp" alt="Hoja de Contacto Nostálgica de Pareja de 16 Fotos" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=102099176522071)
 
 **Prompt:**
 
@@ -257,7 +279,9 @@ Composición final: un limpio collage de cuadrícula de cuatro paneles, enfoque 
 
 **Descripción:** Retrato fantástico de busto de una joven mujer con decoraciones de escamas iridiscentes y cabello fluido como agua, ambientado en un fondo submarino transparente con burbujas y suave luz reflejada.
 
-<a href="https://x.com/CyberTotal2026/status/2057610889722048546"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2c596fdee6d0.webp" alt="Retrato Fantástico Etéreo del Espíritu del Agua" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=48762640590544"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2c596fdee6d0.webp" alt="Retrato Fantástico Etéreo del Espíritu del Agua" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=48762640590544)
 
 **Prompt:**
 
@@ -285,7 +309,9 @@ Negativo: Baja calidad, cara distorsionada, ojos poco naturales, cara excesivame
 
 **Descripción:** Primer plano editorial de belleza de una cara sosteniendo una flor de manzanilla entre los labios, con piel extremadamente húmeda, intenso rubor rosa, pecas y suave iluminación frontal de estudio.
 
-<a href="https://x.com/CHAseUnre/status/2057600345467990293"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1b47c913184c.webp" alt="Editorial de Belleza Húmeda en Primer Plano con Manzanilla" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=29995130099788"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1b47c913184c.webp" alt="Editorial de Belleza Húmeda en Primer Plano con Manzanilla" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=29995130099788)
 
 **Prompt:**
 
@@ -313,7 +339,9 @@ Negativo: Baja calidad, cara distorsionada, ojos poco naturales, cara excesivame
 
 **Descripción:** Llamativo cartel de collage editorial japonés Y2K con un gran retrato cinematográfico, marcos de polaroid rasgados, tipografía sobredimensionada, cinta washi, tinta salpicada y texturas de zine de Tokio.
 
-<a href="https://x.com/iamaiistudio/status/2057583921957941257"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3daf2504add4.webp" alt="Cartel Editorial Japonés Y2K" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=67822449634772"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3daf2504add4.webp" alt="Cartel Editorial Japonés Y2K" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=67822449634772)
 
 **Prompt:**
 
@@ -337,7 +365,9 @@ Estado de ánimo: vanguardista pero limpio, zine de moda japonesa moderna, sombr
 
 **Descripción:** Ilustración anime de cuerpo completo de una chica con un elaborado atuendo gótico-lolita de pie en un tenue corredor de catedral gótica, capturada desde un ángulo bajo dramático con iluminación cinematográfica y melancólica.
 
-<a href="https://x.com/momoka_AIIllust/status/2057567110759408054#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/fb74570bbaae.webp" alt="Ilustración Anime de Catedral Gótica Lolita" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=276477095164590"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/fb74570bbaae.webp" alt="Ilustración Anime de Catedral Gótica Lolita" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=276477095164590)
 
 **Prompt:**
 
@@ -353,7 +383,9 @@ Crea una ilustración de moda de estilo anime de cuerpo completo de una joven ll
 
 **Descripción:** Retrato fotorealista del sujeto subido rodeado de cinco versiones mini 3D chibi idénticas de sí mismos, cada una interactuando juguetonamente con la misma escena, iluminación y objetos.
 
-<a href="https://x.com/miilesus/status/2057552449729450318"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/234f5edf2a08.webp" alt="Retrato Fotorealista con Compañeros Mini Chibi" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=38823801072136"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/234f5edf2a08.webp" alt="Retrato Fotorealista con Compañeros Mini Chibi" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=38823801072136)
 
 **Prompt:**
 
@@ -369,7 +401,9 @@ Crea una foto hiperrealista de la [persona subida] en su pose, atuendo y entorno
 
 **Descripción:** Ilustración de streetwear inspirada en Disney Tomorrowland de 1955 con un monorail que rodea un Space Mountain con forma de águila, motivos de explosión atómica, jetpacks, tipografía de arquitectura Googie y acentos de futurismo de mediados de siglo en cromo.
 
-<a href="https://x.com/nonameoasis/status/2057528295001088183"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3bca523bff76.webp" alt="Futurismo Retro de Tomorrowland en Streetwear" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=65740149096310"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3bca523bff76.webp" alt="Futurismo Retro de Tomorrowland en Streetwear" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=65740149096310)
 
 **Prompt:**
 
@@ -385,7 +419,9 @@ Crea una foto hiperrealista de la [persona subida] en su pose, atuendo y entorno
 
 **Descripción:** Portada de revista de cosplay de anime de alta moda con una pose de villano de ángulo bajo de Kibutsuji Muzan en un fedora blanco y capa, tipografía serif refinada, fondo de estudio blanco roto.
 
-<a href="https://x.com/busyddd/status/2057509830995394595#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/703311116c7e.webp" alt="Portada de Revista de Cosplay de Villano de Anime" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=123364631997566"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/703311116c7e.webp" alt="Portada de Revista de Cosplay de Villano de Anime" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=123364631997566)
 
 **Prompt:**
 
@@ -413,7 +449,9 @@ Restricciones: Mantén la cara cubierta por el desenfoque cuadrado, preserva los
 
 **Descripción:** Hoja de calcomanías premium 4x3 de la misma joven en doce expresiones diferentes, cada retrato de hombros hacia arriba delineado con un borde recortado blanco grueso sobre un fondo neutro.
 
-<a href="https://x.com/iamaiistudio/status/2057493355865714894"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/58dd72918f6d.webp" alt="Hoja de Calcomanías de Retratos con 12 Expresiones" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=97708133158765"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/58dd72918f6d.webp" alt="Hoja de Calcomanías de Retratos con 12 Expresiones" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=97708133158765)
 
 **Prompt:**
 
@@ -433,7 +471,9 @@ La misma identidad de personaje en cada calcomanía. Estilo: fotografía digital
 
 **Descripción:** Paquete premium de pegatinas 4x3 de una mujer en diferentes camisetas de fútbol, doce poses expresivas estilo emoji, fondo beige suave, iluminación suave fotorealista y bordes gruesos de pegatina blanca troquelada.
 
-<a href="https://x.com/iamsofiaijaz/status/2057485300818235561"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ed9e4257b130.webp" alt="Paquete de Pegatinas de Camisetas de Fútbol" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=261263973658928"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ed9e4257b130.webp" alt="Paquete de Pegatinas de Camisetas de Fútbol" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=261263973658928)
 
 **Prompt:**
 
@@ -479,7 +519,9 @@ Estilo de fotografía digital realista, poros de piel y mechones de cabello ultr
 
 **Descripción:** Retrato realista de una mujer trabajando en una linda oficina rosa creativa, rodeada de mini versiones chibi de ella misma haciendo acciones juguetonas, además de garabatos y superposiciones de emojis.
 
-<a href="https://x.com/heyfatema/status/2057476795830812985"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4966df6bb80.webp" alt="Escena de Garabato Chibi en Oficina Rosa" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=251334741113728"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4966df6bb80.webp" alt="Escena de Garabato Chibi en Oficina Rosa" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=251334741113728)
 
 **Prompt:**
 
@@ -495,7 +537,9 @@ Usa la foto de referencia para crear un personaje femenino realista, con una son
 
 **Descripción:** Foto cinematográfica de gran angular de un motociclista de aventura y motos de turismo en un mirador montañoso, con un mapa GPS holográfico dorado y brillante proyectado sobre la carretera de asfalto.
 
-<a href="https://x.com/Ozayrr_irl/status/2057473247118316023"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/9bdacfe006af.webp" alt="Mapa de Ruta Holográfico de Motocicleta" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=171364092741295"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/9bdacfe006af.webp" alt="Mapa de Ruta Holográfico de Motocicleta" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=171364092741295)
 
 **Prompt:**
 
@@ -511,7 +555,9 @@ Una foto cinematográfica de gran angular de un motociclista de aventura y dos m
 
 **Descripción:** Cuadrícula realista 2x3 de una mujer japonesa realizando seis posturas de yoga etiquetadas en un estudio interior mínimo con suave luz de ventana y imperfecciones fotográficas naturales al estilo de smartphone.
 
-<a href="https://x.com/craftian_keskin/status/2057526205092708404"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/335665b326ea.webp" alt="Cuadrícula de Estilo de Vida de Seis Posturas de Yoga" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=56446166443754"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/335665b326ea.webp" alt="Cuadrícula de Estilo de Vida de Seis Posturas de Yoga" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=56446166443754)
 
 **Prompt:**
 
@@ -611,7 +657,9 @@ Una foto cinematográfica de gran angular de un motociclista de aventura y dos m
 
 **Descripción:** Hoja de plano editorial de moda de una mujer elegante en un traje blanco a medida, rodeada de etiquetas de llamada, notas de sastrería, detalles de tela y anotaciones de concepto de moda femenina de alta gama.
 
-<a href="https://x.com/ZephyraLeigh/status/2057487393247367289"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/69f007e21aff.webp" alt="Hoja de Plano de Moda Femenina" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=116479645326079"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/69f007e21aff.webp" alt="Hoja de Plano de Moda Femenina" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=116479645326079)
 
 **Prompt:**
 
@@ -627,7 +675,9 @@ Hoja de plano de moda de [una joven elegante sentada en una moderna silla de sal
 
 **Descripción:** Cartel de scrapbook vertical soñador para un latte de pistacho y rosa coreano, ilustración de bebida en capas, anotaciones escritas a mano, polaroids, tarjetas de receta e ingredientes, en una paleta de café rosa y pistacho al estilo Pinterest.
 
-<a href="https://x.com/mylifcc/status/2057486709655543985#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bbc2a4fb5955.webp" alt="Cartel de Scrapbook de Latte de Pistacho y Rosa" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=206444665985365"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bbc2a4fb5955.webp" alt="Cartel de Scrapbook de Latte de Pistacho y Rosa" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=206444665985365)
 
 **Prompt:**
 
@@ -661,7 +711,9 @@ Restricciones: Mantén todo el texto legible y escrito a mano, preserva las tarj
 
 **Descripción:** Lindo infográfico japonés kawaii estilizado como un diagnóstico de personalidad de donut de personaje animal, con tarjetas pastel, un donut en forma de lobo, retrato anime enmarcado y texto de título japonés en letras burbuja.
 
-<a href="https://x.com/kiyu___K/status/2057465485621706897#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/77c92b20f590.webp" alt="Infografía de Diagnóstico de Donut Animal Kawaii" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=131705895712144"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/77c92b20f590.webp" alt="Infografía de Diagnóstico de Donut Animal Kawaii" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=131705895712144)
 
 **Prompt:**
 
@@ -696,7 +748,9 @@ Restricciones: Usa exactamente 5 tarjetas de información, exactamente 4 viñeta
 
 **Descripción:** Hoja de trabajo imprimible A4 para pintar por números con arte lineal en blanco y negro de una dramática ola de estilo japonés, diez regiones de pintura numeradas y una limpia leyenda de colores horizontal.
 
-<a href="https://x.com/NingKrysta45057/status/2057426499033055629#reversed-3"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09da48062270.webp" alt="Hoja de Trabajo para Pintar por Números de Ola del Océano" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=10833115882096"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09da48062270.webp" alt="Hoja de Trabajo para Pintar por Números de Ola del Océano" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=10833115882096)
 
 **Prompt:**
 
@@ -712,7 +766,9 @@ Crea una hoja de trabajo imprimible para pintar por números en una página A4 e
 
 **Descripción:** Hoja de trabajo imprimible A4 para pintar por números que presenta un loro tropical posado entre grandes hojas de monstera, con diez regiones de pintura numeradas y una leyenda horizontal de ocho colores abajo.
 
-<a href="https://x.com/NingKrysta45057/status/2057426499033055629#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/7c10256f1401.webp" alt="Hoja de Trabajo para Pintar por Números de Loro Tropical" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=136408789357569"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/7c10256f1401.webp" alt="Hoja de Trabajo para Pintar por Números de Loro Tropical" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=136408789357569)
 
 **Prompt:**
 
@@ -738,7 +794,9 @@ Estilo visual: Estética de hoja de trabajo vectorial mínima, contornos negros 
 
 **Descripción:** Infografía estilo cuaderno de bocetos hiper detallada que mezcla tinta, acuarela y garabatos basada en una foto de referencia, con retratos, versiones chibi, escenas, frases y notas personales sobre la personalidad.
 
-<a href="https://x.com/Shorelyn_/status/2057394913730494496"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/05fb0c2d1545.webp" alt="Infografía del Cuaderno de Bocetos Personal" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=6575799211333"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/05fb0c2d1545.webp" alt="Infografía del Cuaderno de Bocetos Personal" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=6575799211333)
 
 **Prompt:**
 
@@ -774,7 +832,9 @@ Agregando pequeños garabatos, estrellas, símbolos, adhesivos relacionados con 
 
 **Descripción:** Hoja de plano de moda ultra detallada de una chica de streetwear ciberpunk futurista con un bob plateado, chaqueta bomber holográfica, accesorios neón y anotaciones etiquetadas sobre un fondo de estudio limpio.
 
-<a href="https://x.com/ZephyraLeigh/status/2057342945901326769"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/80e7f5c0ba6a.webp" alt="Plano de Moda de Streetwear Ciberpunk" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=141733748849258"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/80e7f5c0ba6a.webp" alt="Plano de Moda de Streetwear Ciberpunk" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=141733748849258)
 
 **Prompt:**
 
@@ -792,7 +852,9 @@ Rodeando el modelo hay elementos infográficos de moda, flechas, etiquetas tipog
 
 **Descripción:** Objeto fotorrealista renderizado sobre fondo blanco puro con anotaciones técnicas en tinta negra dibujadas a mano superpuestas, incluyendo etiquetas, dimensiones, vistas explosivas, flechas direccionales y pequeños diagramas esquemáticos.
 
-<a href="https://x.com/iamaiistudio/status/2057221295557996876"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09721f308f9b.webp" alt="Infografía Técnica de Objeto Anotado" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=10385754197915"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09721f308f9b.webp" alt="Infografía Técnica de Objeto Anotado" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=10385754197915)
 
 **Prompt:**
 
@@ -808,7 +870,9 @@ Diseña una imagen de estilo infográfico de [OBJECT] que fusione un renderizado
 
 **Descripción:** Amplio banner de anime de la alegre estudiante Sayori en un brillante aula soñadora con girasoles, impresiones de fotos colgadas, decoraciones de álbum de recortes y gran tipografía decorativa escrita a mano en la derecha.
 
-<a href="https://x.com/Anifun_AI/status/2057413690677481574"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/71caecbe50b5.webp" alt="Banner de Anime en el Aula de Sayori" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=125116369227957"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/71caecbe50b5.webp" alt="Banner de Anime en el Aula de Sayori" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=125116369227957)
 
 **Prompt:**
 
@@ -824,7 +888,9 @@ Una amplia ilustración de banner de anime de [Sayori] en un brillante y soñado
 
 **Descripción:** Imagen fotorealista estilo selfie de 16:9 dentro de un compartimento de tren nocturno, con un tren ÖBB rojo pasando rápidamente por vías paralelas y un exterior alpino iluminado por la luna.
 
-<a href="https://x.com/mschneekluth/status/2056790621092806810#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/621d99777d6f.webp" alt="Miniatura de Selfie en Tren Nocturno" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=107879268318575"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/621d99777d6f.webp" alt="Miniatura de Selfie en Tren Nocturno" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=107879268318575)
 
 **Prompt:**
 
@@ -840,7 +906,9 @@ Crea una miniatura de YouTube en estilo selfie de 16:9, fotorealista, tomada den
 
 **Descripción:** Banner japonés 16:9 para redes sociales que compara tres herramientas de generación de imágenes AI con tarjetas blancas redondeadas, encabezado en negrita, íconos 3D brillantes y un presentador sosteniendo tres teléfonos de ejemplo.
 
-<a href="https://x.com/Aibow06/status/2056693503405801864#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/895ec18a8e3a.webp" alt="Miniatura de Comparación de Herramientas de Imagen AI Japonesas" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=151040067014202"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/895ec18a8e3a.webp" alt="Miniatura de Comparación de Herramientas de Imagen AI Japonesas" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=151040067014202)
 
 **Prompt:**
 
@@ -870,7 +938,9 @@ Estilo visual: Miniatura de creador japonés, infografía moderna, rectángulos 
 
 **Descripción:** Plantilla genérica de miniatura clickeable de YouTube con marcadores estructurados para sujeto, expresión, composición, iluminación, jerarquía de color, fondo y estilo, optimizada para ser ultra-legible en feeds sociales de tamaño pequeño.
 
-<a href="https://x.com/GlitterPixely/status/2056693223536435221"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/16da7b40be31.webp" alt="Plantilla de Miniatura Clickeable de YouTube" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=25127626522161"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/16da7b40be31.webp" alt="Plantilla de Miniatura Clickeable de YouTube" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=25127626522161)
 
 **Prompt:**
 
@@ -886,7 +956,9 @@ Crea una miniatura de YouTube altamente clickeable. SUJETO: [personaje/objeto/pr
 
 **Descripción:** Póster de leyenda del fútbol anime ultra detallado con un jugador de fútbol dinámico corriendo, camiseta roja y negra inspirada en el AC Milan, dramáticas luces de inundación del estadio, efectos de acción al estilo manga y tipografía en katakana audaz.
 
-<a href="https://x.com/Taaruk_/status/2056410687044497826"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/763ceb5c6e6b.webp" alt="Póster Cinemático de Leyenda del Fútbol Anime" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=130004018818667"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/763ceb5c6e6b.webp" alt="Póster Cinemático de Leyenda del Fútbol Anime" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=130004018818667)
 
 **Prompt:**
 
@@ -902,7 +974,9 @@ Póster de leyenda del fútbol anime ultra detallado, ilustración cinematográf
 
 **Descripción:** Collage de moda anime de tres paneles de chicas estilosas inspiradas en K-pop, cada panel representado en un tema neón emocional distinto: sueño rosa pastel, ciber azul eléctrico y medianoche roja oscura.
 
-<a href="https://x.com/Mind_Boticni/status/2056385033242607771"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/751ea7210564.webp" alt="Collage de Moda K-Pop Neón de Tres Paneles" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=128774513427812"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/751ea7210564.webp" alt="Collage de Moda K-Pop Neón de Tres Paneles" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=128774513427812)
 
 **Prompt:**
 
@@ -932,7 +1006,9 @@ diseño lado a lado sin costuras, composición equilibrada, transición de color
 
 **Descripción:** Banner horizontal amplio de ídolo pop de anime kawaii con una alegre chica de coletas sosteniendo un micrófono brillante, rodeada de pegatinas decora-kei en colores de caramelo, destellos, corazones y burbujas de diálogo al estilo cómic.
 
-<a href="https://x.com/Toshi_nyaruo_AI/status/2056303856695603540"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63485bf82b70.webp" alt="Banner de Ídolo Pop Anime Kawaii" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=109162431785840"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63485bf82b70.webp" alt="Banner de Ídolo Pop Anime Kawaii" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=109162431785840)
 
 **Prompt:**
 
@@ -952,7 +1028,9 @@ ilustración de ídolo pop de anime kawaii ultra colorida, retrato de cuerpo sup
 
 **Descripción:** Foto de cita en café estilo teléfono inteligente 16:9 con un hombre guapo coreano, latte y pastel en la mesa, luz suave de la ventana, y grandes textos centrales en blanco para la hora y el título.
 
-<a href="https://x.com/KudouCraft/status/2055984235006263688"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/72b199bc19d7.webp" alt="Superposición de Foto de Cita en el Café con Teléfono Inteligente" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=126107114019287"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/72b199bc19d7.webp" alt="Superposición de Foto de Cita en el Café con Teléfono Inteligente" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=126107114019287)
 
 **Prompt:**
 
@@ -968,7 +1046,9 @@ Coloca una foto grande y realista de un teléfono inteligente de una cita sentad
 
 **Descripción:** Póster de anime vertical inspirado en Attack on Titan, con una chica desgastada por la batalla en equipo militar táctico frente a una ciudad en ruinas, silueta de titán distante y tipografía editorial japonesa premium.
 
-<a href="https://x.com/Shorelyn_/status/2055968745819111708"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/199c1a0c6b54.webp" alt="Póster de Anime Inspirado en Attack on Titan" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=28158242614100"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/199c1a0c6b54.webp" alt="Póster de Anime Inspirado en Attack on Titan" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=28158242614100)
 
 **Prompt:**
 
@@ -997,7 +1077,9 @@ La paleta de colores debe combinar tonos de carbón ahumado, cálidos destellos 
 
 **Descripción:** Cartel vertical de vlog de viaje chibi con adorables mini personajes explorando tipografía gigante 3D de nombre-de-la-ciudad llena de fotografía de monumentos, sellos de viaje, tipografía de pincel y elementos brillantes de collage de vacaciones.
 
-<a href="https://x.com/Taaruk_/status/2055325558020673638"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e8e61989095f.webp" alt="Cartel de Tipografía de Ciudad de Vlog de Viaje Chibi" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=256074968533343"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e8e61989095f.webp" alt="Cartel de Tipografía de Ciudad de Vlog de Viaje Chibi" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=256074968533343)
 
 **Prompt:**
 
@@ -1013,7 +1095,9 @@ Diseño de cartel de vlog de viaje chibi lindo que presenta [adorables mini viaj
 
 **Descripción:** Miniatura amplia de variedades de YouTube japonés con tres mujeres en trajes de baño de una sola pieza competitivos de pie en una piscina pública al aire libre soleada, rostros pixelados y audaces subtítulos de programa de variedades japonés.
 
-<a href="https://x.com/TomaAIbijo/status/2055297958237884531#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4afb0258f701.webp" alt="Miniatura de Entrevista en la Piscina Japonesa" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=82441936631553"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4afb0258f701.webp" alt="Miniatura de Entrevista en la Piscina Japonesa" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=82441936631553)
 
 **Prompt:**
 
@@ -1039,7 +1123,9 @@ Estilo visual: Toma fotorealista de cámara, composición documental de gran ang
 
 **Descripción:** Captura de pantalla ultra-realista y espontánea de una aficionada del Bayern Munich en una camiseta roja viendo el partido desde las gradas, con una superposición del marcador final en la esquina superior izquierda.
 
-<a href="https://x.com/I_Yamada_AI/status/2055283575864619339"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ccda315833ff.webp" alt="Captura de Pantalla de Aficionado en Transmisión de Fútbol" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=225237502800895"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ccda315833ff.webp" alt="Captura de Pantalla de Aficionado en Transmisión de Fútbol" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=225237502800895)
 
 **Prompt:**
 
@@ -1055,7 +1141,9 @@ Usa la imagen de referencia subida de la mujer como la identidad más fuerte y a
 
 **Descripción:** Toma de establecimiento cinematográfica 2.5D de la soleada Nicosia, Chipre, renderizada con realismo estilizado, luz solar volumétrica, profundidad de campo, grano de película y movimiento de cámara cinematográfico para una secuencia de apertura.
 
-<a href="https://x.com/farm_ion/status/2055275272400695448"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4505354df90.webp" alt="Toma de Establecimiento de la Laguna Azul de Nicosia 2.5D" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=251033646587792"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4505354df90.webp" alt="Toma de Establecimiento de la Laguna Azul de Nicosia 2.5D" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=251033646587792)
 
 **Prompt:**
 
@@ -1077,7 +1165,9 @@ Soleada Nicosia Chipre
 
 **Descripción:** Cartel vertical vibrante de aventura 3D de un valiente pequeño explorador de dibujos animados rodeado de hojas tropicales gigantes, flores exóticas, loros, un cachorro de tigre, una cascada y tipografía de degradado gruesa.
 
-<a href="https://x.com/92digitalartArt/status/2054948614128980060"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/759ba971c602.webp" alt="Cartel de Aventura 3D en la Jungla Tropical" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=129311423186434"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/759ba971c602.webp" alt="Cartel de Aventura 3D en la Jungla Tropical" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=129311423186434)
 
 **Prompt:**
 
@@ -1093,7 +1183,9 @@ Un cartel vertical salvajamente colorido y aventurero que estalla con la energí
 
 **Descripción:** Escena cinematográfica vertical de un estudio de radio nocturno con una muñeca femenina de articulaciones esféricas usando auriculares en un escritorio de transmisión, ciudad neón lluviosa de Tokio visible a través de la ventana detrás.
 
-<a href="https://x.com/aisuruai2023/status/2054140097382248815#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6b7449fa4f8e.webp" alt="Estudio de Muñeca Presentadora de Radio Nocturna" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=118147201519502"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6b7449fa4f8e.webp" alt="Estudio de Muñeca Presentadora de Radio Nocturna" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=118147201519502)
 
 **Prompt:**
 
@@ -1109,7 +1201,9 @@ Crea una escena cinematográfica fotorrealista de un estudio de radio nocturno e
 
 **Descripción:** Tarjeta de storyboard de anime cinematográfico panorámico 16:9 con un encabezado de guion negro y una cuadrícula de 10 paneles que representa una despedida agridulce en la azotea al atardecer, completa con códigos de tiempo y líneas de voz.
 
-<a href="https://x.com/ItsmeRopes/status/2057565020670595315#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/dc64e329daec.webp" alt="Promesa del Atardecer Anime Storyboard" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=242325866011372"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/dc64e329daec.webp" alt="Promesa del Atardecer Anime Storyboard" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=242325866011372)
 
 **Prompt:**
 
@@ -1147,7 +1241,9 @@ Estilo visual: Arte clave de anime de alta detalle, iluminación cinematográfic
 
 **Descripción:** Hoja de diseño de personajes en estilo 3D de Pixar sobre un fondo blanco con dos personajes uno al lado del otro, un título en pincelada y un subtítulo ingenioso para una breve historia animada.
 
-<a href="https://x.com/TechieBySA/status/2057511465884557754"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/90b32be54bd7.webp" alt="Hoja de Diseño de Personajes al Estilo Pixar" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=159099209993175"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/90b32be54bd7.webp" alt="Hoja de Diseño de Personajes al Estilo Pixar" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=159099209993175)
 
 **Prompt:**
 
@@ -1163,7 +1259,9 @@ Crea una hoja de diseño de personajes en estilo 3D de Pixar. Fondo blanco limpi
 
 **Descripción:** Cartel vertical de revista inspirado en Evangelion con un chico adolescente en primer plano y un gigante mecha Unit-01 púrpura surgiendo de escombros, acompañado de tipografía serif de lujo y rayos de energía violeta.
 
-<a href="https://x.com/busyddd/status/2057509830995394595#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b6fbe8856aaf.webp" alt="Cartel de Revista Evangelion" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=201193054104239"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b6fbe8856aaf.webp" alt="Cartel de Revista Evangelion" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=201193054104239)
 
 **Prompt:**
 
@@ -1193,7 +1291,9 @@ Restricciones: Sin personajes adicionales, sin mechas adicionales, sin globos de
 
 **Descripción:** Retrato vertical cinematográfico de un niño tranquilo con gafas apoyado contra una pared oscura de callejón, con una enorme sombra amenazante con forma de lobo proyectándose detrás de él en cálida luz dorada.
 
-<a href="https://x.com/drzubi01/status/2057494083795615752#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4e20e2c13747.webp" alt="Retrato de Niño con Sombra de Lobo en Callejón" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=85903150233415"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4e20e2c13747.webp" alt="Retrato de Niño con Sombra de Lobo en Callejón" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=85903150233415)
 
 **Prompt:**
 
@@ -1209,7 +1309,9 @@ Crea un retrato vertical cinematográfico de un niño pequeño con [cabello riza
 
 **Descripción:** Épico tablero de personajes cinematográficos del mundo desértico con escala monumental, tormentas de polvo dorado, giro de cuerpo completo, primeros planos íntimos, desgloses de trajes tácticos y realismo atmosférico de ciencia ficción de prestigio que recuerda a documentos de presentación de películas de lujo.
 
-<a href="https://x.com/Mind_Boticni/status/2057441467963175088"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63007a2aa680.webp" alt="Tablero de Personajes Cinematográficos del Mundo Desértico" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=108853700765312"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63007a2aa680.webp" alt="Tablero de Personajes Cinematográficos del Mundo Desértico" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=108853700765312)
 
 **Prompt:**
 
@@ -1225,7 +1327,9 @@ Un épico [mundo-desértico] tablero de personajes cinematográficos con una esc
 
 **Descripción:** Retrato artístico en estilo boceto de un joven con gafas de sol, combinando trabajo de línea en lápiz y tinta con sombreado en acuarela, marcos geométricos, salpicaduras de tinta y tipografía escrita a mano sobre papel texturizado.
 
-<a href="https://x.com/iamsofiaijaz/status/2057440838033252767"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6f5124db184d.webp" alt="Retrato en Boceto de Técnica Mixta" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=122394301372493"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6f5124db184d.webp" alt="Retrato en Boceto de Técnica Mixta" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=122394301372493)
 
 **Prompt:**
 
@@ -1241,7 +1345,9 @@ Crea un retrato artístico único en estilo boceto de un [hombre joven moderno] 
 
 **Descripción:** Ilustración de anime en primer plano cinematográfico de una tímida estudiante asomándose hacia el espectador desde una cama, tomada con una perspectiva de gran angular extremo en un acogedor interior de habitación iluminada por el crepúsculo.
 
-<a href="https://x.com/jpn_eagle/status/2057437685686706467#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/aa66d009ab1f.webp" alt="Primer Plano de Estudiante de Anime en su Habitación" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=187358553680671"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/aa66d009ab1f.webp" alt="Primer Plano de Estudiante de Anime en su Habitación" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=187358553680671)
 
 **Prompt:**
 
@@ -1257,7 +1363,9 @@ Crea una ilustración de anime en primer plano cinematográfico de [una tímida 
 
 **Descripción:** Hoja de diseño de personaje estilo diario estético para Ruzaina, combinando poses semi-realistas y chibi con notas de personalidad escritas a mano, muestras de colores, notas adhesivas y una vibra cálida de scrapbook de webtoon coreano.
 
-<a href="https://x.com/RuzainaMeer/status/2057398827901137404"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/942e392ab57c.webp" alt="Hoja de Diseño de Personaje Ruzaina" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=162926248506748"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/942e392ab57c.webp" alt="Hoja de Diseño de Personaje Ruzaina" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=162926248506748)
 
 **Prompt:**
 
@@ -1294,7 +1402,9 @@ Estilo artístico: mezcla semi-realista + chibi, líneas de boceto suaves, tonos
 
 **Descripción:** Página de jutsu de invocación al estilo Shonen-manga que representa el momento en que una criatura gigante contratada emerge de un explosivo humo blanco y un círculo ritual, con líneas de enfoque, escombros y onomatopeyas de manga.
 
-<a href="https://x.com/Eris_Create_Lab/status/2057393463138873789"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4b35450e2116.webp" alt="Página de Manga Jutsu de Invocación" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=82692163903766"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4b35450e2116.webp" alt="Página de Manga Jutsu de Invocación" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=82692163903766)
 
 **Prompt:**
 
@@ -1310,7 +1420,9 @@ Usando el personaje de la imagen de referencia, representa el momento en que se 
 
 **Descripción:** Atrevida portada vertical de revista de streetwear para HER19845, modelo de cuerpo completo en moda hip-hop rebelde de los 90 frente a una tipografía de fondo gigante en degradado HER19845 y texturas de fanzine.
 
-<a href="https://x.com/her19845/status/2057569603388059833#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ec3e307d7c76.webp" alt="Portada de Revista de Streetwear HER19845" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=259751845657718"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ec3e307d7c76.webp" alt="Portada de Revista de Streetwear HER19845" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=259751845657718)
 
 **Prompt:**
 
@@ -1338,7 +1450,9 @@ Restricciones: Sin caracteres adicionales, sin texto extra más allá de los 9 e
 
 **Descripción:** Cartel de campaña de moda urbana vertical para un lanzamiento de edición limitada de HER19845, modelo de cuerpo completo en sudadera gráfica negra de gran tamaño y pantalones de chándal contra una tipografía de encabezado gigante en rosa intenso sobre fondo blanco roto.
 
-<a href="https://x.com/her19845/status/2057569603388059833#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2aadac39b559.webp" alt="Cartel de Campaña de Lanzamiento de Sudadera HER19845" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=46925407171929"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2aadac39b559.webp" alt="Cartel de Campaña de Lanzamiento de Sudadera HER19845" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=46925407171929)
 
 **Prompt:**
 
@@ -1366,7 +1480,9 @@ Restricciones: Usa exactamente los grupos de texto y símbolos listados, evita a
 
 **Descripción:** Collage vertical de retrato de alta costura de un modelo con gafas de sol oscuras, con cuatro paneles de tiras de película en blanco y negro superpuestos detrás de un recorte de silueta vibrante de camiseta amarilla del mismo modelo en primer plano.
 
-<a href="https://x.com/her19845/status/2057475917174190253"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e013489b1993.webp" alt="Collage de Alta Costura en Tiras de Película" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=246373427124627"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e013489b1993.webp" alt="Collage de Alta Costura en Tiras de Película" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=246373427124627)
 
 **Prompt:**
 
@@ -1382,7 +1498,9 @@ Utiliza la foto de referencia subida del modelo sin ninguna modificación. Las c
 
 **Descripción:** Collage de anuncio de comida rápida cinematográfica de lujo que presenta a tres hermosas jóvenes chefs presentando pizza con queso, una hamburguesa gourmet jugosa y un sándwich asado, con tipografía elegante y un ambiente de cocina dorada premium.
 
-<a href="https://x.com/veylorvisions/status/2057461617487651311"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/a925bd188e20.webp" alt="Collage de Anuncio de Chef de Comida Rápida Cinematográfica" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=185979551387168"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/a925bd188e20.webp" alt="Collage de Anuncio de Chef de Comida Rápida Cinematográfica" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=185979551387168)
 
 **Prompt:**
 
@@ -1406,7 +1524,9 @@ Diseño de cartel viral de Instagram/X, campaña de comida cinematográfica, gr�
 
 **Descripción:** Collage de editorial callejero coreano Y2K audaz con un gran retrato cinematográfico arriba de dos marcos de polaroid rasgados, tipografía coreana de gran tamaño, cinta washi, etiquetas de código de barras y texturas de fanzine ásperas.
 
-<a href="https://x.com/her19845/status/2057430332773662929"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4a5bb6b8b352.webp" alt="Collage Editorial Callejero Coreano Y2K" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=81757768037202"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4a5bb6b8b352.webp" alt="Collage Editorial Callejero Coreano Y2K" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=81757768037202)
 
 **Prompt:**
 
@@ -1422,7 +1542,9 @@ Crea un [collage de editorial callejero coreano Y2K audaz] con una estética lim
 
 **Descripción:** Fotografía dramática en blanco y negro de alta costura de una mujer girando mientras corre a través de un túnel metálico futurista y simétrico, capturada con flash directo, desenfoque de movimiento y audaz energía editorial.
 
-<a href="https://x.com/bmx_ai13/status/2057406799037464659"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/53748ef4f5bd.webp" alt="Movimiento en Túnel de Moda en Blanco y Negro" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=91760079730109"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/53748ef4f5bd.webp" alt="Movimiento en Túnel de Moda en Blanco y Negro" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=91760079730109)
 
 **Prompt:**
 
@@ -1438,7 +1560,9 @@ Una [mujer de alta costura] girando dramáticamente mientras corre a través de 
 
 **Descripción:** Fotografía de campaña de moda desde un ángulo bajo de una modelo segura sosteniendo un gran producto justo frente a la lente de la cámara con una perspectiva forzada extrema sobre un fondo de estudio blanco puro y de alto clave.
 
-<a href="https://x.com/iamaiistudio/status/2057402771599700081"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/119c2c1d9e51.webp" alt="Campaña de Producto con Perspectiva Forzada" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=19362452708945"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/119c2c1d9e51.webp" alt="Campaña de Producto con Perspectiva Forzada" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=19362452708945)
 
 **Prompt:**
 
@@ -1454,7 +1578,9 @@ Fotografía de campaña de moda desde un ángulo bajo de una modelo segura soste
 
 **Descripción:** Publicidad de producto premium hiperrealista de un modelo apoyándose casualmente contra un enorme zueco de confort futurista, con tipografía vertical masiva sobre un fondo limpio de degradado azul cielo a lavanda.
 
-<a href="https://x.com/iamaiistudio/status/2057281549851377866"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/893d1336333a.webp" alt="Anuncio de Producto Minimalista de Zueco de Confort" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=150895408329530"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/893d1336333a.webp" alt="Anuncio de Producto Minimalista de Zueco de Confort" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=150895408329530)
 
 **Prompt:**
 
@@ -1480,7 +1606,9 @@ Estilo: minimalismo ultra limpio al estilo de Apple combinado con una campaña d
 
 **Descripción:** Gráfico de camiseta audaz con fondo transparente de un platillo volador 3D cromado proyectando un haz magenta sobre una pequeña silueta, con el título PRIMER CONTACTO en una fuente de exhibición futurista.
 
-<a href="https://x.com/92digitalartArt/status/2057141494729830591"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/cb36be49bac8.webp" alt="Gráfico de Camiseta OVNI Primer Contacto" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=223435981175496"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/cb36be49bac8.webp" alt="Gráfico de Camiseta OVNI Primer Contacto" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=223435981175496)
 
 **Prompt:**
 
@@ -1496,7 +1624,9 @@ Un [gráfico de camiseta premium de cultura pop nerd] aislado en completa transp
 
 **Descripción:** Foto de producto cálida y minimalista en estudio con superposición de garabatos de línea blanca dibujada a mano de un personaje interactuando con el producto, combinando fotografía real e ilustración a lápiz para una sensación de marca de alta gama.
 
-<a href="https://x.com/MissDelulu9/status/2056646177106567563"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/70f2ca113a4a.webp" alt="Foto de Producto Minimalista con Garabatos" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=124188074523210"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/70f2ca113a4a.webp" alt="Foto de Producto Minimalista con Garabatos" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=124188074523210)
 
 **Prompt:**
 
@@ -1512,7 +1642,9 @@ Un [gráfico de camiseta premium de cultura pop nerd] aislado en completa transp
 
 **Descripción:** Foto de una lujosa caja de chocolatier de edición limitada en rosa pastel con diez chocolates ornamentados dispuestos en una cuadrícula, una tapa impresa con retrato, lazo de satén, encaje, perlas y estilo en oro rosa.
 
-<a href="https://x.com/pochiina/status/2056424531250823669#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/c5c0ae49d15f.webp" alt="Caja de Regalo de Chocolate Rosa Pastel" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=217431348466015"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/c5c0ae49d15f.webp" alt="Caja de Regalo de Chocolate Rosa Pastel" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=217431348466015)
 
 **Prompt:**
 
@@ -1528,7 +1660,9 @@ Crea una lujosa foto de producto de una caja de regalo de chocolate de edición 
 
 **Descripción:** Exhibición de productos de moda 3D premium en forma de cuadrado flotando exactamente nueve artículos de lujo que incluyen una gorra, zapatillas, camisetas, reloj, gafas de sol, bolsa, mochila y zapatos sobre pedestales de mármol oscuro.
 
-<a href="https://x.com/abs_uiux/status/2056401853475094759#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b86a012d0eb3.webp" alt="Exhibición de Productos de Moda 3D de Lujo" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=202765425774259"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b86a012d0eb3.webp" alt="Exhibición de Productos de Moda 3D de Lujo" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=202765425774259)
 
 **Prompt:**
 
@@ -1544,7 +1678,9 @@ Crea una exhibición de productos de moda 3D premium en forma de cuadrado que pr
 
 **Descripción:** Anuncio surrealista vertical de Coca-Cola con una lata roja fría sobre un fondo rojo profundo, una cremallera plateada que se abre a través del marco para revelar mundos contrastantes de atardecer y montañas heladas.
 
-<a href="https://x.com/GeneratePrompt/status/2055757582757712230#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bf1fa79df0c9.webp" alt="Anuncio Conceptual de Cremallera Coca-Cola" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=210142677037257"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bf1fa79df0c9.webp" alt="Anuncio Conceptual de Cremallera Coca-Cola" width="640" /></a>
+
+[![▶ Pruébalo ahora](https://img.shields.io/badge/%E2%96%B6%20Pru%C3%A9balo%20ahora-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=210142677037257)
 
 **Prompt:**
 

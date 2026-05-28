@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/banner.webp" alt="Awesome GPT Image 2 Prompts" width="100%" />
+<a href="https://www.cuty.ai/prompts/gpt-image-2"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/banner.webp" alt="Awesome GPT Image 2 Prompts" width="100%" /></a>
 
 # 🖼️ Awesome GPT Image 2 Prompts
 
@@ -57,7 +57,9 @@ What it does exceptionally well:
 
 **Description:** Stylized 3D cartoon portrait with extremely exaggerated comic-effect proportions, oversized features, bold expressions, soft matte materials, and a saturated gradient background for strong visual contrast.
 
-<a href="https://x.com/salihsanal/status/2057741572666445999"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/f43d70dc026c.webp" alt="Exaggerated 3D CGI Cartoon Portrait" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=268544723649132"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/f43d70dc026c.webp" alt="Exaggerated 3D CGI Cartoon Portrait" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=268544723649132)
 
 **Prompt:**
 
@@ -73,7 +75,9 @@ Extreme 3D CGI cartoon of [character] extremely exaggerated proportions and over
 
 **Description:** A young woman with wavy hair on a cream sofa in a sunlit minimalist living room, face covered by a privacy block for an airy Japanese/Korean apartment aesthetic.
 
-<a href="https://x.com/SusumuMind/status/2057586669839331576#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b68deb650095.webp" alt="Cozy Morning Lifestyle Portrait with Privacy Block" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=200720655909013"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b68deb650095.webp" alt="Cozy Morning Lifestyle Portrait with Privacy Block" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=200720655909013)
 
 **Prompt:**
 
@@ -89,7 +93,9 @@ Create a soft, photorealistic lifestyle portrait in a bright minimalist living r
 
 **Description:** Sophisticated studio portrait of a woman turned away from camera, looking confidently over her shoulder, with dramatic side lighting against a solid color background.
 
-<a href="https://x.com/ChillaiKalan__/status/2057542507928736240"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4bdcbfc2734b.webp" alt="Over-the-Shoulder Studio Portrait" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=83411482080075"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4bdcbfc2734b.webp" alt="Over-the-Shoulder Studio Portrait" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=83411482080075)
 
 **Prompt:**
 
@@ -105,7 +111,9 @@ A young woman with long, [dark] hair and striking [cat-eye glasses] is captured 
 
 **Description:** Wide-angle perspective close-up where the character's face is brought extremely close to the screen, exaggerating one feature like an eye or ear for comedic distortion.
 
-<a href="https://x.com/challenger_ND/status/2057466141174612455"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/421379eb2a03.webp" alt="Wide-Angle Exaggerated Face Close-Up" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=72651417266691"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/421379eb2a03.webp" alt="Wide-Angle Exaggerated Face Close-Up" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=72651417266691)
 
 **Prompt:**
 
@@ -121,7 +129,9 @@ Wide-angle style. The character brings their face extremely close to the screen.
 
 **Description:** Vertical bust portrait of a schoolgirl in a white summer uniform biting a strawberry by the window, rendered in soft pastel film style with shallow depth of field.
 
-<a href="https://x.com/CyberTotal2026/status/2057465950275010685"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1cdee044649a.webp" alt="Soft Film Schoolgirl with Strawberry" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=31743570896026"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1cdee044649a.webp" alt="Soft Film Schoolgirl with Strawberry" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=31743570896026)
 
 **Prompt:**
 
@@ -137,7 +147,9 @@ Subject: [strawberry by the window]. Person/Expression: woman, natural long blac
 
 **Description:** Cinematic 8K editorial portrait of a man in a black turtleneck and tailored blazer, lit with luxury GQ-style 85mm bokeh against a dark emerald studio gradient.
 
-<a href="https://x.com/iamaiistudio/status/2057463278608252933"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/34a2247a2dbc.webp" alt="Quiet Wealth Male Editorial Portrait" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=57871001333180"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/34a2247a2dbc.webp" alt="Quiet Wealth Male Editorial Portrait" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=57871001333180)
 
 **Prompt:**
 
@@ -161,7 +173,9 @@ Grade: premium GQ magazine color treatment, luxury fashion campaign feel, hyper-
 
 **Description:** Four-panel selfie collage of a young woman in an oversized gray sweater and skirt on a bed, face softly blurred, set in a cozy warm minimalist bedroom.
 
-<a href="https://x.com/kasu_mi_ai/status/2057424172842946815#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/d8824f5c7e2a.webp" alt="Cozy 2x2 Bedroom Selfie Collage" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=238054188809770"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/d8824f5c7e2a.webp" alt="Cozy 2x2 Bedroom Selfie Collage" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=238054188809770)
 
 **Prompt:**
 
@@ -177,7 +191,9 @@ Create a realistic 2x2 collage of four soft indoor selfie-style portraits of the
 
 **Description:** Hyper-realistic black-and-white cinematic portrait with long-exposure light streaks behind a subject whose face is partially obscured by sweeping hair strands and lateral motion blur.
 
-<a href="https://x.com/aidetool/status/2057406992642445720"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/24accc190b1d.webp" alt="Cinematic Motion-Blur Black & White Portrait" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=40324577168157"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/24accc190b1d.webp" alt="Cinematic Motion-Blur Black & White Portrait" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=40324577168157)
 
 **Prompt:**
 
@@ -193,7 +209,9 @@ A hyper-realistic, cinematic black-and-white portrait of a [woman] caught in mid
 
 **Description:** Cinematic side-profile close-up of a woman gently lowering her head toward a dewy flower, lit by warm golden backlight against a blurred dark green natural background.
 
-<a href="https://x.com/Shinning1010/status/2057332420383494441"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/245f53cc546c.webp" alt="Dreamy Side Profile with Lily" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=39991846392940"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/245f53cc546c.webp" alt="Dreamy Side Profile with Lily" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=39991846392940)
 
 **Prompt:**
 
@@ -211,7 +229,9 @@ Do not change the person’s identity. Do not copy the reference subject’s fac
 
 **Description:** Editorial four-panel grid collage of a woman in beige activewear across a marble kitchen, luxury bathroom, wellness corner, and bright cafe, shot in soft warm daylight.
 
-<a href="https://x.com/iamaiistudio/status/2057734834982879662"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/235dcee76026.webp" alt="Four-Panel Wellness Lifestyle Collage" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=38885810200614"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/235dcee76026.webp" alt="Four-Panel Wellness Lifestyle Collage" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=38885810200614)
 
 **Prompt:**
 
@@ -241,7 +261,9 @@ Final composition: a clean four-panel grid collage, sharp focus on the subject i
 
 **Description:** Dreamy 4x4 nostalgic film contact sheet of a young couple in casual summer outfits at night and by the sea, faces covered with soft blur rectangles.
 
-<a href="https://x.com/Anifun_AI/status/2057701330761007611"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/5cdbd1260157.webp" alt="Nostalgic 16-Photo Couple Contact Sheet" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=102099176522071"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/5cdbd1260157.webp" alt="Nostalgic 16-Photo Couple Contact Sheet" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=102099176522071)
 
 **Prompt:**
 
@@ -257,7 +279,9 @@ Final composition: a clean four-panel grid collage, sharp focus on the subject i
 
 **Description:** Fantasy bust portrait of a young woman with iridescent scale decorations and flowing water-like hair, set against a transparent underwater background with bubbles and soft reflected light.
 
-<a href="https://x.com/CyberTotal2026/status/2057610889722048546"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2c596fdee6d0.webp" alt="Ethereal Water Spirit Fantasy Portrait" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=48762640590544"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2c596fdee6d0.webp" alt="Ethereal Water Spirit Fantasy Portrait" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=48762640590544)
 
 **Prompt:**
 
@@ -285,7 +309,9 @@ Negative: Low quality, distorted face, unnatural eyes, excessively asymmetrical 
 
 **Description:** Beauty editorial close-up of a face holding a chamomile flower between the lips, with extreme dewy skin, intense pink blush, freckles, and soft frontal studio lighting.
 
-<a href="https://x.com/CHAseUnre/status/2057600345467990293"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1b47c913184c.webp" alt="Dewy Beauty Editorial Close-Up with Chamomile" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=29995130099788"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1b47c913184c.webp" alt="Dewy Beauty Editorial Close-Up with Chamomile" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=29995130099788)
 
 **Prompt:**
 
@@ -313,7 +339,9 @@ Negative: Low quality, distorted face, unnatural eyes, excessively asymmetrical 
 
 **Description:** Bold Y2K Japanese street-editorial collage poster with a large cinematic portrait, torn polaroid frames, oversized typography, washi tape, splattered ink, and gritty Tokyo zine textures.
 
-<a href="https://x.com/iamaiistudio/status/2057583921957941257"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3daf2504add4.webp" alt="Y2K Japanese Street Editorial Poster" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=67822449634772"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3daf2504add4.webp" alt="Y2K Japanese Street Editorial Poster" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=67822449634772)
 
 **Prompt:**
 
@@ -337,7 +365,9 @@ Mood: edgy but clean, modern Japanese fashion zine, cinematic shadows, razor-sha
 
 **Description:** Full-body anime illustration of a girl in elaborate gothic-lolita fashion standing in a dim Gothic cathedral corridor, shot from a dramatic low angle with cinematic moody lighting.
 
-<a href="https://x.com/momoka_AIIllust/status/2057567110759408054#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/fb74570bbaae.webp" alt="Gothic Lolita Cathedral Anime Illustration" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=276477095164590"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/fb74570bbaae.webp" alt="Gothic Lolita Cathedral Anime Illustration" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=276477095164590)
 
 **Prompt:**
 
@@ -353,7 +383,9 @@ Create a full-body anime-style fashion illustration of a young woman named [Momo
 
 **Description:** Photoreal portrait of the uploaded subject surrounded by five identical mini 3D chibi versions of themselves, each playfully interacting with the same scene, lighting, and props.
 
-<a href="https://x.com/miilesus/status/2057552449729450318"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/234f5edf2a08.webp" alt="Photoreal Portrait with Mini Chibi Companions" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=38823801072136"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/234f5edf2a08.webp" alt="Photoreal Portrait with Mini Chibi Companions" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=38823801072136)
 
 **Prompt:**
 
@@ -369,7 +401,9 @@ Create a hyper-realistic photo of the [uploaded person] in their exact current p
 
 **Description:** Retro 1955 Disney Tomorrowland-inspired streetwear illustration with a monorail circling an eagle-shaped Space Mountain, atomic starburst motifs, jetpacks, Googie architecture typography, and chrome mid-century futurism accents.
 
-<a href="https://x.com/nonameoasis/status/2057528295001088183"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3bca523bff76.webp" alt="Retro Tomorrowland Futurism Streetwear" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=65740149096310"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3bca523bff76.webp" alt="Retro Tomorrowland Futurism Streetwear" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=65740149096310)
 
 **Prompt:**
 
@@ -385,7 +419,9 @@ Create a hyper-realistic photo of the [uploaded person] in their exact current p
 
 **Description:** High-fashion anime cosplay magazine cover with a low-angle villain pose of Kibutsuji Muzan in a white fedora and cloak, refined serif typography, off-white studio background.
 
-<a href="https://x.com/busyddd/status/2057509830995394595#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/703311116c7e.webp" alt="Anime Villain Cosplay Magazine Cover" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=123364631997566"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/703311116c7e.webp" alt="Anime Villain Cosplay Magazine Cover" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=123364631997566)
 
 **Prompt:**
 
@@ -413,7 +449,9 @@ Constraints: Keep the face covered by the square blur, preserve the exact six te
 
 **Description:** Premium 4x3 sticker sheet of the same young woman in twelve different expressions, each shoulders-up portrait outlined with a thick white die-cut border on a neutral background.
 
-<a href="https://x.com/iamaiistudio/status/2057493355865714894"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/58dd72918f6d.webp" alt="12-Expression Portrait Sticker Sheet" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=97708133158765"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/58dd72918f6d.webp" alt="12-Expression Portrait Sticker Sheet" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=97708133158765)
 
 **Prompt:**
 
@@ -433,7 +471,9 @@ Same character identity across every sticker. Style: realistic digital photograp
 
 **Description:** Premium 4x3 sticker pack of one woman in different football jerseys, twelve expressive emoji-style poses, soft beige background, photoreal soft lighting, and thick white die-cut borders.
 
-<a href="https://x.com/iamsofiaijaz/status/2057485300818235561"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ed9e4257b130.webp" alt="Football Jersey Sticker Pack" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=261263973658928"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ed9e4257b130.webp" alt="Football Jersey Sticker Pack" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=261263973658928)
 
 **Prompt:**
 
@@ -479,7 +519,9 @@ Realistic digital photography style, ultra-detailed skin pores and hair strands,
 
 **Description:** Realistic portrait of a woman working in a cute pink creative office, surrounded by mini chibi versions of herself doing playful actions plus doodles and emoji overlays.
 
-<a href="https://x.com/heyfatema/status/2057476795830812985"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4966df6bb80.webp" alt="Pink Office Doodle Chibi Scene" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=251334741113728"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4966df6bb80.webp" alt="Pink Office Doodle Chibi Scene" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=251334741113728)
 
 **Prompt:**
 
@@ -495,7 +537,9 @@ Use the reference photo to create a realistic female character, soft smile, with
 
 **Description:** Cinematic wide-angle photo of an adventure motorcyclist and touring bikes at a mountain overlook, with a glowing golden holographic GPS map overlay projected onto the asphalt road.
 
-<a href="https://x.com/Ozayrr_irl/status/2057473247118316023"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/9bdacfe006af.webp" alt="Motorcycle Holographic Route Map" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=171364092741295"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/9bdacfe006af.webp" alt="Motorcycle Holographic Route Map" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=171364092741295)
 
 **Prompt:**
 
@@ -511,7 +555,9 @@ A cinematic, wide-angle photo of an adventure motorcyclist and two loaded tourin
 
 **Description:** Realistic 2x3 grid of one Japanese woman performing six labeled yoga poses in a minimal indoor studio with soft window light and natural smartphone-style photographic imperfections.
 
-<a href="https://x.com/craftian_keskin/status/2057526205092708404"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/335665b326ea.webp" alt="Six-Pose Yoga Lifestyle Grid" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=56446166443754"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/335665b326ea.webp" alt="Six-Pose Yoga Lifestyle Grid" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=56446166443754)
 
 **Prompt:**
 
@@ -611,7 +657,9 @@ A cinematic, wide-angle photo of an adventure motorcyclist and two loaded tourin
 
 **Description:** Editorial fashion blueprint sheet of an elegant woman in a tailored white suit, surrounded by callout labels, tailoring notes, fabric details, and high-end womenswear concept annotations.
 
-<a href="https://x.com/ZephyraLeigh/status/2057487393247367289"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/69f007e21aff.webp" alt="Womenswear Fashion Blueprint Sheet" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=116479645326079"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/69f007e21aff.webp" alt="Womenswear Fashion Blueprint Sheet" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=116479645326079)
 
 **Prompt:**
 
@@ -627,7 +675,9 @@ Fashion blueprint sheet of [an elegant young woman seated in a modern cream loun
 
 **Description:** Dreamy vertical scrapbook poster for a Korean pistachio rose latte, layered drink illustration, handwritten annotations, polaroids, recipe and ingredient cards, in a pink-and-pistachio Pinterest cafe palette.
 
-<a href="https://x.com/mylifcc/status/2057486709655543985#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bbc2a4fb5955.webp" alt="Pistachio Rose Latte Scrapbook Poster" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=206444665985365"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bbc2a4fb5955.webp" alt="Pistachio Rose Latte Scrapbook Poster" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=206444665985365)
 
 **Prompt:**
 
@@ -661,7 +711,9 @@ Constraints: Keep all text legible and hand-lettered, preserve the exact counted
 
 **Description:** Cute Japanese kawaii infographic styled as an animal-character donut personality diagnosis, with pastel cards, a wolf-shaped donut, framed anime portrait, and bubble-letter Japanese title text.
 
-<a href="https://x.com/kiyu___K/status/2057465485621706897#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/77c92b20f590.webp" alt="Kawaii Animal Donut Diagnosis Infographic" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=131705895712144"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/77c92b20f590.webp" alt="Kawaii Animal Donut Diagnosis Infographic" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=131705895712144)
 
 **Prompt:**
 
@@ -696,7 +748,9 @@ Constraints: Use exactly 5 information cards, exactly 4 bullets in the traits ca
 
 **Description:** Printable A4 paint-by-numbers worksheet with black-and-white line art of a dramatic Japanese-style ocean wave, ten numbered paint regions, and a clean horizontal color legend.
 
-<a href="https://x.com/NingKrysta45057/status/2057426499033055629#reversed-3"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09da48062270.webp" alt="Ocean Wave Paint-by-Numbers Worksheet" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=10833115882096"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09da48062270.webp" alt="Ocean Wave Paint-by-Numbers Worksheet" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=10833115882096)
 
 **Prompt:**
 
@@ -712,7 +766,9 @@ Create a printable paint-by-numbers worksheet on an A4 portrait page at 300 DPI.
 
 **Description:** Printable A4 paint-by-numbers worksheet featuring a tropical parrot perched among large monstera leaves, with ten numbered paint regions and an eight-color horizontal legend below.
 
-<a href="https://x.com/NingKrysta45057/status/2057426499033055629#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/7c10256f1401.webp" alt="Tropical Parrot Paint-by-Numbers Worksheet" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=136408789357569"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/7c10256f1401.webp" alt="Tropical Parrot Paint-by-Numbers Worksheet" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=136408789357569)
 
 **Prompt:**
 
@@ -738,7 +794,9 @@ Visual style: Minimal vector worksheet aesthetic, crisp black outlines, white fi
 
 **Description:** Hyper-detailed freestyle sketchbook-style infographic mixing ink, watercolor, and doodles based on a reference photo, with portraits, chibi versions, scenes, phrases, and personal notes about personality.
 
-<a href="https://x.com/Shorelyn_/status/2057394913730494496"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/05fb0c2d1545.webp" alt="Personal Sketchbook Infographic" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=6575799211333"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/05fb0c2d1545.webp" alt="Personal Sketchbook Infographic" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=6575799211333)
 
 **Prompt:**
 
@@ -774,7 +832,9 @@ Adding tiny doodles, stars, symbols, stickers related to my personal world.
 
 **Description:** Ultra-detailed fashion blueprint sheet of a futuristic cyberpunk streetwear girl with a silver bob, holographic bomber jacket, neon accessories, and labeled annotations on a clean studio background.
 
-<a href="https://x.com/ZephyraLeigh/status/2057342945901326769"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/80e7f5c0ba6a.webp" alt="Cyberpunk Streetwear Fashion Blueprint" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=141733748849258"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/80e7f5c0ba6a.webp" alt="Cyberpunk Streetwear Fashion Blueprint" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=141733748849258)
 
 **Prompt:**
 
@@ -792,7 +852,9 @@ Surrounding the model are fashion infographic elements, arrows, typography label
 
 **Description:** Photorealistic object rendered on pure white with hand-drawn black-ink technical annotations layered on top, including labels, dimensions, exploded views, directional arrows, and small schematic diagrams.
 
-<a href="https://x.com/iamaiistudio/status/2057221295557996876"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09721f308f9b.webp" alt="Annotated Object Technical Infographic" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=10385754197915"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09721f308f9b.webp" alt="Annotated Object Technical Infographic" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=10385754197915)
 
 **Prompt:**
 
@@ -808,7 +870,9 @@ Design an infographic-style image of [OBJECT] that fuses a photorealistic render
 
 **Description:** Wide anime banner of cheerful schoolgirl Sayori in a bright dreamy classroom with sunflowers, hanging photo prints, scrapbook decorations, and large decorative handwritten title typography on the right.
 
-<a href="https://x.com/Anifun_AI/status/2057413690677481574"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/71caecbe50b5.webp" alt="Sayori Classroom Anime Banner" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=125116369227957"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/71caecbe50b5.webp" alt="Sayori Classroom Anime Banner" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=125116369227957)
 
 **Prompt:**
 
@@ -824,7 +888,9 @@ A wide anime banner illustration of [Sayori] in a bright dreamy classroom, rende
 
 **Description:** Photorealistic 16:9 selfie-style image inside an overnight train sleeper compartment, with a red ÖBB train speeding past on parallel tracks and a moonlit alpine night exterior.
 
-<a href="https://x.com/mschneekluth/status/2056790621092806810#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/621d99777d6f.webp" alt="Sleeper Train Night Selfie Thumbnail" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=107879268318575"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/621d99777d6f.webp" alt="Sleeper Train Night Selfie Thumbnail" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=107879268318575)
 
 **Prompt:**
 
@@ -840,7 +906,9 @@ Create a photorealistic 16:9 YouTube thumbnail-style wide-angle selfie taken ins
 
 **Description:** Japanese 16:9 social-media banner comparing three AI image generation tools with rounded white cards, bold headline, glossy 3D icons, and a presenter holding three example phones.
 
-<a href="https://x.com/Aibow06/status/2056693503405801864#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/895ec18a8e3a.webp" alt="Japanese AI Image Tools Comparison Thumbnail" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=151040067014202"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/895ec18a8e3a.webp" alt="Japanese AI Image Tools Comparison Thumbnail" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=151040067014202)
 
 **Prompt:**
 
@@ -870,7 +938,9 @@ Visual style: Japanese creator thumbnail, modern infographic, clean rounded rect
 
 **Description:** Generic clickable YouTube thumbnail template with structured placeholders for subject, expression, composition, lighting, color hierarchy, background, and style, optimized for ultra-readable small-size social feeds.
 
-<a href="https://x.com/GlitterPixely/status/2056693223536435221"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/16da7b40be31.webp" alt="Clickable YouTube Thumbnail Template" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=25127626522161"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/16da7b40be31.webp" alt="Clickable YouTube Thumbnail Template" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=25127626522161)
 
 **Prompt:**
 
@@ -886,7 +956,9 @@ Create a highly clickable YouTube thumbnail. SUBJECT: [main character/object/per
 
 **Description:** Ultra-detailed anime football legend poster with a dynamic sprinting soccer player, red-black AC Milan-inspired jersey, dramatic stadium floodlights, manga-style action effects, and bold katakana typography.
 
-<a href="https://x.com/Taaruk_/status/2056410687044497826"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/763ceb5c6e6b.webp" alt="Anime Football Legend Cinematic Poster" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=130004018818667"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/763ceb5c6e6b.webp" alt="Anime Football Legend Cinematic Poster" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=130004018818667)
 
 **Prompt:**
 
@@ -902,7 +974,9 @@ Ultra-detailed anime football legend poster, cinematic sports illustration, dyna
 
 **Description:** Three-panel anime fashion collage of stylish K-pop inspired girls, each panel rendered in a distinct emotional neon theme: pastel pink dream, electric blue cyber, and dark red midnight.
 
-<a href="https://x.com/Mind_Boticni/status/2056385033242607771"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/751ea7210564.webp" alt="Three-Panel Neon K-Pop Fashion Collage" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=128774513427812"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/751ea7210564.webp" alt="Three-Panel Neon K-Pop Fashion Collage" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=128774513427812)
 
 **Prompt:**
 
@@ -932,7 +1006,9 @@ seamless side-by-side layout, balanced composition, smooth color transition acro
 
 **Description:** Wide horizontal kawaii anime pop-idol banner with a cheerful twin-tail girl holding a glittery microphone, surrounded by candy-colored decora-kei stickers, sparkles, hearts, and comic-style speech bubbles.
 
-<a href="https://x.com/Toshi_nyaruo_AI/status/2056303856695603540"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63485bf82b70.webp" alt="Kawaii Anime Pop Idol Banner" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=109162431785840"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63485bf82b70.webp" alt="Kawaii Anime Pop Idol Banner" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=109162431785840)
 
 **Prompt:**
 
@@ -952,7 +1028,9 @@ ultra colorful kawaii anime pop idol illustration, extreme close-up upper body p
 
 **Description:** 16:9 smartphone-style cafe-date photo with a Korean handsome man, latte and cake on the table, soft window light, and large central white time and title text overlays.
 
-<a href="https://x.com/KudouCraft/status/2055984235006263688"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/72b199bc19d7.webp" alt="Cafe Date Smartphone Photo Overlay" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=126107114019287"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/72b199bc19d7.webp" alt="Cafe Date Smartphone Photo Overlay" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=126107114019287)
 
 **Prompt:**
 
@@ -968,7 +1046,9 @@ Place a large, realistic smartphone photo of a date sitting across from a [Korea
 
 **Description:** Vertical anime poster inspired by Attack on Titan, with a battle-worn girl in tactical military gear before a ruined city, distant titan silhouette, and premium Japanese editorial typography.
 
-<a href="https://x.com/Shorelyn_/status/2055968745819111708"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/199c1a0c6b54.webp" alt="Attack on Titan Inspired Anime Poster" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=28158242614100"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/199c1a0c6b54.webp" alt="Attack on Titan Inspired Anime Poster" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=28158242614100)
 
 **Prompt:**
 
@@ -997,7 +1077,9 @@ Color palette should combine smoky charcoal tones, warm amber highlights, muted 
 
 **Description:** Vertical chibi travel-vlog poster with adorable mini characters exploring giant 3D city-name typography filled with landmark photography, travel stamps, brush typography, and bright vacation collage elements.
 
-<a href="https://x.com/Taaruk_/status/2055325558020673638"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e8e61989095f.webp" alt="Chibi Travel Vlog City Typography Poster" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=256074968533343"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e8e61989095f.webp" alt="Chibi Travel Vlog City Typography Poster" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=256074968533343)
 
 **Prompt:**
 
@@ -1013,7 +1095,9 @@ Cute chibi travel vlog poster design featuring [adorable mini travelers] explori
 
 **Description:** Wide Japanese YouTube variety thumbnail with three women in competitive one-piece swimsuits standing at a sunny outdoor public pool, faces pixelated, and bold Japanese variety-show captions.
 
-<a href="https://x.com/TomaAIbijo/status/2055297958237884531#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4afb0258f701.webp" alt="Japanese Poolside Interview Thumbnail" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=82441936631553"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4afb0258f701.webp" alt="Japanese Poolside Interview Thumbnail" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=82441936631553)
 
 **Prompt:**
 
@@ -1039,7 +1123,9 @@ Visual style: Photorealistic camera shot, wide-angle documentary composition, br
 
 **Description:** Ultra-realistic candid soccer broadcast screenshot of a Bayern Munich supporter in a red jersey watching the match from the stands, with a final score overlay in the upper-left corner.
 
-<a href="https://x.com/I_Yamada_AI/status/2055283575864619339"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ccda315833ff.webp" alt="Soccer Broadcast Supporter Screenshot" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=225237502800895"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ccda315833ff.webp" alt="Soccer Broadcast Supporter Screenshot" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=225237502800895)
 
 **Prompt:**
 
@@ -1055,7 +1141,9 @@ Use the uploaded reference image of the woman as the strongest identity and hair
 
 **Description:** 2.5D cinematic establishing shot of sunny Nicosia, Cyprus rendered with stylized realism, volumetric sunlight, depth of field, film grain, and cinematic camera movement for an opening sequence.
 
-<a href="https://x.com/farm_ion/status/2055275272400695448"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4505354df90.webp" alt="Nicosia Blue Lagoon 2.5D Establishing Shot" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=251033646587792"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4505354df90.webp" alt="Nicosia Blue Lagoon 2.5D Establishing Shot" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=251033646587792)
 
 **Prompt:**
 
@@ -1077,7 +1165,9 @@ Sunny Nicosia Cyprus
 
 **Description:** Vibrant vertical 3D adventure poster of a brave little cartoon explorer surrounded by oversized tropical jungle leaves, exotic flowers, parrots, a tiger cub, waterfall, and chunky gradient typography.
 
-<a href="https://x.com/92digitalartArt/status/2054948614128980060"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/759ba971c602.webp" alt="Tropical Jungle 3D Adventure Poster" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=129311423186434"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/759ba971c602.webp" alt="Tropical Jungle 3D Adventure Poster" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=129311423186434)
 
 **Prompt:**
 
@@ -1093,7 +1183,9 @@ A wildly colorful and adventurous vertical poster bursting with tropical jungle 
 
 **Description:** Cinematic vertical night-time radio studio scene with a ball-jointed female doll host wearing headphones at a broadcast desk, rainy Tokyo neon city visible through the window behind.
 
-<a href="https://x.com/aisuruai2023/status/2054140097382248815#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6b7449fa4f8e.webp" alt="Late-Night Radio Doll Host Studio" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=118147201519502"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6b7449fa4f8e.webp" alt="Late-Night Radio Doll Host Studio" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=118147201519502)
 
 **Prompt:**
 
@@ -1109,7 +1201,9 @@ Create a cinematic photorealistic night-time radio studio scene in vertical port
 
 **Description:** Wide 16:9 cinematic anime storyboard card with a black script header and a 10-panel grid depicting a bittersweet sunset rooftop farewell, complete with timecodes and voice lines.
 
-<a href="https://x.com/ItsmeRopes/status/2057565020670595315#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/dc64e329daec.webp" alt="Sunset Promise Anime Storyboard" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=242325866011372"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/dc64e329daec.webp" alt="Sunset Promise Anime Storyboard" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=242325866011372)
 
 **Prompt:**
 
@@ -1147,7 +1241,9 @@ Visual style: High-detail anime key art, cinematic lighting, emotional bitterswe
 
 **Description:** Clean Pixar 3D style character design sheet on a white background with two characters side by side, a brushstroke title, and a witty subtitle for a short animated story.
 
-<a href="https://x.com/TechieBySA/status/2057511465884557754"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/90b32be54bd7.webp" alt="Pixar-Style Character Design Sheet" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=159099209993175"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/90b32be54bd7.webp" alt="Pixar-Style Character Design Sheet" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=159099209993175)
 
 **Prompt:**
 
@@ -1163,7 +1259,9 @@ Create a Pixar 3D style character design sheet. Clean white background. Two char
 
 **Description:** Vertical Evangelion-inspired magazine-cover poster with a teenage boy in foreground and a giant purple Unit-01 mecha bursting through rubble, paired with luxury serif typography and violet energy lightning.
 
-<a href="https://x.com/busyddd/status/2057509830995394595#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b6fbe8856aaf.webp" alt="Evangelion Magazine Cover Poster" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=201193054104239"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b6fbe8856aaf.webp" alt="Evangelion Magazine Cover Poster" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=201193054104239)
 
 **Prompt:**
 
@@ -1193,7 +1291,9 @@ Constraints: No extra characters, no additional mecha, no speech bubbles, no wat
 
 **Description:** Cinematic vertical portrait of a calm boy in glasses leaning against a dark alley wall, with a huge menacing wolf-shaped shadow looming behind him in warm golden light.
 
-<a href="https://x.com/drzubi01/status/2057494083795615752#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4e20e2c13747.webp" alt="Boy with Wolf-Shadow Alley Portrait" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=85903150233415"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4e20e2c13747.webp" alt="Boy with Wolf-Shadow Alley Portrait" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=85903150233415)
 
 **Prompt:**
 
@@ -1209,7 +1309,9 @@ Create a cinematic vertical portrait of a young boy with [messy curly brown hair
 
 **Description:** Epic desert-world cinematic character board with monumental scale, golden dust storms, full-body turnaround, intimate close-ups, tactical costume breakdowns, and prestige sci-fi atmospheric realism reminiscent of luxury film pitch documents.
 
-<a href="https://x.com/Mind_Boticni/status/2057441467963175088"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63007a2aa680.webp" alt="Desert-World Cinematic Character Board" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=108853700765312"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63007a2aa680.webp" alt="Desert-World Cinematic Character Board" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=108853700765312)
 
 **Prompt:**
 
@@ -1225,7 +1327,9 @@ An epic [desert-world] cinematic character board with monumental scale and atmos
 
 **Description:** Artistic sketch-style portrait of a young man in sunglasses, blending pencil and ink linework with watercolor shading, geometric frames, ink splashes, and handwritten typography on textured paper.
 
-<a href="https://x.com/iamsofiaijaz/status/2057440838033252767"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6f5124db184d.webp" alt="Mixed-Media Sketch Portrait" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=122394301372493"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6f5124db184d.webp" alt="Mixed-Media Sketch Portrait" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=122394301372493)
 
 **Prompt:**
 
@@ -1241,7 +1345,9 @@ Create a unique artistic sketch-style portrait of a [modern young man] wearing [
 
 **Description:** Cinematic close-up anime illustration of a shy schoolgirl peering toward the viewer from a bed, shot with extreme wide-angle perspective in a warm dusk-lit cozy bedroom interior.
 
-<a href="https://x.com/jpn_eagle/status/2057437685686706467#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/aa66d009ab1f.webp" alt="Anime Schoolgirl Bedroom Close-Up" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=187358553680671"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/aa66d009ab1f.webp" alt="Anime Schoolgirl Bedroom Close-Up" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=187358553680671)
 
 **Prompt:**
 
@@ -1257,7 +1363,9 @@ Create a cinematic close-up anime illustration of [a shy schoolgirl] leaning ver
 
 **Description:** Aesthetic journal-style character design sheet for Ruzaina, mixing semi-realistic and chibi poses with handwritten personality notes, color swatches, sticky notes, and a warm Korean webtoon scrapbook vibe.
 
-<a href="https://x.com/RuzainaMeer/status/2057398827901137404"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/942e392ab57c.webp" alt="Ruzaina Character Design Sheet" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=162926248506748"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/942e392ab57c.webp" alt="Ruzaina Character Design Sheet" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=162926248506748)
 
 **Prompt:**
 
@@ -1294,7 +1402,9 @@ Art style: Semi-realistic + chibi mix, soft sketch lines, warm tones, aesthetic 
 
 **Description:** Shonen-manga-style summoning jutsu spread depicting the moment a giant contracted creature emerges from explosive white smoke and a ritual circle, with focus lines, debris, and manga onomatopoeia.
 
-<a href="https://x.com/Eris_Create_Lab/status/2057393463138873789"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4b35450e2116.webp" alt="Summoning Jutsu Manga Spread" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=82692163903766"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4b35450e2116.webp" alt="Summoning Jutsu Manga Spread" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=82692163903766)
 
 **Prompt:**
 
@@ -1310,7 +1420,9 @@ Using the character from the reference image, depict the moment the 'Summoning J
 
 **Description:** Bold vertical streetwear magazine cover for HER19845, full-body model in oversized rebellious 90s hip-hop fashion in front of giant gradient HER19845 background typography and zine textures.
 
-<a href="https://x.com/her19845/status/2057569603388059833#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ec3e307d7c76.webp" alt="HER19845 Streetwear Magazine Cover" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=259751845657718"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ec3e307d7c76.webp" alt="HER19845 Streetwear Magazine Cover" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=259751845657718)
 
 **Prompt:**
 
@@ -1338,7 +1450,9 @@ Constraints: No extra characters, no extra text beyond the specified 9 text elem
 
 **Description:** Vertical streetwear campaign poster for a HER19845 limited-edition drop, full-body model in oversized black graphic hoodie and sweatpants against giant hot-pink headline typography on off-white background.
 
-<a href="https://x.com/her19845/status/2057569603388059833#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2aadac39b559.webp" alt="HER19845 Hoodie Drop Campaign Poster" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=46925407171929"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2aadac39b559.webp" alt="HER19845 Hoodie Drop Campaign Poster" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=46925407171929)
 
 **Prompt:**
 
@@ -1366,7 +1480,9 @@ Constraints: Use exactly the text clusters and symbols listed, avoid adding extr
 
 **Description:** Vertical haute-couture portrait collage of a model in dark sunglasses, with four overlapping black-and-white film-strip panels behind a vibrant yellow-shirt silhouette cutout of the same model in foreground.
 
-<a href="https://x.com/her19845/status/2057475917174190253"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e013489b1993.webp" alt="Film-Strip Haute Couture Collage" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=246373427124627"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e013489b1993.webp" alt="Film-Strip Haute Couture Collage" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=246373427124627)
 
 **Prompt:**
 
@@ -1382,7 +1498,9 @@ Use the uploaded reference photo model without any modifications. Facial feature
 
 **Description:** Luxury cinematic fast-food advertisement collage featuring three beautiful young chefs presenting cheesy pizza, a juicy gourmet burger, and a grilled sandwich, with stylish typography and premium golden kitchen ambiance.
 
-<a href="https://x.com/veylorvisions/status/2057461617487651311"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/a925bd188e20.webp" alt="Cinematic Fast-Food Chef Ad Collage" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=185979551387168"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/a925bd188e20.webp" alt="Cinematic Fast-Food Chef Ad Collage" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=185979551387168)
 
 **Prompt:**
 
@@ -1406,7 +1524,9 @@ Instagram/X viral poster design, cinematic food campaign, modern graphics, glowi
 
 **Description:** Bold Y2K Korean street-editorial collage poster with a large cinematic portrait above two torn polaroid frames, oversized Korean typography, washi tape, barcode stickers, and gritty zine textures.
 
-<a href="https://x.com/her19845/status/2057430332773662929"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4a5bb6b8b352.webp" alt="Y2K Korean Street Editorial Collage" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=81757768037202"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4a5bb6b8b352.webp" alt="Y2K Korean Street Editorial Collage" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=81757768037202)
 
 **Prompt:**
 
@@ -1422,7 +1542,9 @@ Create a [bold Y2K korean street-editorial collage poster] with a clean high-fas
 
 **Description:** Dramatic black-and-white high-fashion photograph of a woman turning back while running through a futuristic symmetrical metal tunnel, captured with direct flash, motion blur, and bold editorial energy.
 
-<a href="https://x.com/bmx_ai13/status/2057406799037464659"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/53748ef4f5bd.webp" alt="Black & White Fashion Tunnel Motion" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=91760079730109"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/53748ef4f5bd.webp" alt="Black & White Fashion Tunnel Motion" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=91760079730109)
 
 **Prompt:**
 
@@ -1438,7 +1560,9 @@ A [high fashion woman] turning back dramatically while running through a [futuri
 
 **Description:** Low-angle fashion campaign photograph of a confident model holding a large product right up to the camera lens with extreme forced perspective on a pure white high-key studio backdrop.
 
-<a href="https://x.com/iamaiistudio/status/2057402771599700081"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/119c2c1d9e51.webp" alt="Forced-Perspective Product Campaign" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=19362452708945"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/119c2c1d9e51.webp" alt="Forced-Perspective Product Campaign" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=19362452708945)
 
 **Prompt:**
 
@@ -1454,7 +1578,9 @@ Low-angle fashion campaign photograph of a confident model holding a large [prod
 
 **Description:** Hyper-realistic premium product advertisement of a model leaning casually against a giant futuristic comfort clog, with massive vertical typography on a clean sky-blue to lavender gradient backdrop.
 
-<a href="https://x.com/iamaiistudio/status/2057281549851377866"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/893d1336333a.webp" alt="Comfort Clog Minimalist Product Ad" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=150895408329530"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/893d1336333a.webp" alt="Comfort Clog Minimalist Product Ad" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=150895408329530)
 
 **Prompt:**
 
@@ -1480,7 +1606,9 @@ Style: ultra-clean Apple-style minimalism crossed with a fashion campaign, hyper
 
 **Description:** Bold transparent-background t-shirt graphic of a chrome 3D flying saucer projecting a magenta beam onto a tiny silhouette, with the title FIRST CONTACT in a futuristic display font.
 
-<a href="https://x.com/92digitalartArt/status/2057141494729830591"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/cb36be49bac8.webp" alt="First Contact UFO T-Shirt Graphic" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=223435981175496"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/cb36be49bac8.webp" alt="First Contact UFO T-Shirt Graphic" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=223435981175496)
 
 **Prompt:**
 
@@ -1496,7 +1624,9 @@ A [premium pop nerd culture t-shirt graphic] isolated on full transparency with 
 
 **Description:** Minimalist warm studio product photo with hand-drawn white line doodle overlay of a character interacting with the product, blending real photography and sketch illustration for a high-end branding feel.
 
-<a href="https://x.com/MissDelulu9/status/2056646177106567563"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/70f2ca113a4a.webp" alt="Minimalist Product Photo with Doodles" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=124188074523210"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/70f2ca113a4a.webp" alt="Minimalist Product Photo with Doodles" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=124188074523210)
 
 **Prompt:**
 
@@ -1512,7 +1642,9 @@ A [premium pop nerd culture t-shirt graphic] isolated on full transparency with 
 
 **Description:** Luxurious pastel pink limited-edition chocolatier gift box photo with ten ornate chocolates arranged in a grid, a portrait-printed lid, satin bow, lace, pearls, and rose-gold styling.
 
-<a href="https://x.com/pochiina/status/2056424531250823669#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/c5c0ae49d15f.webp" alt="Pastel Pink Chocolate Gift Box" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=217431348466015"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/c5c0ae49d15f.webp" alt="Pastel Pink Chocolate Gift Box" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=217431348466015)
 
 **Prompt:**
 
@@ -1528,7 +1660,9 @@ Create a luxurious pastel pink limited-edition chocolate gift box product photo 
 
 **Description:** Premium square 3D fashion product showcase floating exactly nine luxury items including a cap, sneakers, jerseys, watch, sunglasses, bag, backpack, and shoes on dark marble plinths.
 
-<a href="https://x.com/abs_uiux/status/2056401853475094759#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b86a012d0eb3.webp" alt="Luxury 3D Fashion Product Showcase" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=202765425774259"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b86a012d0eb3.webp" alt="Luxury 3D Fashion Product Showcase" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=202765425774259)
 
 **Prompt:**
 
@@ -1544,7 +1678,9 @@ Create a premium square 3D fashion product showcase featuring exactly 9 main fas
 
 **Description:** Surreal vertical Coca-Cola advertisement with a chilled red can on a deep red background, a silver zipper opening across the frame to reveal contrasting sunset and icy mountain worlds.
 
-<a href="https://x.com/GeneratePrompt/status/2055757582757712230#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bf1fa79df0c9.webp" alt="Coca-Cola Zipper Conceptual Ad" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=210142677037257"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bf1fa79df0c9.webp" alt="Coca-Cola Zipper Conceptual Ad" width="640" /></a>
+
+[![▶ Try it now](https://img.shields.io/badge/%E2%96%B6%20Try%20it%20now-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=210142677037257)
 
 **Prompt:**
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/banner.webp" alt="Awesome GPT Image 2 Prompts" width="100%" />
+<a href="https://www.cuty.ai/prompts/gpt-image-2"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/banner.webp" alt="Awesome GPT Image 2 Prompts" width="100%" /></a>
 
 # 🖼️ Awesome GPT Image 2 Prompts
 
@@ -59,7 +59,9 @@
 
 **الوصف:** بورتريه كارتون ثلاثي الأبعاد مصمم بأسلوب مبالغ فيه بأبعاد كوميدية، ملامح ضخمة، تعابير جريئة، مواد مطفية ناعمة، وخلفية متدرجة مشبعة لتحقيق تباين بصري قوي.
 
-<a href="https://x.com/salihsanal/status/2057741572666445999"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/f43d70dc026c.webp" alt="بورتريه كارتون ثلاثي الأبعاد مبالغ فيه" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=268544723649132"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/f43d70dc026c.webp" alt="بورتريه كارتون ثلاثي الأبعاد مبالغ فيه" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=268544723649132)
 
 **المطالبة:**
 
@@ -75,7 +77,9 @@
 
 **الوصف:** امرأة شابة ذات شعر مموج على أريكة كريمية في غرفة معيشة بسيطة مشمسة، وجهها مغطى بكتلة خصوصية لجمالية شقة يابانية/كورية هوائية.
 
-<a href="https://x.com/SusumuMind/status/2057586669839331576#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b68deb650095.webp" alt="صورة شخصية صباحية مريحة مع كتلة خصوصية" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=200720655909013"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b68deb650095.webp" alt="صورة شخصية صباحية مريحة مع كتلة خصوصية" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=200720655909013)
 
 **المطالبة:**
 
@@ -91,7 +95,9 @@
 
 **الوصف:** صورة استوديو أنيقة لامرأة موجهة بعيدًا عن الكاميرا، تنظر بثقة فوق كتفها، مع إضاءة جانبية درامية أمام خلفية بلون صلب.
 
-<a href="https://x.com/ChillaiKalan__/status/2057542507928736240"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4bdcbfc2734b.webp" alt="صورة استوديو من فوق الكتف" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=83411482080075"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4bdcbfc2734b.webp" alt="صورة استوديو من فوق الكتف" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=83411482080075)
 
 **المطالبة:**
 
@@ -107,7 +113,9 @@
 
 **الوصف:** لقطة قريبة بزاوية واسعة حيث يتم تقريب وجه الشخصية بشكل كبير من الشاشة، مما يبالغ في ميزة واحدة مثل العين أو الأذن للتشويه الكوميدي.
 
-<a href="https://x.com/challenger_ND/status/2057466141174612455"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/421379eb2a03.webp" alt="لقطة قريبة لوجه مبالغ فيه بزاوية واسعة" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=72651417266691"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/421379eb2a03.webp" alt="لقطة قريبة لوجه مبالغ فيه بزاوية واسعة" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=72651417266691)
 
 **المطالبة:**
 
@@ -123,7 +131,9 @@
 
 **الوصف:** بورتريه عمودي للجزء العلوي لطالبة مدرسة في زي صيفي أبيض تأخذ قضمة من فراولة بجانب النافذة، مصور بأسلوب فيلم ناعم بألوان باهتة مع عمق ميدان ضحل.
 
-<a href="https://x.com/CyberTotal2026/status/2057465950275010685"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1cdee044649a.webp" alt="طالبة مدرسة ناعمة مع فراولة" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=31743570896026"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1cdee044649a.webp" alt="طالبة مدرسة ناعمة مع فراولة" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=31743570896026)
 
 **المطالبة:**
 
@@ -139,7 +149,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** بورتريه تحريري سينمائي بدقة 8K لرجل يرتدي كنزة سوداء وسترة مصممة، مضاء بأسلوب GQ الفاخر مع بوكيه 85 مم ضد تدرج استوديو داكن بلون الأخضر الزمردي.
 
-<a href="https://x.com/iamaiistudio/status/2057463278608252933"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/34a2247a2dbc.webp" alt="بورتريه تحريري ذكوري لثروة هادئة" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=57871001333180"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/34a2247a2dbc.webp" alt="بورتريه تحريري ذكوري لثروة هادئة" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=57871001333180)
 
 **المطالبة:**
 
@@ -163,7 +175,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** كولاج صور ذاتية من أربعة ألواح لشابة ترتدي سترة وتنورة رمادية كبيرة على سرير، وجهها مشوش برفق، في غرفة نوم دافئة بسيطة.
 
-<a href="https://x.com/kasu_mi_ai/status/2057424172842946815#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/d8824f5c7e2a.webp" alt="كولاج صور ذاتية دافئ 2x2 في غرفة النوم" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=238054188809770"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/d8824f5c7e2a.webp" alt="كولاج صور ذاتية دافئ 2x2 في غرفة النوم" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=238054188809770)
 
 **المطالبة:**
 
@@ -179,7 +193,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** بورتريه سينمائي بالأبيض والأسود فائق الواقعية مع خطوط ضوء بتعرض طويل خلف موضوع وجهه مغطى جزئيًا بخصلات شعر متطايرة وضباب حركة جانبي.
 
-<a href="https://x.com/aidetool/status/2057406992642445720"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/24accc190b1d.webp" alt="بورتريه بالأبيض والأسود مع ضباب حركة سينمائي" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=40324577168157"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/24accc190b1d.webp" alt="بورتريه بالأبيض والأسود مع ضباب حركة سينمائي" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=40324577168157)
 
 **المطالبة:**
 
@@ -195,7 +211,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** لقطة قريبة سينمائية لملف جانبي لامرأة تميل برفق برأسها نحو زهرة مغطاة بالندى، مضاءة بضوء خلفي ذهبي دافئ ضد خلفية طبيعية ضبابية باللون الأخضر الداكن.
 
-<a href="https://x.com/Shinning1010/status/2057332420383494441"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/245f53cc546c.webp" alt="ملف جانبي حالمي مع زنبق" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=39991846392940"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/245f53cc546c.webp" alt="ملف جانبي حالمي مع زنبق" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=39991846392940)
 
 **المطالبة:**
 
@@ -213,7 +231,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** كولاج شبكي تحريرية من أربعة لوحات لامرأة ترتدي ملابس رياضية بيج في مطبخ رخامي، حمام فاخر، زاوية صحة، ومقهى مشرق، تم تصويره في ضوء النهار الدافئ الناعم.
 
-<a href="https://x.com/iamaiistudio/status/2057734834982879662"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/235dcee76026.webp" alt="كولاج نمط حياة صحي من أربعة لوحات" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=38885810200614"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/235dcee76026.webp" alt="كولاج نمط حياة صحي من أربعة لوحات" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=38885810200614)
 
 **المطالبة:**
 
@@ -243,7 +263,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ورقة اتصال سينمائية حالمة 4x4 حنينية لزوجين شابين في ملابس صيفية غير رسمية في الليل وبجوار البحر، الوجوه مغطاة بمستطيلات ضباب ناعمة.
 
-<a href="https://x.com/Anifun_AI/status/2057701330761007611"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/5cdbd1260157.webp" alt="ورقة اتصال زوجين حنينية مكونة من 16 صورة" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=102099176522071"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/5cdbd1260157.webp" alt="ورقة اتصال زوجين حنينية مكونة من 16 صورة" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=102099176522071)
 
 **المطالبة:**
 
@@ -259,7 +281,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** بورتريه خيالي للجزء العلوي من شابة مزينة بمقاييس متلألئة وشعر يتدفق مثل الماء، موضوع ضد خلفية شفافة تحت الماء مع فقاعات وضوء منعكس ناعم.
 
-<a href="https://x.com/CyberTotal2026/status/2057610889722048546"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2c596fdee6d0.webp" alt="بورتريه خيالي لروح الماء الأثيرية" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=48762640590544"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2c596fdee6d0.webp" alt="بورتريه خيالي لروح الماء الأثيرية" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=48762640590544)
 
 **المطالبة:**
 
@@ -287,7 +311,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** تحرير جمال مقرب لوجه يحمل زهرة بابونج بين الشفتين، مع بشرة رطبة للغاية، خدود وردية مكثفة، نمش، وإضاءة استوديو ناعمة من الأمام.
 
-<a href="https://x.com/CHAseUnre/status/2057600345467990293"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1b47c913184c.webp" alt="تحرير جمال رطب مقرب مع بابونج" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=29995130099788"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1b47c913184c.webp" alt="تحرير جمال رطب مقرب مع بابونج" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=29995130099788)
 
 **المطالبة:**
 
@@ -315,7 +341,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ملصق كولاج ياباني جريء بأسلوب Y2K مع صورة سينمائية كبيرة، إطارات بولارويد ممزقة، طباعة ضخمة، شريط وشي، حبر متناثر، وقوام زين طوكيو الخشن.
 
-<a href="https://x.com/iamaiistudio/status/2057583921957941257"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3daf2504add4.webp" alt="ملصق تحرير الشارع الياباني بأسلوب Y2K" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=67822449634772"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3daf2504add4.webp" alt="ملصق تحرير الشارع الياباني بأسلوب Y2K" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=67822449634772)
 
 **المطالبة:**
 
@@ -339,7 +367,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** رسم توضيحي كامل الجسم لفتاة في أزياء لوليتا قوطية معقدة واقفة في ممر كاتدرائية قوطية مظلمة، تم تصويرها من زاوية منخفضة درامية مع إضاءة سينمائية مزاجية.
 
-<a href="https://x.com/momoka_AIIllust/status/2057567110759408054#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/fb74570bbaae.webp" alt="رسم توضيحي لأنمي لوليتا قوطية في كاتدرائية" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=276477095164590"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/fb74570bbaae.webp" alt="رسم توضيحي لأنمي لوليتا قوطية في كاتدرائية" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=276477095164590)
 
 **المطالبة:**
 
@@ -355,7 +385,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** بورتريه فوتوغرافي واقعي للموضوع المرفق محاط بخمس نسخ مصغرة ثلاثية الأبعاد من أنفسهم، كل منها يتفاعل بشكل مرح مع نفس المشهد، والإضاءة، والأدوات.
 
-<a href="https://x.com/miilesus/status/2057552449729450318"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/234f5edf2a08.webp" alt="بورتريه فوتوغرافي واقعي مع رفقاء تشيبي مصغرين" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=38823801072136"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/234f5edf2a08.webp" alt="بورتريه فوتوغرافي واقعي مع رفقاء تشيبي مصغرين" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=38823801072136)
 
 **المطالبة:**
 
@@ -371,7 +403,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** رسم توضيحي للملابس الشارعية مستوحى من ديزني تومورولاند 1955 مع قطار أحادي يدور حول جبل الفضاء على شكل نسر، زخارف انفجار نجمي ذري، حقائب نفاثة، طباعة عمارة غوجي، ولمسات من الكروم في تصميم المستقبل في منتصف القرن.
 
-<a href="https://x.com/nonameoasis/status/2057528295001088183"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3bca523bff76.webp" alt="ملابس الشارع بتصميم مستقبلي رجعي من تومورولاند" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=65740149096310"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3bca523bff76.webp" alt="ملابس الشارع بتصميم مستقبلي رجعي من تومورولاند" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=65740149096310)
 
 **المطالبة:**
 
@@ -387,7 +421,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** غلاف مجلة كوسبلاي أنمي عالي الموضة مع وضع شرير من زاوية منخفضة لكيبوتسوجي موزان في قبعة فيدورا بيضاء وعباءة، طباعة serif مصقولة، خلفية استوديو بيضاء.
 
-<a href="https://x.com/busyddd/status/2057509830995394595#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/703311116c7e.webp" alt="غلاف مجلة كوسبلاي أنمي شرير" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=123364631997566"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/703311116c7e.webp" alt="غلاف مجلة كوسبلاي أنمي شرير" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=123364631997566)
 
 **المطالبة:**
 
@@ -415,7 +451,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ورقة ملصقات مميزة 4x3 لنفس المرأة الشابة بتعبيرات مختلفة، كل بورتريه من الكتفين لأعلى محدد بإطار مقطوع بسمك أبيض على خلفية محايدة.
 
-<a href="https://x.com/iamaiistudio/status/2057493355865714894"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/58dd72918f6d.webp" alt="ورقة ملصقات بورتريه بتعبيرات 12" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=97708133158765"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/58dd72918f6d.webp" alt="ورقة ملصقات بورتريه بتعبيرات 12" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=97708133158765)
 
 **المطالبة:**
 
@@ -435,7 +473,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** حزمة ملصقات مميزة 4x3 لامرأة واحدة في قمصان كرة القدم، اثني عشر وضعية تعبيرية على طراز الرموز التعبيرية، خلفية بيج ناعمة، إضاءة فوتوغرافية ناعمة واقعية، وحدود ملصقات بيضاء سميكة.
 
-<a href="https://x.com/iamsofiaijaz/status/2057485300818235561"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ed9e4257b130.webp" alt="حزمة ملصقات قمصان كرة القدم" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=261263973658928"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ed9e4257b130.webp" alt="حزمة ملصقات قمصان كرة القدم" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=261263973658928)
 
 **المطالبة:**
 
@@ -481,7 +521,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** بورتريه واقعي لامرأة تعمل في مكتب إبداعي وردي لطيف، محاطة بنسخ مصغرة تشيبي منها تقوم بأفعال مرحة بالإضافة إلى رسومات وملصقات تعبيرية.
 
-<a href="https://x.com/heyfatema/status/2057476795830812985"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4966df6bb80.webp" alt="مشهد مكتب وردي مع رسومات تشيبي" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=251334741113728"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4966df6bb80.webp" alt="مشهد مكتب وردي مع رسومات تشيبي" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=251334741113728)
 
 **المطالبة:**
 
@@ -497,7 +539,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** صورة سينمائية بزاوية واسعة لمتسابق دراجات نارية مغامر ودراجات سياحية في منظر جبلي، مع خريطة GPS هولوجرافية متوهجة باللون الذهبي تعرض على الطريق الأسفلتي.
 
-<a href="https://x.com/Ozayrr_irl/status/2057473247118316023"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/9bdacfe006af.webp" alt="خريطة مسار هولوجرافية للدراجات النارية" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=171364092741295"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/9bdacfe006af.webp" alt="خريطة مسار هولوجرافية للدراجات النارية" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=171364092741295)
 
 **المطالبة:**
 
@@ -513,7 +557,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** شبكة واقعية 2x3 لامرأة يابانية تؤدي ستة أوضاع يوغا مسماة في استوديو داخلي بسيط مع ضوء نوافذ ناعم وعيوب تصوير طبيعية بأسلوب الهاتف الذكي.
 
-<a href="https://x.com/craftian_keskin/status/2057526205092708404"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/335665b326ea.webp" alt="شبكة نمط حياة يوغا بستة أوضاع" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=56446166443754"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/335665b326ea.webp" alt="شبكة نمط حياة يوغا بستة أوضاع" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=56446166443754)
 
 **المطالبة:**
 
@@ -613,7 +659,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ورقة مخطط أزياء تحريرية لامرأة أنيقة ترتدي بدلة بيضاء مفصلة، محاطة بعلامات استدعاء، ملاحظات تفصيلية، تفاصيل الأقمشة، وتعليقات مفهوم أزياء نسائية عالية الجودة.
 
-<a href="https://x.com/ZephyraLeigh/status/2057487393247367289"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/69f007e21aff.webp" alt="ورقة مخطط أزياء النساء" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=116479645326079"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/69f007e21aff.webp" alt="ورقة مخطط أزياء النساء" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=116479645326079)
 
 **المطالبة:**
 
@@ -629,7 +677,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ملصق ألبوم ذكريات عمودي حالمي للاتيه الفستق والورد الكوري، توضيح مشروب مكون من طبقات، تدوينات مكتوبة بخط اليد، صور بولارويد، بطاقات وصفة ومكونات، في لوحة ألوان مقهى وردية وفستقية على نمط Pinterest.
 
-<a href="https://x.com/mylifcc/status/2057486709655543985#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bbc2a4fb5955.webp" alt="ملصق ألبوم ذكريات لاتيه الفستق والورد" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=206444665985365"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bbc2a4fb5955.webp" alt="ملصق ألبوم ذكريات لاتيه الفستق والورد" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=206444665985365)
 
 **المطالبة:**
 
@@ -663,7 +713,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** إنفوغرافيك ياباني لطيف بأسلوب كاواي عن تشخيص شخصية حيوان على شكل دونات، مع بطاقات باستيل، دونات على شكل ذئب، صورة مؤطرة لأنمي، ونص عنوان ياباني بخط فقاعات.
 
-<a href="https://x.com/kiyu___K/status/2057465485621706897#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/77c92b20f590.webp" alt="إنفوغرافيك تشخيص دونات حيوان كاواي" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=131705895712144"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/77c92b20f590.webp" alt="إنفوغرافيك تشخيص دونات حيوان كاواي" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=131705895712144)
 
 **المطالبة:**
 
@@ -698,7 +750,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ورقة عمل قابلة للطباعة A4 للرسم بالأرقام مع فن خطي بالأبيض والأسود لموجة المحيط بأسلوب ياباني درامي، وعشر مناطق طلاء مرقمة، وأسطورة ألوان أفقية نظيفة.
 
-<a href="https://x.com/NingKrysta45057/status/2057426499033055629#reversed-3"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09da48062270.webp" alt="ورقة عمل رسم بالأرقام لموجة المحيط" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=10833115882096"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09da48062270.webp" alt="ورقة عمل رسم بالأرقام لموجة المحيط" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=10833115882096)
 
 **المطالبة:**
 
@@ -714,7 +768,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ورقة عمل قابلة للطباعة بحجم A4 للرسم بالأرقام تحتوي على ببغاء استوائي جالس بين أوراق مونستيرا الكبيرة، مع عشرة مناطق طلاء مرقمة وأسطورة ألوان أفقية مكونة من ثمانية ألوان أدناه.
 
-<a href="https://x.com/NingKrysta45057/status/2057426499033055629#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/7c10256f1401.webp" alt="ورقة عمل رسم بالأرقام ببغاء استوائي" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=136408789357569"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/7c10256f1401.webp" alt="ورقة عمل رسم بالأرقام ببغاء استوائي" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=136408789357569)
 
 **المطالبة:**
 
@@ -740,7 +796,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** إنفوجرافيك بأسلوب دفتر ملاحظات مفصل للغاية يمزج بين الحبر، والألوان المائية، والخربشات استنادًا إلى صورة مرجعية، مع صور، نسخ تشيبي، مشاهد، عبارات، وملاحظات شخصية عن الشخصية.
 
-<a href="https://x.com/Shorelyn_/status/2057394913730494496"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/05fb0c2d1545.webp" alt="إنفوجرافيك دفتر ملاحظات شخصي" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=6575799211333"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/05fb0c2d1545.webp" alt="إنفوجرافيك دفتر ملاحظات شخصي" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=6575799211333)
 
 **المطالبة:**
 
@@ -776,7 +834,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ورقة مخطط أزياء مفصلة للغاية لفتاة ترتدي ملابس الشارع السيبرانية المستقبلية مع بوب فضي، سترة بومبر هولوجرافية، إكسسوارات نيون، وتعليقات موضوعة على خلفية استوديو نظيفة.
 
-<a href="https://x.com/ZephyraLeigh/status/2057342945901326769"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/80e7f5c0ba6a.webp" alt="مخطط أزياء الشارع السيبرانية" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=141733748849258"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/80e7f5c0ba6a.webp" alt="مخطط أزياء الشارع السيبرانية" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=141733748849258)
 
 **المطالبة:**
 
@@ -794,7 +854,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** عنصر فوتوغرافي واقعي معروض على خلفية بيضاء نقية مع تعليقات تقنية مرسومة باليد بحبر أسود موضوعة فوقها، بما في ذلك التسميات، الأبعاد، المخططات المفككة، الأسهم التوجيهية، ومخططات تخطيطية صغيرة.
 
-<a href="https://x.com/iamaiistudio/status/2057221295557996876"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09721f308f9b.webp" alt="معلومات رسومية تقنية للعنصر مع تعليقات" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=10385754197915"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09721f308f9b.webp" alt="معلومات رسومية تقنية للعنصر مع تعليقات" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=10385754197915)
 
 **المطالبة:**
 
@@ -810,7 +872,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** بانر أنمي واسع لفتاة المدرسة المبهجة سايوري في فصل دراسي مشرق وحالم مع دوار الشمس، وطباعة صور معلقة، وزخارف ألبوم قصاصات، وعنوان مكتوب بخط يدوي زخرفي كبير على اليمين.
 
-<a href="https://x.com/Anifun_AI/status/2057413690677481574"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/71caecbe50b5.webp" alt="بانر فصل سايوري الأنمي" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=125116369227957"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/71caecbe50b5.webp" alt="بانر فصل سايوري الأنمي" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=125116369227957)
 
 **المطالبة:**
 
@@ -826,7 +890,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** صورة سيلفي واقعية بنسبة 16:9 داخل مقصورة نوم قطار ليلي، مع قطار أحمر من ÖBB يمر بسرعة على مسارات متوازية وسماء ليلية جبلية مضاءة بالقمر.
 
-<a href="https://x.com/mschneekluth/status/2056790621092806810#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/621d99777d6f.webp" alt="صورة مصغرة سيلفي لقطار النوم ليلاً" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=107879268318575"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/621d99777d6f.webp" alt="صورة مصغرة سيلفي لقطار النوم ليلاً" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=107879268318575)
 
 **المطالبة:**
 
@@ -842,7 +908,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** لافتة يابانية بنسبة 16:9 لمقارنة ثلاثة أدوات لتوليد الصور بالذكاء الاصطناعي مع بطاقات بيضاء مستديرة، عنوان جريء، أيقونات ثلاثية الأبعاد لامعة، ومقدم يحمل ثلاثة هواتف مثال.
 
-<a href="https://x.com/Aibow06/status/2056693503405801864#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/895ec18a8e3a.webp" alt="صورة مصغرة لمقارنة أدوات الذكاء الاصطناعي اليابانية لتوليد الصور" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=151040067014202"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/895ec18a8e3a.webp" alt="صورة مصغرة لمقارنة أدوات الذكاء الاصطناعي اليابانية لتوليد الصور" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=151040067014202)
 
 **المطالبة:**
 
@@ -872,7 +940,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** قالب صورة مصغرة قابلة للنقر على يوتيوب بشكل عام مع عناصر مكانية منظمة للموضوع، التعبير، التكوين، الإضاءة، تسلسل الألوان، الخلفية، والأسلوب، محسّن لقراءة فائقة في وسائل التواصل الاجتماعي ذات الحجم الصغير.
 
-<a href="https://x.com/GlitterPixely/status/2056693223536435221"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/16da7b40be31.webp" alt="قالب صورة مصغرة قابلة للنقر على يوتيوب" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=25127626522161"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/16da7b40be31.webp" alt="قالب صورة مصغرة قابلة للنقر على يوتيوب" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=25127626522161)
 
 **المطالبة:**
 
@@ -888,7 +958,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ملصق أسطورة كرة القدم الأنمي فائق التفاصيل مع لاعب كرة قدم ديناميكي يركض، قميص مستوحى من إيه سي ميلان بالأحمر والأسود، أضواء ملعب درامية، تأثيرات حركة بأسلوب المانغا، وطباعة كاتاكانا جريئة.
 
-<a href="https://x.com/Taaruk_/status/2056410687044497826"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/763ceb5c6e6b.webp" alt="ملصق سينمائي لأسطورة كرة القدم الأنمي" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=130004018818667"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/763ceb5c6e6b.webp" alt="ملصق سينمائي لأسطورة كرة القدم الأنمي" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=130004018818667)
 
 **المطالبة:**
 
@@ -904,7 +976,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** كولاج أزياء أنمي ثلاثي الألواح لفتيات أنيقات مستلهمات من K-pop، كل لوحة مصممة بموضوع نيون عاطفي مميز: حلم وردي باهت، سيبر أزرق كهربائي، ومنتصف الليل الأحمر الداكن.
 
-<a href="https://x.com/Mind_Boticni/status/2056385033242607771"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/751ea7210564.webp" alt="كولاج أزياء K-Pop ثلاثي الألواح بنظام نيون" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=128774513427812"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/751ea7210564.webp" alt="كولاج أزياء K-Pop ثلاثي الألواح بنظام نيون" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=128774513427812)
 
 **المطالبة:**
 
@@ -934,7 +1008,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** لافتة آيدول أنمي كاواي أفقية واسعة مع فتاة ذات ذيل مزدوج مبتهجة تحمل ميكروفون لامع، محاطة بملصقات ديكورا كاواي ملونة، شرارات، قلوب، وفقاعات كلام بأسلوب كوميدي.
 
-<a href="https://x.com/Toshi_nyaruo_AI/status/2056303856695603540"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63485bf82b70.webp" alt="لافتة آيدول أنمي كاواي" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=109162431785840"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63485bf82b70.webp" alt="لافتة آيدول أنمي كاواي" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=109162431785840)
 
 **المطالبة:**
 
@@ -954,7 +1030,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** صورة موعد في المقهى بأسلوب الهاتف الذكي بنسبة 16:9 مع رجل وسيم كوري، لاتيه وكعكة على الطاولة، ضوء ناعم من النافذة، ونصوص كبيرة بيضاء في المركز للوقت والعنوان.
 
-<a href="https://x.com/KudouCraft/status/2055984235006263688"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/72b199bc19d7.webp" alt="تراكب صورة موعد في المقهى" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=126107114019287"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/72b199bc19d7.webp" alt="تراكب صورة موعد في المقهى" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=126107114019287)
 
 **المطالبة:**
 
@@ -970,7 +1048,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ملصق أنمي عمودي مستوحى من هجوم العمالقة، مع فتاة تحمل آثار المعركة في زي عسكري أمام مدينة مدمرة، ظل عملاق بعيد، وطباعة تحرير يابانية فاخرة.
 
-<a href="https://x.com/Shorelyn_/status/2055968745819111708"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/199c1a0c6b54.webp" alt="ملصق أنمي مستوحى من هجوم العمالقة" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=28158242614100"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/199c1a0c6b54.webp" alt="ملصق أنمي مستوحى من هجوم العمالقة" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=28158242614100)
 
 **المطالبة:**
 
@@ -999,7 +1079,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ملصق مدونة سفر تشيبي عمودي مع شخصيات صغيرة رائعة تستكشف طباعة مدينة 3D ضخمة مليئة بصور المعالم، طوابع سفر، طباعة فرشاة، وعناصر تجميع عطلة ساطعة.
 
-<a href="https://x.com/Taaruk_/status/2055325558020673638"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e8e61989095f.webp" alt="ملصق طباعة مدينة مدونة سفر تشيبي" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=256074968533343"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e8e61989095f.webp" alt="ملصق طباعة مدينة مدونة سفر تشيبي" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=256074968533343)
 
 **المطالبة:**
 
@@ -1015,7 +1097,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** صورة مصغرة يابانية واسعة على يوتيوب مع ثلاث نساء يرتدين بدلات سباحة تنافسية ذات قطعة واحدة واقفات في مسبح عام خارجي مشمس، وجوههن مبكسلة، وعناوين بارزة لبرنامج تنوع ياباني.
 
-<a href="https://x.com/TomaAIbijo/status/2055297958237884531#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4afb0258f701.webp" alt="صورة مصغرة لمقابلة بجانب المسبح الياباني" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=82441936631553"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4afb0258f701.webp" alt="صورة مصغرة لمقابلة بجانب المسبح الياباني" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=82441936631553)
 
 **المطالبة:**
 
@@ -1041,7 +1125,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** لقطة شاشة واقعية للغاية لبث كرة القدم لمشجع بايرن ميونيخ في قميص أحمر يشاهد المباراة من المدرجات، مع طبقة فوقية لنتيجة نهائية في الزاوية العليا اليسرى.
 
-<a href="https://x.com/I_Yamada_AI/status/2055283575864619339"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ccda315833ff.webp" alt="لقطة شاشة لبث كرة القدم للمشجعين" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=225237502800895"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ccda315833ff.webp" alt="لقطة شاشة لبث كرة القدم للمشجعين" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=225237502800895)
 
 **المطالبة:**
 
@@ -1057,7 +1143,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** لقطة تأسيسية سينمائية بتقنية 2.5D لنيقوسيا المشمسة، قبرص مصممة بواقعية مصممة، ضوء شمس حجمي، عمق ميدان، حبيبات فيلم، وحركة كاميرا سينمائية لمشهد افتتاحي.
 
-<a href="https://x.com/farm_ion/status/2055275272400695448"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4505354df90.webp" alt="لقطة تأسيسية لاغون نيقوسيا الأزرق 2.5D" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=251033646587792"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4505354df90.webp" alt="لقطة تأسيسية لاغون نيقوسيا الأزرق 2.5D" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=251033646587792)
 
 **المطالبة:**
 
@@ -1079,7 +1167,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ملصق مغامرة 3D عمودي نابض بالحياة لشخصية مستكشف كرتونية شجاعة محاطة بأوراق غابة استوائية ضخمة، زهور غريبة، ببغاوات، شبل نمر، شلال، ونوع خط متدرج سميك.
 
-<a href="https://x.com/92digitalartArt/status/2054948614128980060"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/759ba971c602.webp" alt="ملصق مغامرة الغابة الاستوائية 3D" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=129311423186434"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/759ba971c602.webp" alt="ملصق مغامرة الغابة الاستوائية 3D" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=129311423186434)
 
 **المطالبة:**
 
@@ -1095,7 +1185,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** مشهد استوديو إذاعي ليلي سينمائي عمودي مع مضيفة دمية أنثوية ترتدي سماعات رأس عند مكتب بث، ومدينة طوكيو الممطرة المضيئة بالنيون مرئية من خلال النافذة خلفها.
 
-<a href="https://x.com/aisuruai2023/status/2054140097382248815#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6b7449fa4f8e.webp" alt="استوديو مضيفة دمية إذاعية في وقت متأخر من الليل" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=118147201519502"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6b7449fa4f8e.webp" alt="استوديو مضيفة دمية إذاعية في وقت متأخر من الليل" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=118147201519502)
 
 **المطالبة:**
 
@@ -1111,7 +1203,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** بطاقة لوحة قصصية سينمائية عريضة 16:9 مع رأس نص أسود وشبكة مكونة من 10 لوحات تصور وداعًا مؤلمًا على السطح عند الغروب، مكتملة برموز زمنية وخطوط صوتية.
 
-<a href="https://x.com/ItsmeRopes/status/2057565020670595315#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/dc64e329daec.webp" alt="وعد الغروب لوحة قصصية لأنمي" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=242325866011372"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/dc64e329daec.webp" alt="وعد الغروب لوحة قصصية لأنمي" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=242325866011372)
 
 **المطالبة:**
 
@@ -1149,7 +1243,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ورقة تصميم شخصية بأسلوب بيكسار ثلاثي الأبعاد نظيفة على خلفية بيضاء مع شخصيتين جنبًا إلى جنب، عنوان بأسلوب ضربات فرشاة، وعنوان فرعي ذكي لقصة متحركة قصيرة.
 
-<a href="https://x.com/TechieBySA/status/2057511465884557754"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/90b32be54bd7.webp" alt="ورقة تصميم شخصية بأسلوب بيكسار" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=159099209993175"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/90b32be54bd7.webp" alt="ورقة تصميم شخصية بأسلوب بيكسار" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=159099209993175)
 
 **المطالبة:**
 
@@ -1165,7 +1261,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ملصق غلاف مجلة مستوحى من إيفانجيليون عمودي مع فتى مراهق في المقدمة وميكا وحدة-01 عملاق أرجواني ينفجر من خلال الحطام، مقترنًا بطباعة سيريف فاخرة وبرق طاقة بنفسجية.
 
-<a href="https://x.com/busyddd/status/2057509830995394595#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b6fbe8856aaf.webp" alt="ملصق غلاف مجلة إيفانجيليون" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=201193054104239"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b6fbe8856aaf.webp" alt="ملصق غلاف مجلة إيفانجيليون" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=201193054104239)
 
 **المطالبة:**
 
@@ -1195,7 +1293,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** صورة عمودية سينمائية لصبي هادئ يرتدي نظارات يتكئ على جدار زقاق مظلم، مع ظل ضخم مخيف على شكل ذئب يلوح خلفه في ضوء ذهبي دافئ.
 
-<a href="https://x.com/drzubi01/status/2057494083795615752#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4e20e2c13747.webp" alt="صورة صبي مع ظل ذئب في الزقاق" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=85903150233415"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4e20e2c13747.webp" alt="صورة صبي مع ظل ذئب في الزقاق" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=85903150233415)
 
 **المطالبة:**
 
@@ -1211,7 +1311,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** لوحة شخصيات سينمائية ملحمية لعالم صحراوي بحجم ضخم، عواصف غبار ذهبية، دوران كامل للجسم، لقطات قريبة حميمة، تفصيلات الأزياء التكتيكية، وواقعية جوية للخيال العلمي تذكر بوثائق عرض أفلام فاخرة.
 
-<a href="https://x.com/Mind_Boticni/status/2057441467963175088"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63007a2aa680.webp" alt="لوحة شخصيات سينمائية لعالم صحراوي" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=108853700765312"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63007a2aa680.webp" alt="لوحة شخصيات سينمائية لعالم صحراوي" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=108853700765312)
 
 **المطالبة:**
 
@@ -1227,7 +1329,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** بورتريه فني بأسلوب الرسم التخطيطي لشاب يرتدي نظارات شمسية، يمزج بين خطوط القلم الرصاص والحبر مع تظليل مائي، وإطارات هندسية، ورذاذ حبر، وملاحظات خط يد على ورق م textured.
 
-<a href="https://x.com/iamsofiaijaz/status/2057440838033252767"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6f5124db184d.webp" alt="بورتريه رسم مختلط" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=122394301372493"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6f5124db184d.webp" alt="بورتريه رسم مختلط" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=122394301372493)
 
 **المطالبة:**
 
@@ -1243,7 +1347,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** رسم توضيحي سينمائي مقرب لأنمي لطالبة خجولة تتطلع نحو المشاهد من السرير، تم تصويره بزاوية واسعة جدًا في غرفة نوم مريحة مضاءة بدفء الغسق.
 
-<a href="https://x.com/jpn_eagle/status/2057437685686706467#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/aa66d009ab1f.webp" alt="لقطة مقربة لطالبة أنمي في غرفة النوم" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=187358553680671"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/aa66d009ab1f.webp" alt="لقطة مقربة لطالبة أنمي في غرفة النوم" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=187358553680671)
 
 **المطالبة:**
 
@@ -1259,7 +1365,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ورقة تصميم شخصية بأسلوب مجلة جمالية لروزينا، تمزج بين أوضاع شبه واقعية وتشيبي مع ملاحظات شخصية مكتوبة باليد، عينات ألوان، ملاحظات لاصقة، وإحساس دافئ بدفتر ملاحظات كوري.
 
-<a href="https://x.com/RuzainaMeer/status/2057398827901137404"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/942e392ab57c.webp" alt="ورقة تصميم شخصية روزينا" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=162926248506748"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/942e392ab57c.webp" alt="ورقة تصميم شخصية روزينا" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=162926248506748)
 
 **المطالبة:**
 
@@ -1296,7 +1404,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** انتشار تقنية الاستدعاء بأسلوب مانغا شونين يصور اللحظة التي يظهر فيها كائن عملاق متعاقد من دخان أبيض انفجاري ودائرة طقسية، مع خطوط تركيز، حطام، وأصوات مانغا.
 
-<a href="https://x.com/Eris_Create_Lab/status/2057393463138873789"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4b35450e2116.webp" alt="انتشار تقنية الاستدعاء مانغا" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=82692163903766"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4b35450e2116.webp" alt="انتشار تقنية الاستدعاء مانغا" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=82692163903766)
 
 **المطالبة:**
 
@@ -1312,7 +1422,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** غلاف مجلة أزياء الشارع عمودي جريء لـ HER19845، نموذج كامل الجسم في أزياء هيب هوب متمردة من التسعينات أمام طباعة خلفية عملاقة بتدرج HER19845 ونسيج زين.
 
-<a href="https://x.com/her19845/status/2057569603388059833#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ec3e307d7c76.webp" alt="غلاف مجلة أزياء الشارع HER19845" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=259751845657718"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ec3e307d7c76.webp" alt="غلاف مجلة أزياء الشارع HER19845" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=259751845657718)
 
 **المطالبة:**
 
@@ -1340,7 +1452,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ملصق حملة أزياء الشارع العمودي لإصدار محدود من HER19845، نموذج كامل الجسم في هودي جرافيك أسود كبير وسروال رياضي ضد طباعة عنوان عملاقة باللون الوردي الفاتح على خلفية بيضاء مائلة.
 
-<a href="https://x.com/her19845/status/2057569603388059833#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2aadac39b559.webp" alt="ملصق حملة إصدار هودي HER19845" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=46925407171929"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2aadac39b559.webp" alt="ملصق حملة إصدار هودي HER19845" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=46925407171929)
 
 **المطالبة:**
 
@@ -1368,7 +1482,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** كولاج بورتريه عمودي للأزياء الراقية لنموذج يرتدي نظارات شمسية داكنة، مع أربعة لوحات من شرائط الفيلم بالأبيض والأسود متداخلة خلف قطع ظلي ملون باللون الأصفر لنفس النموذج في المقدمة.
 
-<a href="https://x.com/her19845/status/2057475917174190253"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e013489b1993.webp" alt="كولاج أزياء راقية بتنسيق فيلم" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=246373427124627"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e013489b1993.webp" alt="كولاج أزياء راقية بتنسيق فيلم" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=246373427124627)
 
 **المطالبة:**
 
@@ -1384,7 +1500,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** كولاج إعلان سينمائي فاخر للوجبات السريعة يضم ثلاثة طهاة شابات جميلات يقدمون بيتزا بالجبن، برغر غوريه عصير، وساندويتش مشوي، مع خطوط أنيقة وأجواء مطبخ ذهبية فاخرة.
 
-<a href="https://x.com/veylorvisions/status/2057461617487651311"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/a925bd188e20.webp" alt="كولاج إعلان طاهٍ للوجبات السريعة السينمائية" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=185979551387168"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/a925bd188e20.webp" alt="كولاج إعلان طاهٍ للوجبات السريعة السينمائية" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=185979551387168)
 
 **المطالبة:**
 
@@ -1408,7 +1526,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** ملصق كولاج شوارع كورية جريئة من Y2K مع بورتريه سينمائي كبير فوق إطارين بولارويد ممزقين، خط كوري بحجم كبير، شريط واشي، ملصقات باركود، وقوام زين جريء.
 
-<a href="https://x.com/her19845/status/2057430332773662929"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4a5bb6b8b352.webp" alt="كولاج شوارع كورية من Y2K" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=81757768037202"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4a5bb6b8b352.webp" alt="كولاج شوارع كورية من Y2K" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=81757768037202)
 
 **المطالبة:**
 
@@ -1424,7 +1544,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** صورة درامية بالأبيض والأسود لامرأة ترتد للخلف أثناء جريها عبر نفق معدني متناظر مستقبلي، تم التقاطها بفلاش مباشر، وضباب حركة، وطاقة تحريرية جريئة.
 
-<a href="https://x.com/bmx_ai13/status/2057406799037464659"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/53748ef4f5bd.webp" alt="حركة نفق الموضة بالأبيض والأسود" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=91760079730109"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/53748ef4f5bd.webp" alt="حركة نفق الموضة بالأبيض والأسود" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=91760079730109)
 
 **المطالبة:**
 
@@ -1440,7 +1562,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** صورة لحملة أزياء من زاوية منخفضة لعارضة واثقة تحمل منتجًا كبيرًا بالقرب من عدسة الكاميرا مع منظور مضغوط شديد على خلفية استوديو بيضاء نقية وإضاءة عالية.
 
-<a href="https://x.com/iamaiistudio/status/2057402771599700081"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/119c2c1d9e51.webp" alt="حملة منتج بمنظور مضغوط" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=19362452708945"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/119c2c1d9e51.webp" alt="حملة منتج بمنظور مضغوط" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=19362452708945)
 
 **المطالبة:**
 
@@ -1456,7 +1580,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** إعلان منتج فائق الواقعية لعارضة أزياء تتكئ بشكل غير رسمي على صندل مريح مستقبلي عملاق، مع طباعة عمودية ضخمة على خلفية نظيفة تتدرج من الأزرق السماوي إلى اللافندر.
 
-<a href="https://x.com/iamaiistudio/status/2057281549851377866"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/893d1336333a.webp" alt="إعلان منتج صندل مريح بأسلوب بسيط" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=150895408329530"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/893d1336333a.webp" alt="إعلان منتج صندل مريح بأسلوب بسيط" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=150895408329530)
 
 **المطالبة:**
 
@@ -1482,7 +1608,9 @@ Subject: [فراولة بجانب النافذة]. Person/Expression: امرأة
 
 **الوصف:** تصميم جريء لقميص بخلفية شفافة لصحن طائر ثلاثي الأبعاد من الكروم يرسل شعاعًا ماغنتيًا نحو ظل صغير، مع العنوان الاتصال الأول بخط عرض مستقبلي.
 
-<a href="https://x.com/92digitalartArt/status/2057141494729830591"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/cb36be49bac8.webp" alt="تصميم قميص الاتصال الأول مع صحن طائر" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=223435981175496"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/cb36be49bac8.webp" alt="تصميم قميص الاتصال الأول مع صحن طائر" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=223435981175496)
 
 **المطالبة:**
 
@@ -1498,7 +1626,9 @@ A [تصميم قميص ثقافة البوب النادرة المتميز] isol
 
 **الوصف:** صورة منتج دافئة وبسيطة في الاستوديو مع رسم خط أبيض يدوي فوق شخصية تتفاعل مع المنتج، تمزج بين التصوير الفوتوغرافي الحقيقي ورسم التخطيط لإحساس علامة تجارية راقية.
 
-<a href="https://x.com/MissDelulu9/status/2056646177106567563"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/70f2ca113a4a.webp" alt="صورة منتج بسيطة مع رسومات" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=124188074523210"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/70f2ca113a4a.webp" alt="صورة منتج بسيطة مع رسومات" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=124188074523210)
 
 **المطالبة:**
 
@@ -1514,7 +1644,9 @@ A [تصميم قميص ثقافة البوب النادرة المتميز] isol
 
 **الوصف:** صورة لصندوق هدايا شوكولاتة محدود الإصدار بلون وردي باهت فاخر مع عشرة قطع شوكولاتة مزخرفة مرتبة في شبكة، غطاء مطبوع بصورة، رباط ساتان، دانتيل، لآلئ، وتصميم بلون الذهب الوردي.
 
-<a href="https://x.com/pochiina/status/2056424531250823669#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/c5c0ae49d15f.webp" alt="صندوق هدايا شوكولاتة وردي باهت" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=217431348466015"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/c5c0ae49d15f.webp" alt="صندوق هدايا شوكولاتة وردي باهت" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=217431348466015)
 
 **المطالبة:**
 
@@ -1530,7 +1662,9 @@ A [تصميم قميص ثقافة البوب النادرة المتميز] isol
 
 **الوصف:** عرض تقديمي لمنتج أزياء ثلاثي الأبعاد مربع فاخر يطفو بالضبط تسعة عناصر فاخرة بما في ذلك قبعة، أحذية رياضية، قمصان، ساعة، نظارات شمسية، حقيبة، حقيبة ظهر، وأحذية على قواعد رخامية داكنة.
 
-<a href="https://x.com/abs_uiux/status/2056401853475094759#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b86a012d0eb3.webp" alt="عرض تقديمي فاخر لمنتجات الأزياء ثلاثية الأبعاد" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=202765425774259"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b86a012d0eb3.webp" alt="عرض تقديمي فاخر لمنتجات الأزياء ثلاثية الأبعاد" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=202765425774259)
 
 **المطالبة:**
 
@@ -1546,7 +1680,9 @@ A [تصميم قميص ثقافة البوب النادرة المتميز] isol
 
 **الوصف:** إعلان كوكا كولا سريالي عمودي مع علبة حمراء مبردة على خلفية حمراء داكنة، وسحاب فضي يفتح عبر الإطار ليكشف عن عوالم غروب الشمس المتناقضة وجبال جليدية.
 
-<a href="https://x.com/GeneratePrompt/status/2055757582757712230#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bf1fa79df0c9.webp" alt="إعلان مفاهيمي لعلبة كوكا كولا بسحاب" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=210142677037257"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bf1fa79df0c9.webp" alt="إعلان مفاهيمي لعلبة كوكا كولا بسحاب" width="640" /></a>
+
+[![▶ جرّبه الآن](https://img.shields.io/badge/%E2%96%B6%20%D8%AC%D8%B1%D9%91%D8%A8%D9%87%20%D8%A7%D9%84%D8%A2%D9%86-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=210142677037257)
 
 **المطالبة:**
 

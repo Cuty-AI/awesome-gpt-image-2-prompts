@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/banner.webp" alt="Awesome GPT Image 2 Prompts" width="100%" />
+<a href="https://www.cuty.ai/prompts/gpt-image-2"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/banner.webp" alt="Awesome GPT Image 2 Prompts" width="100%" /></a>
 
 # 🖼️ Awesome GPT Image 2 Prompts
 
@@ -57,7 +57,9 @@
 
 **Описание:** Стилизованный 3D портрет карикатуры с крайне преувеличенными пропорциями комического эффекта, увеличенными чертами, яркими выражениями, мягкими матовыми материалами и насыщенным градиентным фоном для сильного визуального контраста.
 
-<a href="https://x.com/salihsanal/status/2057741572666445999"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/f43d70dc026c.webp" alt="Преувеличенный 3D CGI Портрет Карикатуры" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=268544723649132"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/f43d70dc026c.webp" alt="Преувеличенный 3D CGI Портрет Карикатуры" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=268544723649132)
 
 **Промпт:**
 
@@ -73,7 +75,9 @@
 
 **Описание:** Молодая женщина с волнистыми волосами на кремовом диване в солнечной минималистичной гостиной, лицо закрыто блоком конфиденциальности для воздушной японской/корейской эстетики квартиры.
 
-<a href="https://x.com/SusumuMind/status/2057586669839331576#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b68deb650095.webp" alt="Уютный утренний портрет в стиле жизни с блоком конфиденциальности" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=200720655909013"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b68deb650095.webp" alt="Уютный утренний портрет в стиле жизни с блоком конфиденциальности" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=200720655909013)
 
 **Промпт:**
 
@@ -89,7 +93,9 @@
 
 **Описание:** Изысканный студийный портрет женщины, повернутой спиной к камере, уверенно смотрящей через плечо, с драматичным боковым освещением на фоне сплошного цветного фона.
 
-<a href="https://x.com/ChillaiKalan__/status/2057542507928736240"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4bdcbfc2734b.webp" alt="Студийный портрет через плечо" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=83411482080075"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4bdcbfc2734b.webp" alt="Студийный портрет через плечо" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=83411482080075)
 
 **Промпт:**
 
@@ -105,7 +111,9 @@
 
 **Описание:** Широкоугольная перспектива крупного плана, где лицо персонажа поднесено очень близко к экрану, преувеличивая одну черту, такую как глаз или ухо, для комедийного искажения.
 
-<a href="https://x.com/challenger_ND/status/2057466141174612455"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/421379eb2a03.webp" alt="Широкоугольный преувеличенный крупный план лица" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=72651417266691"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/421379eb2a03.webp" alt="Широкоугольный преувеличенный крупный план лица" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=72651417266691)
 
 **Промпт:**
 
@@ -121,7 +129,9 @@
 
 **Описание:** Вертикальный портрет до плеч школьницы в белой летней форме, укушающей клубнику у окна, выполненный в мягком пастельном пленочном стиле с малой глубиной резкости.
 
-<a href="https://x.com/CyberTotal2026/status/2057465950275010685"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1cdee044649a.webp" alt="Мягкая пленочная школьница с клубникой" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=31743570896026"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1cdee044649a.webp" alt="Мягкая пленочная школьница с клубникой" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=31743570896026)
 
 **Промпт:**
 
@@ -137,7 +147,9 @@
 
 **Описание:** Кинематографический 8K редакционный портрет мужчины в черном водолазке и пиджаке на фоне темно-изумрудного градиента студии, освещенный роскошным GQ-стилем 85mm боке.
 
-<a href="https://x.com/iamaiistudio/status/2057463278608252933"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/34a2247a2dbc.webp" alt="Портрет мужчины с тихим богатством" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=57871001333180"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/34a2247a2dbc.webp" alt="Портрет мужчины с тихим богатством" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=57871001333180)
 
 **Промпт:**
 
@@ -161,7 +173,9 @@
 
 **Описание:** Четырехпанельный коллаж селфи молодой женщины в Oversized сером свитере и юбке на кровати, лицо мягко размыто, в уютной теплой минималистичной спальне.
 
-<a href="https://x.com/kasu_mi_ai/status/2057424172842946815#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/d8824f5c7e2a.webp" alt="Уютный коллаж селфи 2x2 в спальне" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=238054188809770"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/d8824f5c7e2a.webp" alt="Уютный коллаж селфи 2x2 в спальне" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=238054188809770)
 
 **Промпт:**
 
@@ -177,7 +191,9 @@
 
 **Описание:** Гиперреалистичный черно-белый кинематографический портрет с длинными световыми полосами позади субъекта, чье лицо частично скрыто развевающимися прядями волос и боковым размытием движения.
 
-<a href="https://x.com/aidetool/status/2057406992642445720"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/24accc190b1d.webp" alt="Кинематографический портрет с размытием движения в черно-белом цвете" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=40324577168157"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/24accc190b1d.webp" alt="Кинематографический портрет с размытием движения в черно-белом цвете" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=40324577168157)
 
 **Промпт:**
 
@@ -193,7 +209,9 @@
 
 **Описание:** Кинематографический крупный план женщины в профиль, нежно наклоняющей голову к росистому цветку, освещенному теплым золотистым задним светом на фоне размытого темно-зеленого природного фона.
 
-<a href="https://x.com/Shinning1010/status/2057332420383494441"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/245f53cc546c.webp" alt="Мечтательный профиль с лилией" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=39991846392940"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/245f53cc546c.webp" alt="Мечтательный профиль с лилией" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=39991846392940)
 
 **Промпт:**
 
@@ -211,7 +229,9 @@
 
 **Описание:** Редакционный коллаж из четырех панелей с женщиной в бежевой спортивной одежде на фоне мраморной кухни, роскошной ванной, уголка для ухода за собой и яркого кафе, снятый при мягком теплом дневном свете.
 
-<a href="https://x.com/iamaiistudio/status/2057734834982879662"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/235dcee76026.webp" alt="Коллаж о Здоровом Образе Жизни из Четырех Панелей" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=38885810200614"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/235dcee76026.webp" alt="Коллаж о Здоровом Образе Жизни из Четырех Панелей" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=38885810200614)
 
 **Промпт:**
 
@@ -241,7 +261,9 @@
 
 **Описание:** Мечтательная ностальгическая пленочная контактная таблица молодой пары в повседневной летней одежде ночью у моря, лица скрыты мягкими размазанными прямоугольниками.
 
-<a href="https://x.com/Anifun_AI/status/2057701330761007611"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/5cdbd1260157.webp" alt="Ностальгическая контактная таблица из 16 фото пары" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=102099176522071"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/5cdbd1260157.webp" alt="Ностальгическая контактная таблица из 16 фото пары" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=102099176522071)
 
 **Промпт:**
 
@@ -257,7 +279,9 @@
 
 **Описание:** Фантастический портрет верхней части тела молодой женщины с радужными чешуйчатыми украшениями и струящимися волосами, напоминающими воду, на прозрачном подводном фоне с пузырьками и мягким отраженным светом.
 
-<a href="https://x.com/CyberTotal2026/status/2057610889722048546"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2c596fdee6d0.webp" alt="Эфирный портрет водного духа" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=48762640590544"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2c596fdee6d0.webp" alt="Эфирный портрет водного духа" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=48762640590544)
 
 **Промпт:**
 
@@ -285,7 +309,9 @@
 
 **Описание:** Редакционный крупный план лица, держащего ромашковый цветок между губами, с чрезвычайно росистой кожей, интенсивными розовыми румянами, веснушками и мягким фронтальным студийным освещением.
 
-<a href="https://x.com/CHAseUnre/status/2057600345467990293"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1b47c913184c.webp" alt="Росистая красота: редакционный крупный план с ромашкой" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=29995130099788"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1b47c913184c.webp" alt="Росистая красота: редакционный крупный план с ромашкой" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=29995130099788)
 
 **Промпт:**
 
@@ -313,7 +339,9 @@
 
 **Описание:** Яркий коллаж-постер в стиле Y2K японской уличной редакции с крупным кинематографическим портретом, рваными рамками полароидов, крупной типографикой, скотчем, брызгами чернил и грубыми текстурами токийского журнала.
 
-<a href="https://x.com/iamaiistudio/status/2057583921957941257"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3daf2504add4.webp" alt="Y2K Японский Уличный Редакционный Постер" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=67822449634772"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3daf2504add4.webp" alt="Y2K Японский Уличный Редакционный Постер" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=67822449634772)
 
 **Промпт:**
 
@@ -337,7 +365,9 @@
 
 **Описание:** Иллюстрация в полный рост аниме девушки в сложной готической лолитной моде, стоящей в тусклом коридоре готического собора, снятая с драматического низкого угла с кинематографическим атмосферным освещением.
 
-<a href="https://x.com/momoka_AIIllust/status/2057567110759408054#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/fb74570bbaae.webp" alt="Готическая Лолита Иллюстрация в Соборе Аниме" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=276477095164590"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/fb74570bbaae.webp" alt="Готическая Лолита Иллюстрация в Соборе Аниме" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=276477095164590)
 
 **Промпт:**
 
@@ -353,7 +383,9 @@
 
 **Описание:** Фотореалистичный портрет загруженного объекта, окруженного пятью идентичными мини 3D чиби версиями себя, каждая игриво взаимодействует с одной и той же сценой, освещением и реквизитом.
 
-<a href="https://x.com/miilesus/status/2057552449729450318"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/234f5edf2a08.webp" alt="Фотореалистичный портрет с мини чиби-компаньонами" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=38823801072136"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/234f5edf2a08.webp" alt="Фотореалистичный портрет с мини чиби-компаньонами" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=38823801072136)
 
 **Промпт:**
 
@@ -369,7 +401,9 @@
 
 **Описание:** Ретро иллюстрация уличной моды, вдохновленная Диснейлендом Завтрашнего Дня 1955 года, с монорельсом, окружающим гору Космического Пика в форме орла, атомными звёздными мотивами, реактивными рюкзаками, типографикой архитектуры Гуги и хромированными акцентами футуризма середины века.
 
-<a href="https://x.com/nonameoasis/status/2057528295001088183"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3bca523bff76.webp" alt="Ретро Футуризм Завтрашнего Дня в Уличной Моде" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=65740149096310"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3bca523bff76.webp" alt="Ретро Футуризм Завтрашнего Дня в Уличной Моде" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=65740149096310)
 
 **Промпт:**
 
@@ -385,7 +419,9 @@
 
 **Описание:** Обложка журнала о косплее в стиле хай-фэшн с позой злодея Кибуцудзи Музана в белой федоре и плаще, утонченная типографика с засечками, светло-бежевый студийный фон.
 
-<a href="https://x.com/busyddd/status/2057509830995394595#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/703311116c7e.webp" alt="Обложка журнала о косплее аниме-злодея" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=123364631997566"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/703311116c7e.webp" alt="Обложка журнала о косплее аниме-злодея" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=123364631997566)
 
 **Промпт:**
 
@@ -413,7 +449,9 @@
 
 **Описание:** Премиум лист наклеек 4x3 с одной и той же молодой женщиной в двенадцати различных выражениях, каждый портрет по плечи обведен толстой белой вырезанной рамкой на нейтральном фоне.
 
-<a href="https://x.com/iamaiistudio/status/2057493355865714894"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/58dd72918f6d.webp" alt="Лист наклеек с 12 выражениями портрета" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=97708133158765"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/58dd72918f6d.webp" alt="Лист наклеек с 12 выражениями портрета" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=97708133158765)
 
 **Промпт:**
 
@@ -433,7 +471,9 @@
 
 **Описание:** Премиум пакет стикеров 4x3 с одной женщиной в разных футбольных футболках, двенадцать выразительных поз в стиле эмодзи, мягкий бежевый фон, фотореалистичное мягкое освещение и толстые белые рамки с вырезом.
 
-<a href="https://x.com/iamsofiaijaz/status/2057485300818235561"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ed9e4257b130.webp" alt="Пакет стикеров футбольной футболки" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=261263973658928"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ed9e4257b130.webp" alt="Пакет стикеров футбольной футболки" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=261263973658928)
 
 **Промпт:**
 
@@ -479,7 +519,9 @@
 
 **Описание:** Реалистичный портрет женщины, работающей в милом розовом креативном офисе, окруженной мини чиби версиями себя, выполняющими игривые действия, плюс каракули и наложения эмодзи.
 
-<a href="https://x.com/heyfatema/status/2057476795830812985"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4966df6bb80.webp" alt="Сцена с чиби в розовом офисе" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=251334741113728"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4966df6bb80.webp" alt="Сцена с чиби в розовом офисе" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=251334741113728)
 
 **Промпт:**
 
@@ -495,7 +537,9 @@
 
 **Описание:** Кинематографическая широкоугольная фотография приключенческого мотоциклиста и туристических мотоциклов на горной смотровой площадке, с светящейся золотой голографической GPS-картой, проецируемой на асфальтовую дорогу.
 
-<a href="https://x.com/Ozayrr_irl/status/2057473247118316023"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/9bdacfe006af.webp" alt="Голографическая карта маршрута мотоцикла" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=171364092741295"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/9bdacfe006af.webp" alt="Голографическая карта маршрута мотоцикла" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=171364092741295)
 
 **Промпт:**
 
@@ -511,7 +555,9 @@
 
 **Описание:** Реалистичная сетка 2x3 одной японской женщины, выполняющей шесть подписанных поз йоги в минимальной студии с мягким светом из окна и естественными фотографическими недостатками в стиле смартфона.
 
-<a href="https://x.com/craftian_keskin/status/2057526205092708404"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/335665b326ea.webp" alt="Сетка из шести поз йоги" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=56446166443754"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/335665b326ea.webp" alt="Сетка из шести поз йоги" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=56446166443754)
 
 **Промпт:**
 
@@ -611,7 +657,9 @@
 
 **Описание:** Редакционная схема моды элегантной женщины в пошитом белом костюме, окруженная метками, заметками по пошиву, деталями тканей и аннотациями концепции высококачественной женской одежды.
 
-<a href="https://x.com/ZephyraLeigh/status/2057487393247367289"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/69f007e21aff.webp" alt="Схема модной женской одежды" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=116479645326079"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/69f007e21aff.webp" alt="Схема модной женской одежды" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=116479645326079)
 
 **Промпт:**
 
@@ -627,7 +675,9 @@
 
 **Описание:** Мечтательный вертикальный постер для скрапбукинга для корейского пистачио розового латте, иллюстрация многослойного напитка, рукописные аннотации, полароиды, карточки с рецептами и ингредиентами, в палитре кафе Pinterest в розовом и фисташковом цветах.
 
-<a href="https://x.com/mylifcc/status/2057486709655543985#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bbc2a4fb5955.webp" alt="Постер для скрапбукинга Пистачио Розовое Латте" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=206444665985365"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bbc2a4fb5955.webp" alt="Постер для скрапбукинга Пистачио Розовое Латте" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=206444665985365)
 
 **Промпт:**
 
@@ -661,7 +711,9 @@
 
 **Описание:** Милая японская инфографика в стиле каваи, оформленная как диагностика личности персонажа-животного в виде пончика, с пастельными карточками, пончиком в форме волка, рамкой с портретом аниме и текстом заголовка на японском языке в пузырьках.
 
-<a href="https://x.com/kiyu___K/status/2057465485621706897#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/77c92b20f590.webp" alt="Инфографика диагностики пончиков с животными в стиле каваи" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=131705895712144"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/77c92b20f590.webp" alt="Инфографика диагностики пончиков с животными в стиле каваи" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=131705895712144)
 
 **Промпт:**
 
@@ -696,7 +748,9 @@
 
 **Описание:** Распечатываемый лист раскраски по номерам формата A4 с черно-белым линейным искусством драматической океанской волны в японском стиле, десятью пронумерованными областями для раскрашивания и чистой горизонтальной цветовой легендой.
 
-<a href="https://x.com/NingKrysta45057/status/2057426499033055629#reversed-3"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09da48062270.webp" alt="Лист раскраски по номерам "Океанская волна"" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=10833115882096"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09da48062270.webp" alt="Лист раскраски по номерам «Океанская волна»" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=10833115882096)
 
 **Промпт:**
 
@@ -712,7 +766,9 @@
 
 **Описание:** Распечатываемый лист раскраски по номерам формата A4 с изображением тропической попугаи, сидящей среди больших листьев монстеры, с десятью нумерованными областями для раскрашивания и восьмицветной горизонтальной легендой ниже.
 
-<a href="https://x.com/NingKrysta45057/status/2057426499033055629#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/7c10256f1401.webp" alt="Лист раскраски по номерам с тропической попугаей" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=136408789357569"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/7c10256f1401.webp" alt="Лист раскраски по номерам с тропической попугаей" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=136408789357569)
 
 **Промпт:**
 
@@ -738,7 +794,9 @@
 
 **Описание:** Гипердетализированная инфографика в стиле скетчбука, смешивающая чернила, акварель и каракули на основе фотографии, с портретами, чиби версиями, сценами, фразами и личными заметками о личности.
 
-<a href="https://x.com/Shorelyn_/status/2057394913730494496"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/05fb0c2d1545.webp" alt="Инфографика личного скетчбука" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=6575799211333"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/05fb0c2d1545.webp" alt="Инфографика личного скетчбука" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=6575799211333)
 
 **Промпт:**
 
@@ -774,7 +832,9 @@
 
 **Описание:** Ультра-детализированный модный чертеж футуристической киберпанк девушки с серебристым бобом, голографической бомбер-курткой, неоновыми аксессуарами и помеченными аннотациями на чистом студийном фоне.
 
-<a href="https://x.com/ZephyraLeigh/status/2057342945901326769"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/80e7f5c0ba6a.webp" alt="Чертеж моды киберпанк уличной одежды" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=141733748849258"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/80e7f5c0ba6a.webp" alt="Чертеж моды киберпанк уличной одежды" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=141733748849258)
 
 **Промпт:**
 
@@ -792,7 +852,9 @@
 
 **Описание:** Фотореалистичный объект, отрендеренный на чистом белом фоне с нарисованными от руки черными техническими аннотациями, наложенными сверху, включая метки, размеры, взрывные виды, направляющие стрелки и небольшие схемы.
 
-<a href="https://x.com/iamaiistudio/status/2057221295557996876"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09721f308f9b.webp" alt="Аннотированный технический инфографик объекта" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=10385754197915"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09721f308f9b.webp" alt="Аннотированный технический инфографик объекта" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=10385754197915)
 
 **Промпт:**
 
@@ -808,7 +870,9 @@
 
 **Описание:** Широкий аниме-баннер с веселой школьницей Сайори в ярком мечтательном классе с подсолнухами, висячими фотопечатью, декорациями альбома и крупной декоративной рукописной типографикой справа.
 
-<a href="https://x.com/Anifun_AI/status/2057413690677481574"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/71caecbe50b5.webp" alt="Баннер аниме Сайори в классе" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=125116369227957"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/71caecbe50b5.webp" alt="Баннер аниме Сайори в классе" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=125116369227957)
 
 **Промпт:**
 
@@ -824,7 +888,9 @@
 
 **Описание:** Фотореалистичное изображение в стиле селфи с соотношением сторон 16:9 внутри купе спального вагона ночного поезда, с красным поездом ÖBB, мчащимся мимо на параллельных путях, и лунной альпийской ночью снаружи.
 
-<a href="https://x.com/mschneekluth/status/2056790621092806810#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/621d99777d6f.webp" alt="Миниатюра селфи в спальном поезде ночью" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=107879268318575"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/621d99777d6f.webp" alt="Миниатюра селфи в спальном поезде ночью" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=107879268318575)
 
 **Промпт:**
 
@@ -840,7 +906,9 @@
 
 **Описание:** Японский баннер для социальных медиа 16:9, сравнивающий три инструмента генерации изображений на основе ИИ с округлыми белыми карточками, жирным заголовком, глянцевыми 3D-иконками и ведущим, держащим три примера телефонов.
 
-<a href="https://x.com/Aibow06/status/2056693503405801864#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/895ec18a8e3a.webp" alt="Миниатюра сравнения японских инструментов ИИ для изображений" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=151040067014202"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/895ec18a8e3a.webp" alt="Миниатюра сравнения японских инструментов ИИ для изображений" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=151040067014202)
 
 **Промпт:**
 
@@ -870,7 +938,9 @@
 
 **Описание:** Универсальный шаблон привлекательной миниатюры для YouTube с структурированными заполнителями для субъекта, эмоции, композиции, освещения, цветовой иерархии, фона и стиля, оптимизированный для ультра читаемых социальных лент малого размера.
 
-<a href="https://x.com/GlitterPixely/status/2056693223536435221"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/16da7b40be31.webp" alt="Шаблон привлекательной миниатюры для YouTube" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=25127626522161"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/16da7b40be31.webp" alt="Шаблон привлекательной миниатюры для YouTube" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=25127626522161)
 
 **Промпт:**
 
@@ -886,7 +956,9 @@
 
 **Описание:** Ультра-детализированный постер аниме футбольной легенды с динамичным мчащимся футболистом, красно-черной футболкой в стиле AC Milan, драматическими прожекторами стадиона, эффектами действия в стиле манги и смелой типографикой катаканы.
 
-<a href="https://x.com/Taaruk_/status/2056410687044497826"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/763ceb5c6e6b.webp" alt="Кинематографический постер аниме футбольной легенды" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=130004018818667"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/763ceb5c6e6b.webp" alt="Кинематографический постер аниме футбольной легенды" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=130004018818667)
 
 **Промпт:**
 
@@ -902,7 +974,9 @@
 
 **Описание:** Триптих в аниме стиле моды стильных девушек, вдохновленных K-pop, каждая панель выполнена в уникальной эмоциональной неоновой теме: пастельная розовая мечта, электрический синий кибер и темно-красная полночь.
 
-<a href="https://x.com/Mind_Boticni/status/2056385033242607771"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/751ea7210564.webp" alt="Триптих неоновой моды K-Pop" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=128774513427812"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/751ea7210564.webp" alt="Триптих неоновой моды K-Pop" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=128774513427812)
 
 **Промпт:**
 
@@ -932,7 +1006,9 @@
 
 **Описание:** Широкий горизонтальный баннер каваи аниме поп-идола с веселой девушкой с хвостиками, держащей блестящий микрофон, окруженной наклейками в цветах конфет декора-кэй, искрами, сердцами и текстовыми пузырями в комиксном стиле.
 
-<a href="https://x.com/Toshi_nyaruo_AI/status/2056303856695603540"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63485bf82b70.webp" alt="Баннер Каваи Аниме Поп Идола" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=109162431785840"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63485bf82b70.webp" alt="Баннер Каваи Аниме Поп Идола" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=109162431785840)
 
 **Промпт:**
 
@@ -952,7 +1028,9 @@
 
 **Описание:** Фото в стиле смартфона 16:9 с кафе-дата, корейским красавцем, латте и тортом на столе, мягким светом из окна и большими центральными белыми текстовыми наложениями времени и названия.
 
-<a href="https://x.com/KudouCraft/status/2055984235006263688"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/72b199bc19d7.webp" alt="Накладка на Фото Смартфона Кафе Дата" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=126107114019287"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/72b199bc19d7.webp" alt="Накладка на Фото Смартфона Кафе Дата" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=126107114019287)
 
 **Промпт:**
 
@@ -968,7 +1046,9 @@
 
 **Описание:** Вертикальный аниме-постер, вдохновленный Атакой титанов, с изможденной от битвы девушкой в тактическом военном снаряжении на фоне разрушенного города, удаленного силуэта титана и премиальной японской редакционной типографикой.
 
-<a href="https://x.com/Shorelyn_/status/2055968745819111708"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/199c1a0c6b54.webp" alt="Аниме-постер, вдохновленный Атакой титанов" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=28158242614100"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/199c1a0c6b54.webp" alt="Аниме-постер, вдохновленный Атакой титанов" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=28158242614100)
 
 **Промпт:**
 
@@ -997,7 +1077,9 @@
 
 **Описание:** Вертикальный постер влогов о путешествиях в стиле чиби с милыми мини-персонажами, исследующими гигантскую 3D типографику названия города, заполненную фотографиями достопримечательностей, туристическими штампами, типографикой кистью и яркими элементами коллажа отпуска.
 
-<a href="https://x.com/Taaruk_/status/2055325558020673638"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e8e61989095f.webp" alt="Постер типографики города влогов о путешествиях в стиле чиби" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=256074968533343"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e8e61989095f.webp" alt="Постер типографики города влогов о путешествиях в стиле чиби" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=256074968533343)
 
 **Промпт:**
 
@@ -1013,7 +1095,9 @@
 
 **Описание:** Широкая миниатюра японского YouTube с тремя женщинами в соревновательных купальниках, стоящими на солнечном открытом общественном бассейне, лица пикселированы, и жирные заголовки японского развлекательного шоу.
 
-<a href="https://x.com/TomaAIbijo/status/2055297958237884531#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4afb0258f701.webp" alt="Миниатюра Интервью у Японского Бассейна" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=82441936631553"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4afb0258f701.webp" alt="Миниатюра Интервью у Японского Бассейна" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=82441936631553)
 
 **Промпт:**
 
@@ -1039,7 +1123,9 @@
 
 **Описание:** Ультрареалистичный спонтанный скриншот футбольной трансляции болельщицы Баварии в красной футболке, смотрящей матч с трибун, с наложением финального счета в верхнем левом углу.
 
-<a href="https://x.com/I_Yamada_AI/status/2055283575864619339"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ccda315833ff.webp" alt="Скриншот поддержки футбольной трансляции" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=225237502800895"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ccda315833ff.webp" alt="Скриншот поддержки футбольной трансляции" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=225237502800895)
 
 **Промпт:**
 
@@ -1055,7 +1141,9 @@
 
 **Описание:** 2.5D кинематографический установочный кадр солнечной Никосии, Кипр, выполненный в стилизованном реализме, с объемным солнечным светом, глубиной резкости, пленочным шумом и кинематографическим движением камеры для открывающей последовательности.
 
-<a href="https://x.com/farm_ion/status/2055275272400695448"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4505354df90.webp" alt="Никосия Блю Лагуна 2.5D Установочный Кадр" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=251033646587792"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4505354df90.webp" alt="Никосия Блю Лагуна 2.5D Установочный Кадр" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=251033646587792)
 
 **Промпт:**
 
@@ -1077,7 +1165,9 @@
 
 **Описание:** Яркий вертикальный 3D приключенческий постер смелого маленького мультяшного исследователя, окруженного гигантскими тропическими листьями, экзотическими цветами, попугаями, тигренком, водопадом и массивной градиентной типографикой.
 
-<a href="https://x.com/92digitalartArt/status/2054948614128980060"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/759ba971c602.webp" alt="Тропический Джунгли 3D Приключенческий Постер" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=129311423186434"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/759ba971c602.webp" alt="Тропический Джунгли 3D Приключенческий Постер" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=129311423186434)
 
 **Промпт:**
 
@@ -1093,7 +1183,9 @@
 
 **Описание:** Кинематографическая вертикальная сцена радиостудии ночью с куклой-хостом, одетой в наушники за вещательным столом, дождливый неоновый Токио виден через окно позади.
 
-<a href="https://x.com/aisuruai2023/status/2054140097382248815#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6b7449fa4f8e.webp" alt="Студия куклы-хоста ночного радио" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=118147201519502"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6b7449fa4f8e.webp" alt="Студия куклы-хоста ночного радио" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=118147201519502)
 
 **Промпт:**
 
@@ -1109,7 +1201,9 @@
 
 **Описание:** Широкая 16:9 кинематографическая аниме-сториборд-карта с черным заголовком и сеткой из 10 панелей, изображающая горько-сладкое прощание на крыше на закате, с таймкодами и голосовыми репликами.
 
-<a href="https://x.com/ItsmeRopes/status/2057565020670595315#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/dc64e329daec.webp" alt="Обещание на закате: Аниме Сториборд" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=242325866011372"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/dc64e329daec.webp" alt="Обещание на закате: Аниме Сториборд" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=242325866011372)
 
 **Промпт:**
 
@@ -1147,7 +1241,9 @@
 
 **Описание:** Чистый лист дизайна персонажа в стиле Pixar 3D на белом фоне с двумя персонажами рядом друг с другом, заголовком в стиле кисти и остроумным подзаголовком для короткой анимационной истории.
 
-<a href="https://x.com/TechieBySA/status/2057511465884557754"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/90b32be54bd7.webp" alt="Лист дизайна персонажа в стиле Pixar" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=159099209993175"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/90b32be54bd7.webp" alt="Лист дизайна персонажа в стиле Pixar" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=159099209993175)
 
 **Промпт:**
 
@@ -1163,7 +1259,9 @@
 
 **Описание:** Вертикальный постер для обложки журнала, вдохновленный Evangelion, с подростком на переднем плане и гигантским мехом Unit-01, прорывающимся сквозь обломки, в сочетании с роскошной типографикой и фиолетовыми молниями.
 
-<a href="https://x.com/busyddd/status/2057509830995394595#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b6fbe8856aaf.webp" alt="Обложка журнала Evangelion" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=201193054104239"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b6fbe8856aaf.webp" alt="Обложка журнала Evangelion" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=201193054104239)
 
 **Промпт:**
 
@@ -1193,7 +1291,9 @@
 
 **Описание:** Кинематографический вертикальный портрет спокойного мальчика в очках, прислонившегося к темной стене аллеи, с огромной угрожающей тенью в форме волка, нависающей позади него в теплом золотом свете.
 
-<a href="https://x.com/drzubi01/status/2057494083795615752#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4e20e2c13747.webp" alt="Портрет мальчика с тенью волка в аллее" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=85903150233415"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4e20e2c13747.webp" alt="Портрет мальчика с тенью волка в аллее" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=85903150233415)
 
 **Промпт:**
 
@@ -1209,7 +1309,9 @@
 
 **Описание:** Эпическая кинематографическая доска персонажей пустынного мира с монументальными масштабами, золотыми пыльными бурями, полноразмерным поворотом, интимными крупными планами, тактическими разборами костюмов и атмосферным реализмом научной фантастики, напоминающим документы для презентации роскошных фильмов.
 
-<a href="https://x.com/Mind_Boticni/status/2057441467963175088"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63007a2aa680.webp" alt="Кинематографическая доска персонажей пустынного мира" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=108853700765312"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63007a2aa680.webp" alt="Кинематографическая доска персонажей пустынного мира" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=108853700765312)
 
 **Промпт:**
 
@@ -1225,7 +1327,9 @@
 
 **Описание:** Художественный портрет в стиле эскиза молодого человека в солнцезащитных очках, сочетающий линии карандаша и чернил с акварельным затенением, геометрическими рамками, брызгами чернил и рукописной типографикой на текстурированной бумаге.
 
-<a href="https://x.com/iamsofiaijaz/status/2057440838033252767"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6f5124db184d.webp" alt="Портрет в стиле смешанной техники" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=122394301372493"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6f5124db184d.webp" alt="Портрет в стиле смешанной техники" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=122394301372493)
 
 **Промпт:**
 
@@ -1241,7 +1345,9 @@
 
 **Описание:** Кинематографическая крупноплановая аниме иллюстрация стеснительной школьницы, заглядывающей к зрителю с кровати, снятая с экстремальной широкоугольной перспективы в уютном интерьере спальни при теплых сумерках.
 
-<a href="https://x.com/jpn_eagle/status/2057437685686706467#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/aa66d009ab1f.webp" alt="Крупный план аниме школьницы в спальне" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=187358553680671"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/aa66d009ab1f.webp" alt="Крупный план аниме школьницы в спальне" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=187358553680671)
 
 **Промпт:**
 
@@ -1257,7 +1363,9 @@
 
 **Описание:** Эстетический лист дизайна персонажа в стиле журнала для Рузайны, смешивающий полуреалистичные и чиби позы с рукописными заметками о личности, образцами цветов, стикерами и теплой атмосферой корейского вебтун-скрапбука.
 
-<a href="https://x.com/RuzainaMeer/status/2057398827901137404"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/942e392ab57c.webp" alt="Лист дизайна персонажа Рузайны" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=162926248506748"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/942e392ab57c.webp" alt="Лист дизайна персонажа Рузайны" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=162926248506748)
 
 **Промпт:**
 
@@ -1294,7 +1402,9 @@
 
 **Описание:** Спред в стиле шонен-манги, изображающий момент появления гигантского призванного существа из взрывообразного белого дыма и ритуального круга, с линиями фокуса, обломками и звукоподражаниями манги.
 
-<a href="https://x.com/Eris_Create_Lab/status/2057393463138873789"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4b35450e2116.webp" alt="Спред Дзюцу Призыва" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=82692163903766"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4b35450e2116.webp" alt="Спред Дзюцу Призыва" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=82692163903766)
 
 **Промпт:**
 
@@ -1310,7 +1420,9 @@
 
 **Описание:** Смелая вертикальная обложка журнала уличной моды для HER19845, модель в полный рост в объемной мятежной моде 90-х годов на фоне гигантской градиентной типографики HER19845 и текстур зина.
 
-<a href="https://x.com/her19845/status/2057569603388059833#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ec3e307d7c76.webp" alt="Обложка журнала уличной моды HER19845" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=259751845657718"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ec3e307d7c76.webp" alt="Обложка журнала уличной моды HER19845" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=259751845657718)
 
 **Промпт:**
 
@@ -1338,7 +1450,9 @@
 
 **Описание:** Вертикальный постер кампании уличной моды для ограниченного выпуска HER19845, модель в полный рост в объемном черном худи с графикой и спортивных штанах на фоне гигантской ярко-розовой типографики на светло-бежевом фоне.
 
-<a href="https://x.com/her19845/status/2057569603388059833#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2aadac39b559.webp" alt="Постер кампании худи HER19845" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=46925407171929"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2aadac39b559.webp" alt="Постер кампании худи HER19845" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=46925407171929)
 
 **Промпт:**
 
@@ -1366,7 +1480,9 @@
 
 **Описание:** Вертикальный коллаж портрета высокой моды модели в темных солнцезащитных очках, с четырьмя перекрывающимися черно-белыми панелями пленки за ярким силуэтом модели в желтой футболке на переднем плане.
 
-<a href="https://x.com/her19845/status/2057475917174190253"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e013489b1993.webp" alt="Коллаж высокой моды в стиле пленки" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=246373427124627"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e013489b1993.webp" alt="Коллаж высокой моды в стиле пленки" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=246373427124627)
 
 **Промпт:**
 
@@ -1382,7 +1498,9 @@
 
 **Описание:** Роскошный кинематографический коллаж рекламы фаст-фуда с тремя красивыми молодыми шеф-поварами, представляющими сырную пиццу, сочный гурманский бургер и поджаренный сэндвич, с стильной типографикой и премиум атмосферой золотой кухни.
 
-<a href="https://x.com/veylorvisions/status/2057461617487651311"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/a925bd188e20.webp" alt="Кинематографический коллаж рекламы шеф-поваров фаст-фуда" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=185979551387168"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/a925bd188e20.webp" alt="Кинематографический коллаж рекламы шеф-поваров фаст-фуда" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=185979551387168)
 
 **Промпт:**
 
@@ -1406,7 +1524,9 @@
 
 **Описание:** Смелый Y2K корейский уличный редакционный коллаж-постер с крупным кинематографическим портретом над двумя рваными полароидными рамками, крупной корейской типографикой, скотчем, наклейками с штрих-кодами и грубыми текстурами журнала.
 
-<a href="https://x.com/her19845/status/2057430332773662929"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4a5bb6b8b352.webp" alt="Y2K Корейский Уличный Редакционный Коллаж" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=81757768037202"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4a5bb6b8b352.webp" alt="Y2K Корейский Уличный Редакционный Коллаж" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=81757768037202)
 
 **Промпт:**
 
@@ -1422,7 +1542,9 @@
 
 **Описание:** Драматическая черно-белая фотография в высоком модном стиле женщины, поворачивающейся назад, бегущей через футуристический симметричный металлический туннель, снятая с прямой вспышкой, с размытиями в движении и смелой редакционной энергией.
 
-<a href="https://x.com/bmx_ai13/status/2057406799037464659"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/53748ef4f5bd.webp" alt="Черно-белое модное движение в туннеле" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=91760079730109"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/53748ef4f5bd.webp" alt="Черно-белое модное движение в туннеле" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=91760079730109)
 
 **Промпт:**
 
@@ -1438,7 +1560,9 @@
 
 **Описание:** Фотография модной кампании с низкого ракурса, на которой уверенная модель держит большой продукт прямо у объектива камеры с экстремальной Forced Perspective на чистом белом высокоключевом студийном фоне.
 
-<a href="https://x.com/iamaiistudio/status/2057402771599700081"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/119c2c1d9e51.webp" alt="Кампания продукта с Forced Perspective" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=19362452708945"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/119c2c1d9e51.webp" alt="Кампания продукта с Forced Perspective" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=19362452708945)
 
 **Промпт:**
 
@@ -1454,7 +1578,9 @@
 
 **Описание:** Гиперреалистичная премиум реклама продукта с моделью, небрежно прислонившейся к гигантскому футуристическому комфортному клагу, с массивной вертикальной типографикой на чистом градиенте от небесно-голубого до лавандового.
 
-<a href="https://x.com/iamaiistudio/status/2057281549851377866"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/893d1336333a.webp" alt="Минималистичная реклама комфортного клага" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=150895408329530"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/893d1336333a.webp" alt="Минималистичная реклама комфортного клага" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=150895408329530)
 
 **Промпт:**
 
@@ -1480,7 +1606,9 @@
 
 **Описание:** Смелая графика футболки с прозрачным фоном с хромированной 3D летающей тарелкой, проецирующей магентовый луч на крошечную силуэт, с заголовком ПЕРВОЕ СОЕДИНЕНИЕ в футуристическом шрифте.
 
-<a href="https://x.com/92digitalartArt/status/2057141494729830591"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/cb36be49bac8.webp" alt="Графика футболки Первое Соединение НЛО" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=223435981175496"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/cb36be49bac8.webp" alt="Графика футболки Первое Соединение НЛО" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=223435981175496)
 
 **Промпт:**
 
@@ -1496,7 +1624,9 @@ A [премиум поп-культуры нёрдов футболка граф
 
 **Описание:** Минималистичная теплая студийная фотография продукта с нарисованным от руки белым контурным рисунком персонажа, взаимодействующего с продуктом, сочетая реальную фотографию и иллюстрацию для ощущения высокого брендинга.
 
-<a href="https://x.com/MissDelulu9/status/2056646177106567563"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/70f2ca113a4a.webp" alt="Минималистичная фотография продукта с рисунками" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=124188074523210"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/70f2ca113a4a.webp" alt="Минималистичная фотография продукта с рисунками" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=124188074523210)
 
 **Промпт:**
 
@@ -1512,7 +1642,9 @@ A [премиум поп-культуры нёрдов футболка граф
 
 **Описание:** Роскошная пастельно-розовая подарочная коробка шоколадов ограниченной серии с десятью изысканными шоколадками, расположенными в сетке, крышкой с портретной печатью, атласным бантом, кружевом, жемчугом и оформлением в стиле розового золота.
 
-<a href="https://x.com/pochiina/status/2056424531250823669#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/c5c0ae49d15f.webp" alt="Пастельно-розовая шоколадная подарочная коробка" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=217431348466015"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/c5c0ae49d15f.webp" alt="Пастельно-розовая шоколадная подарочная коробка" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=217431348466015)
 
 **Промпт:**
 
@@ -1528,7 +1660,9 @@ A [премиум поп-культуры нёрдов футболка граф
 
 **Описание:** Премиум квадратный 3D показ модных товаров, плавающий с ровно девятью роскошными предметами, включая кепку, кроссовки, футболки, часы, солнцезащитные очки, сумку, рюкзак и обувь на темных мраморных постаментах.
 
-<a href="https://x.com/abs_uiux/status/2056401853475094759#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b86a012d0eb3.webp" alt="Роскошный 3D показ модных товаров" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=202765425774259"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b86a012d0eb3.webp" alt="Роскошный 3D показ модных товаров" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=202765425774259)
 
 **Промпт:**
 
@@ -1544,7 +1678,9 @@ A [премиум поп-культуры нёрдов футболка граф
 
 **Описание:** Сюрреалистичная вертикальная реклама Кока-Колы с охлажденной красной банкой на глубоком красном фоне, серебряная молния открывается по кадру, чтобы показать контрастные закатные и ледяные горные миры.
 
-<a href="https://x.com/GeneratePrompt/status/2055757582757712230#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bf1fa79df0c9.webp" alt="Концептуальная реклама Кока-Колы с молнией" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=210142677037257"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bf1fa79df0c9.webp" alt="Концептуальная реклама Кока-Колы с молнией" width="640" /></a>
+
+[![▶ Попробовать](https://img.shields.io/badge/%E2%96%B6%20%D0%9F%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=210142677037257)
 
 **Промпт:**
 

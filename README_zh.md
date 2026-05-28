@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/banner.webp" alt="Awesome GPT Image 2 Prompts" width="100%" />
+<a href="https://www.cuty.ai/prompts/gpt-image-2"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/banner.webp" alt="Awesome GPT Image 2 Prompts" width="100%" /></a>
 
 # 🖼️ Awesome GPT Image 2 Prompts
 
@@ -57,7 +57,9 @@
 
 **描述:** 风格化的3D卡通肖像，具有极其夸张的喜剧效果比例、超大特征、大胆的表情、柔和的哑光材料，以及饱和的渐变背景以增强视觉对比。
 
-<a href="https://x.com/salihsanal/status/2057741572666445999"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/f43d70dc026c.webp" alt="夸张的3D CGI 卡通肖像" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=268544723649132"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/f43d70dc026c.webp" alt="夸张的3D CGI 卡通肖像" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=268544723649132)
 
 **提示词:**
 
@@ -73,7 +75,9 @@
 
 **描述:** 一个年轻女性在阳光明媚的极简主义客厅中，波浪形头发坐在奶油色沙发上，脸被隐私块遮住，展现出通透的日本/韩国公寓美学。
 
-<a href="https://x.com/SusumuMind/status/2057586669839331576#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b68deb650095.webp" alt="舒适的晨间生活方式肖像与隐私块" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=200720655909013"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b68deb650095.webp" alt="舒适的晨间生活方式肖像与隐私块" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=200720655909013)
 
 **提示词:**
 
@@ -89,7 +93,9 @@
 
 **描述:** 优雅的工作室肖像，一位女性背对相机，自信地回头看，戏剧性的侧光照射在纯色背景上。
 
-<a href="https://x.com/ChillaiKalan__/status/2057542507928736240"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4bdcbfc2734b.webp" alt="过肩工作室肖像" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=83411482080075"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4bdcbfc2734b.webp" alt="过肩工作室肖像" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=83411482080075)
 
 **提示词:**
 
@@ -105,7 +111,9 @@
 
 **描述:** 广角透视特写，角色的脸极其靠近屏幕，夸张一个特征，如眼睛或耳朵，以达到喜剧扭曲的效果。
 
-<a href="https://x.com/challenger_ND/status/2057466141174612455"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/421379eb2a03.webp" alt="广角夸张面部特写" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=72651417266691"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/421379eb2a03.webp" alt="广角夸张面部特写" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=72651417266691)
 
 **提示词:**
 
@@ -121,7 +129,9 @@
 
 **描述:** 一位穿着白色夏季制服的女学生在窗边咬草莓的纵向胸部肖像，以柔和的粉彩胶卷风格呈现，具有浅景深。
 
-<a href="https://x.com/CyberTotal2026/status/2057465950275010685"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1cdee044649a.webp" alt="柔和胶卷的女学生与草莓" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=31743570896026"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1cdee044649a.webp" alt="柔和胶卷的女学生与草莓" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=31743570896026)
 
 **提示词:**
 
@@ -137,7 +147,9 @@
 
 **描述:** 电影感8K男性肖像，穿着黑色高领衫和定制西装外套，采用奢华GQ风格的85mm散景，背景为深宝石绿的工作室渐变。
 
-<a href="https://x.com/iamaiistudio/status/2057463278608252933"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/34a2247a2dbc.webp" alt="安静的财富男性编辑肖像" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=57871001333180"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/34a2247a2dbc.webp" alt="安静的财富男性编辑肖像" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=57871001333180)
 
 **提示词:**
 
@@ -161,7 +173,9 @@
 
 **描述:** 四面板自拍拼贴画，展示一位穿着宽大灰色毛衣和裙子的年轻女性坐在床上，脸部柔和模糊，设定在一个舒适温暖的极简主义卧室中。
 
-<a href="https://x.com/kasu_mi_ai/status/2057424172842946815#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/d8824f5c7e2a.webp" alt="舒适的2x2卧室自拍拼贴画" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=238054188809770"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/d8824f5c7e2a.webp" alt="舒适的2x2卧室自拍拼贴画" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=238054188809770)
 
 **提示词:**
 
@@ -177,7 +191,9 @@
 
 **描述:** 超现实主义黑白电影肖像，背景有长时间曝光的光线条，主体的脸部被飘动的发丝和横向运动模糊部分遮挡。
 
-<a href="https://x.com/aidetool/status/2057406992642445720"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/24accc190b1d.webp" alt="电影运动模糊黑白肖像" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=40324577168157"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/24accc190b1d.webp" alt="电影运动模糊黑白肖像" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=40324577168157)
 
 **提示词:**
 
@@ -193,7 +209,9 @@
 
 **描述:** 电影感的侧面特写，一位女性轻轻低下头朝向一朵露珠花朵，温暖的金色背光照亮，背景是模糊的深绿色自然景观。
 
-<a href="https://x.com/Shinning1010/status/2057332420383494441"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/245f53cc546c.webp" alt="梦幻侧面肖像与百合" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=39991846392940"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/245f53cc546c.webp" alt="梦幻侧面肖像与百合" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=39991846392940)
 
 **提示词:**
 
@@ -211,7 +229,9 @@
 
 **描述:** 编辑风格的四面板网格拼贴，展示穿着米色运动服的女性在大理石厨房、奢华浴室、健康角落和明亮咖啡馆的场景，拍摄于柔和温暖的日光下。
 
-<a href="https://x.com/iamaiistudio/status/2057734834982879662"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/235dcee76026.webp" alt="四面板健康生活拼贴" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=38885810200614"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/235dcee76026.webp" alt="四面板健康生活拼贴" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=38885810200614)
 
 **提示词:**
 
@@ -241,7 +261,9 @@
 
 **描述:** 梦幻的4x4怀旧胶卷接触表，展示了一对年轻情侣在夜晚和海边穿着休闲夏装，面孔被柔和的模糊矩形遮挡。
 
-<a href="https://x.com/Anifun_AI/status/2057701330761007611"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/5cdbd1260157.webp" alt="怀旧16张照片情侣接触表" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=102099176522071"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/5cdbd1260157.webp" alt="怀旧16张照片情侣接触表" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=102099176522071)
 
 **提示词:**
 
@@ -257,7 +279,9 @@
 
 **描述:** 年轻女性的幻想胸部肖像，配有彩虹色的鳞片装饰和流动的水般头发，背景是透明的水下场景，伴有气泡和柔和的反射光。
 
-<a href="https://x.com/CyberTotal2026/status/2057610889722048546"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2c596fdee6d0.webp" alt="空灵的水之精灵幻想肖像" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=48762640590544"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2c596fdee6d0.webp" alt="空灵的水之精灵幻想肖像" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=48762640590544)
 
 **提示词:**
 
@@ -285,7 +309,9 @@
 
 **描述:** 美容编辑特写，展示一张嘴唇间夹着洋甘菊花的脸，皮肤极其湿润，腮红浓烈，雀斑明显，前方柔和的工作室灯光。
 
-<a href="https://x.com/CHAseUnre/status/2057600345467990293"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1b47c913184c.webp" alt="露珠般的美丽特写与洋甘菊" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=29995130099788"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/1b47c913184c.webp" alt="露珠般的美丽特写与洋甘菊" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=29995130099788)
 
 **提示词:**
 
@@ -313,7 +339,9 @@
 
 **描述:** 大胆的Y2K日本街头编辑拼贴海报，配有大型电影肖像、撕裂的拍立得框、超大排版、和纸胶带、飞溅的墨水和粗糙的东京杂志质感。
 
-<a href="https://x.com/iamaiistudio/status/2057583921957941257"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3daf2504add4.webp" alt="Y2K日本街头编辑海报" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=67822449634772"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3daf2504add4.webp" alt="Y2K日本街头编辑海报" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=67822449634772)
 
 **提示词:**
 
@@ -337,7 +365,9 @@
 
 **描述:** 全身动漫插图，描绘一位身穿华丽哥特式洛丽塔时尚的女孩，站在昏暗的哥特式大教堂走廊中，从戏剧性的低角度拍摄，配有电影感的情绪照明。
 
-<a href="https://x.com/momoka_AIIllust/status/2057567110759408054#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/fb74570bbaae.webp" alt="哥特式洛丽塔大教堂动漫插图" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=276477095164590"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/fb74570bbaae.webp" alt="哥特式洛丽塔大教堂动漫插图" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=276477095164590)
 
 **提示词:**
 
@@ -353,7 +383,9 @@
 
 **描述:** 逼真的肖像，展示上传的主体被五个相同的迷你3D chibi版本包围，每个都在与相同的场景、光线和道具进行有趣的互动。
 
-<a href="https://x.com/miilesus/status/2057552449729450318"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/234f5edf2a08.webp" alt="逼真肖像与迷你 Chibi 伙伴" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=38823801072136"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/234f5edf2a08.webp" alt="逼真肖像与迷你 Chibi 伙伴" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=38823801072136)
 
 **提示词:**
 
@@ -369,7 +401,9 @@
 
 **描述:** 受1955年迪士尼明日乐园启发的复古街头服饰插图，展示了环绕鹰形太空山的单轨列车、原子星爆图案、喷气背包、Googie建筑排版和铬色中世纪未来主义点缀。
 
-<a href="https://x.com/nonameoasis/status/2057528295001088183"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3bca523bff76.webp" alt="复古明日乐园未来主义街头服饰" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=65740149096310"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/3bca523bff76.webp" alt="复古明日乐园未来主义街头服饰" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=65740149096310)
 
 **提示词:**
 
@@ -385,7 +419,9 @@
 
 **描述:** 高端时尚动漫角色扮演杂志封面，低角度的鬼舞辻无惨姿势，戴着白色礼帽和斗篷，精致的衬线排版，米白色工作室背景。
 
-<a href="https://x.com/busyddd/status/2057509830995394595#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/703311116c7e.webp" alt="动漫反派角色扮演杂志封面" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=123364631997566"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/703311116c7e.webp" alt="动漫反派角色扮演杂志封面" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=123364631997566)
 
 **提示词:**
 
@@ -413,7 +449,9 @@
 
 **描述:** 同一位年轻女性的高级4x3贴纸，展示十二种不同的表情，每个肩部以上的肖像都在中性背景上用厚厚的白色模切边框勾勒。
 
-<a href="https://x.com/iamaiistudio/status/2057493355865714894"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/58dd72918f6d.webp" alt="12种表情肖像贴纸" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=97708133158765"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/58dd72918f6d.webp" alt="12种表情肖像贴纸" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=97708133158765)
 
 **提示词:**
 
@@ -433,7 +471,9 @@
 
 **描述:** 高级4x3贴纸包，包含一位女性穿着不同足球球衣的十二种表现力表情，柔和的米色背景，照片真实的柔光，以及厚厚的白色模切边框。
 
-<a href="https://x.com/iamsofiaijaz/status/2057485300818235561"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ed9e4257b130.webp" alt="足球球衣贴纸包" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=261263973658928"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ed9e4257b130.webp" alt="足球球衣贴纸包" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=261263973658928)
 
 **提示词:**
 
@@ -479,7 +519,9 @@
 
 **描述:** 真实的女性肖像，在一个可爱的粉色创意办公室工作，周围是迷你千禧版的她自己在做有趣的动作，以及涂鸦和表情符号的叠加。
 
-<a href="https://x.com/heyfatema/status/2057476795830812985"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4966df6bb80.webp" alt="粉色办公室涂鸦千禧场景" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=251334741113728"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4966df6bb80.webp" alt="粉色办公室涂鸦千禧场景" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=251334741113728)
 
 **提示词:**
 
@@ -495,7 +537,9 @@
 
 **描述:** 电影感的广角照片，展示了一位冒险摩托车手和旅行摩托车在山顶观景台，沥青道路上投影着发光的金色全息GPS地图覆盖层。
 
-<a href="https://x.com/Ozayrr_irl/status/2057473247118316023"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/9bdacfe006af.webp" alt="摩托车全息路线图" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=171364092741295"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/9bdacfe006af.webp" alt="摩托车全息路线图" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=171364092741295)
 
 **提示词:**
 
@@ -511,7 +555,9 @@
 
 **描述:** 真实的2x3网格，展示一位日本女性在简约的室内工作室中表演六种标注的瑜伽姿势，配以柔和的窗光和自然的智能手机风格摄影缺陷。
 
-<a href="https://x.com/craftian_keskin/status/2057526205092708404"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/335665b326ea.webp" alt="六姿势瑜伽生活方式网格" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=56446166443754"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/335665b326ea.webp" alt="六姿势瑜伽生活方式网格" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=56446166443754)
 
 **提示词:**
 
@@ -611,7 +657,9 @@
 
 **描述:** 一位优雅女性穿着剪裁合身的白色西装的编辑时尚蓝图图纸，周围有标注标签、裁剪笔记、面料细节和高端女装概念注释。
 
-<a href="https://x.com/ZephyraLeigh/status/2057487393247367289"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/69f007e21aff.webp" alt="女装时尚蓝图图纸" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=116479645326079"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/69f007e21aff.webp" alt="女装时尚蓝图图纸" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=116479645326079)
 
 **提示词:**
 
@@ -627,7 +675,9 @@
 
 **描述:** 梦幻的垂直剪贴簿海报，展示韩国开心果玫瑰拿铁，分层饮品插图，手写注释，宝丽来照片，食谱和成分卡，采用粉色和开心果的Pinterest咖啡馆调色板。
 
-<a href="https://x.com/mylifcc/status/2057486709655543985#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bbc2a4fb5955.webp" alt="开心果玫瑰拿铁剪贴簿海报" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=206444665985365"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bbc2a4fb5955.webp" alt="开心果玫瑰拿铁剪贴簿海报" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=206444665985365)
 
 **提示词:**
 
@@ -661,7 +711,9 @@
 
 **描述:** 可爱的日本可爱风格信息图，作为动物角色甜甜圈个性诊断，配有柔和的卡片、一只狼形状的甜甜圈、框架动漫肖像和气泡字母日文标题文本。
 
-<a href="https://x.com/kiyu___K/status/2057465485621706897#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/77c92b20f590.webp" alt="可爱动物甜甜圈诊断信息图" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=131705895712144"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/77c92b20f590.webp" alt="可爱动物甜甜圈诊断信息图" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=131705895712144)
 
 **提示词:**
 
@@ -696,7 +748,9 @@
 
 **描述:** 可打印的A4数字涂色工作表，包含戏剧性的日本风格海浪的黑白线条艺术，十个编号的涂色区域，以及干净的水平颜色图例。
 
-<a href="https://x.com/NingKrysta45057/status/2057426499033055629#reversed-3"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09da48062270.webp" alt="海浪数字涂色工作表" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=10833115882096"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09da48062270.webp" alt="海浪数字涂色工作表" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=10833115882096)
 
 **提示词:**
 
@@ -712,7 +766,9 @@
 
 **描述:** 可打印的A4数字涂色工作表，主题为栖息在大型龟背竹叶上的热带鹦鹉，包含十个编号涂色区域和下面的八种颜色水平图例。
 
-<a href="https://x.com/NingKrysta45057/status/2057426499033055629#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/7c10256f1401.webp" alt="热带鹦鹉数字涂色工作表" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=136408789357569"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/7c10256f1401.webp" alt="热带鹦鹉数字涂色工作表" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=136408789357569)
 
 **提示词:**
 
@@ -738,7 +794,9 @@
 
 **描述:** 基于参考照片的超详细自由风格素描本风格信息图，混合墨水、水彩和涂鸦，包含肖像、萌版、场景、短语和关于个性的个人笔记。
 
-<a href="https://x.com/Shorelyn_/status/2057394913730494496"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/05fb0c2d1545.webp" alt="个人素描本信息图" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=6575799211333"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/05fb0c2d1545.webp" alt="个人素描本信息图" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=6575799211333)
 
 **提示词:**
 
@@ -774,7 +832,9 @@
 
 **描述:** 超详细的未来主义赛博朋克街头服饰女孩的时尚蓝图，银色波波头，全息轰炸机夹克，霓虹配饰，以及干净工作室背景上的标注。
 
-<a href="https://x.com/ZephyraLeigh/status/2057342945901326769"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/80e7f5c0ba6a.webp" alt="赛博朋克街头服饰蓝图" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=141733748849258"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/80e7f5c0ba6a.webp" alt="赛博朋克街头服饰蓝图" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=141733748849258)
 
 **提示词:**
 
@@ -792,7 +852,9 @@
 
 **描述:** 在纯白色背景上渲染的照片级物体，叠加手绘的黑色墨水技术注释，包括标签、尺寸、爆炸视图、方向箭头和小的示意图。
 
-<a href="https://x.com/iamaiistudio/status/2057221295557996876"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09721f308f9b.webp" alt="带注释的物体技术信息图" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=10385754197915"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/09721f308f9b.webp" alt="带注释的物体技术信息图" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=10385754197915)
 
 **提示词:**
 
@@ -808,7 +870,9 @@
 
 **描述:** 宽幅动漫横幅，描绘了快乐的学生小百合在一个明亮梦幻的教室里，周围有向日葵、悬挂的照片打印、剪贴簿装饰，以及右侧的大型装饰性手写标题排版。
 
-<a href="https://x.com/Anifun_AI/status/2057413690677481574"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/71caecbe50b5.webp" alt="小百合教室动漫横幅" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=125116369227957"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/71caecbe50b5.webp" alt="小百合教室动漫横幅" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=125116369227957)
 
 **提示词:**
 
@@ -824,7 +888,9 @@
 
 **描述:** 在卧铺列车车厢内拍摄的逼真16:9自拍风格图像，红色的ÖBB列车在平行轨道上飞驰而过，月光照耀下的阿尔卑斯夜景。
 
-<a href="https://x.com/mschneekluth/status/2056790621092806810#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/621d99777d6f.webp" alt="卧铺列车夜间自拍缩略图" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=107879268318575"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/621d99777d6f.webp" alt="卧铺列车夜间自拍缩略图" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=107879268318575)
 
 **提示词:**
 
@@ -840,7 +906,9 @@
 
 **描述:** 日本16:9社交媒体横幅，比较三种AI图像生成工具，带有圆角白色卡片、粗体标题、光泽3D图标和一个手持三部示例手机的展示者。
 
-<a href="https://x.com/Aibow06/status/2056693503405801864#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/895ec18a8e3a.webp" alt="日本AI图像工具比较缩略图" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=151040067014202"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/895ec18a8e3a.webp" alt="日本AI图像工具比较缩略图" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=151040067014202)
 
 **提示词:**
 
@@ -870,7 +938,9 @@
 
 **描述:** 通用可点击的YouTube缩略图模板，具有结构化的占位符，用于主题、表情、构图、照明、颜色层次、背景和风格，优化以适应超易读的小尺寸社交媒体动态。
 
-<a href="https://x.com/GlitterPixely/status/2056693223536435221"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/16da7b40be31.webp" alt="可点击的YouTube缩略图模板" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=25127626522161"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/16da7b40be31.webp" alt="可点击的YouTube缩略图模板" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=25127626522161)
 
 **提示词:**
 
@@ -886,7 +956,9 @@
 
 **描述:** 超详细的动漫足球传奇海报，动态飞奔的足球运动员，红黑色AC米兰风格球衣，戏剧性的体育场泛光灯，漫画风格的动作效果，以及大胆的片假名排版。
 
-<a href="https://x.com/Taaruk_/status/2056410687044497826"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/763ceb5c6e6b.webp" alt="动漫足球传奇电影海报" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=130004018818667"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/763ceb5c6e6b.webp" alt="动漫足球传奇电影海报" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=130004018818667)
 
 **提示词:**
 
@@ -902,7 +974,9 @@
 
 **描述:** 三面动漫时尚拼贴，展示受K-pop启发的时尚女孩，每个面板呈现独特的情感霓虹主题：粉色梦幻、电蓝赛博和深红午夜。
 
-<a href="https://x.com/Mind_Boticni/status/2056385033242607771"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/751ea7210564.webp" alt="三面霓虹K-Pop时尚拼贴" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=128774513427812"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/751ea7210564.webp" alt="三面霓虹K-Pop时尚拼贴" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=128774513427812)
 
 **提示词:**
 
@@ -932,7 +1006,9 @@
 
 **描述:** 宽横幅可爱动漫流行偶像横幅，快乐的双马尾女孩手持闪闪发光的麦克风，周围环绕着糖果色的装饰风格贴纸、闪光、心形和漫画风格的对话框。
 
-<a href="https://x.com/Toshi_nyaruo_AI/status/2056303856695603540"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63485bf82b70.webp" alt="可爱动漫流行偶像横幅" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=109162431785840"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63485bf82b70.webp" alt="可爱动漫流行偶像横幅" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=109162431785840)
 
 **提示词:**
 
@@ -952,7 +1028,9 @@
 
 **描述:** 16:9智能手机风格的咖啡馆约会照片，包含一位韩国帅哥、桌上的拿铁和蛋糕、柔和的窗光，以及中央的大白色时间和标题文本叠加。
 
-<a href="https://x.com/KudouCraft/status/2055984235006263688"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/72b199bc19d7.webp" alt="咖啡馆约会智能手机照片叠加" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=126107114019287"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/72b199bc19d7.webp" alt="咖啡馆约会智能手机照片叠加" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=126107114019287)
 
 **提示词:**
 
@@ -968,7 +1046,9 @@
 
 **描述:** 垂直动漫海报，灵感来自进击的巨人，描绘了一位身穿战术军事装备的饱经战斗的女孩，背景是被毁坏的城市、远处的巨人轮廓和高级日本编辑排版。
 
-<a href="https://x.com/Shorelyn_/status/2055968745819111708"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/199c1a0c6b54.webp" alt="进击的巨人灵感动漫海报" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=28158242614100"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/199c1a0c6b54.webp" alt="进击的巨人灵感动漫海报" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=28158242614100)
 
 **提示词:**
 
@@ -997,7 +1077,9 @@
 
 **描述:** 垂直的 chibi 旅行 Vlog 海报，带有可爱的迷你角色探索巨大的 3D 城市名称排版，填充着地标摄影、旅行邮票、刷字排版和明亮的假日拼贴元素。
 
-<a href="https://x.com/Taaruk_/status/2055325558020673638"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e8e61989095f.webp" alt="Chibi 旅行 Vlog 城市排版海报" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=256074968533343"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e8e61989095f.webp" alt="Chibi 旅行 Vlog 城市排版海报" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=256074968533343)
 
 **提示词:**
 
@@ -1013,7 +1095,9 @@
 
 **描述:** 宽幅日本YouTube综艺缩略图，三位女性穿着竞技连体泳衣，站在阳光明媚的户外公共泳池，脸部像素化，配有大胆的日本综艺节目标题。
 
-<a href="https://x.com/TomaAIbijo/status/2055297958237884531#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4afb0258f701.webp" alt="日本泳池采访缩略图" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=82441936631553"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4afb0258f701.webp" alt="日本泳池采访缩略图" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=82441936631553)
 
 **提示词:**
 
@@ -1039,7 +1123,9 @@
 
 **描述:** 超现实的抓拍足球直播截图，展示一名穿着红色球衣的拜仁慕尼黑支持者在看台上观看比赛，左上角有最终得分叠加。
 
-<a href="https://x.com/I_Yamada_AI/status/2055283575864619339"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ccda315833ff.webp" alt="足球直播支持者截图" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=225237502800895"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ccda315833ff.webp" alt="足球直播支持者截图" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=225237502800895)
 
 **提示词:**
 
@@ -1055,7 +1141,9 @@
 
 **描述:** 2.5D电影感的建立镜头，展示阳光明媚的塞浦路斯尼科西亚，采用风格化的现实主义，体积光，景深，胶卷颗粒和电影镜头运动，作为开场序列。
 
-<a href="https://x.com/farm_ion/status/2055275272400695448"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4505354df90.webp" alt="尼科西亚蓝色泻湖2.5D建立镜头" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=251033646587792"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e4505354df90.webp" alt="尼科西亚蓝色泻湖2.5D建立镜头" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=251033646587792)
 
 **提示词:**
 
@@ -1077,7 +1165,9 @@
 
 **描述:** 生动的竖版3D冒险海报，描绘了一位勇敢的小卡通探险者，周围是超大的热带丛林叶子、异国花朵、鹦鹉、小老虎、瀑布和粗体渐变排版。
 
-<a href="https://x.com/92digitalartArt/status/2054948614128980060"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/759ba971c602.webp" alt="热带丛林3D冒险海报" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=129311423186434"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/759ba971c602.webp" alt="热带丛林3D冒险海报" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=129311423186434)
 
 **提示词:**
 
@@ -1093,7 +1183,9 @@
 
 **描述:** 电影感的竖向夜间广播电台场景，关节球形女性玩偶主持人佩戴耳机坐在广播桌前，窗外可见下雨的东京霓虹城市。
 
-<a href="https://x.com/aisuruai2023/status/2054140097382248815#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6b7449fa4f8e.webp" alt="深夜广播玩偶主持人工作室" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=118147201519502"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6b7449fa4f8e.webp" alt="深夜广播玩偶主持人工作室" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=118147201519502)
 
 **提示词:**
 
@@ -1109,7 +1201,9 @@
 
 **描述:** 宽屏16:9电影风格动漫分镜卡，带有黑色剧本标题和10面网格，描绘一个苦乐参半的日落屋顶告别，包含时间码和台词。
 
-<a href="https://x.com/ItsmeRopes/status/2057565020670595315#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/dc64e329daec.webp" alt="日落的承诺动漫分镜" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=242325866011372"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/dc64e329daec.webp" alt="日落的承诺动漫分镜" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=242325866011372)
 
 **提示词:**
 
@@ -1147,7 +1241,9 @@
 
 **描述:** 干净的皮克斯3D风格角色设计图，背景为白色，两个角色并排放置，带有笔刷风格的标题和一个机智的副标题，适合短篇动画故事。
 
-<a href="https://x.com/TechieBySA/status/2057511465884557754"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/90b32be54bd7.webp" alt="皮克斯风格角色设计图" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=159099209993175"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/90b32be54bd7.webp" alt="皮克斯风格角色设计图" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=159099209993175)
 
 **提示词:**
 
@@ -1163,7 +1259,9 @@
 
 **描述:** 垂直的福音战士风格杂志封面海报，前景中有一个少年，背景是巨大的紫色单位-01机甲冲破碎石，搭配奢华的衬线排版和紫色能量闪电。
 
-<a href="https://x.com/busyddd/status/2057509830995394595#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b6fbe8856aaf.webp" alt="福音战士杂志封面海报" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=201193054104239"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b6fbe8856aaf.webp" alt="福音战士杂志封面海报" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=201193054104239)
 
 **提示词:**
 
@@ -1193,7 +1291,9 @@
 
 **描述:** 电影风格的竖版肖像，冷静的男孩戴着眼镜倚靠在黑暗的巷墙上，身后有一个巨大的威胁感十足的狼形阴影在温暖的金色光线中笼罩着他。
 
-<a href="https://x.com/drzubi01/status/2057494083795615752#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4e20e2c13747.webp" alt="狼影男孩巷道肖像" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=85903150233415"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4e20e2c13747.webp" alt="狼影男孩巷道肖像" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=85903150233415)
 
 **提示词:**
 
@@ -1209,7 +1309,9 @@
 
 **描述:** 史诗般的沙漠世界电影角色板，具有宏伟的规模、金色沙尘暴、全身旋转、亲密特写、战术服装分析，以及奢华电影提案文件所唤起的高端科幻氛围现实主义。
 
-<a href="https://x.com/Mind_Boticni/status/2057441467963175088"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63007a2aa680.webp" alt="沙漠世界电影角色板" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=108853700765312"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/63007a2aa680.webp" alt="沙漠世界电影角色板" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=108853700765312)
 
 **提示词:**
 
@@ -1225,7 +1327,9 @@
 
 **描述:** 艺术素描风格的年轻男性肖像，佩戴太阳镜，结合铅笔和墨水线条与水彩阴影，几何框架，墨水飞溅，以及在纹理纸上的手写排版。
 
-<a href="https://x.com/iamsofiaijaz/status/2057440838033252767"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6f5124db184d.webp" alt="混合媒体素描肖像" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=122394301372493"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/6f5124db184d.webp" alt="混合媒体素描肖像" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=122394301372493)
 
 **提示词:**
 
@@ -1241,7 +1345,9 @@
 
 **描述:** 电影感的特写动漫插图，描绘一个害羞的女学生从床上向观众探头，采用极广角透视拍摄，背景是温暖的黄昏光线下的温馨卧室。
 
-<a href="https://x.com/jpn_eagle/status/2057437685686706467#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/aa66d009ab1f.webp" alt="动漫女学生卧室特写" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=187358553680671"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/aa66d009ab1f.webp" alt="动漫女学生卧室特写" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=187358553680671)
 
 **提示词:**
 
@@ -1257,7 +1363,9 @@
 
 **描述:** Ruzaina的美学日记风格角色设计表，混合半写实和Q版姿势，带有手写个性笔记、色板样本、便利贴，以及温暖的韩国网络漫画剪贴簿氛围。
 
-<a href="https://x.com/RuzainaMeer/status/2057398827901137404"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/942e392ab57c.webp" alt="Ruzaina角色设计表" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=162926248506748"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/942e392ab57c.webp" alt="Ruzaina角色设计表" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=162926248506748)
 
 **提示词:**
 
@@ -1294,7 +1402,9 @@ Q版/可爱迷你版（小，左下角区域）
 
 **描述:** 少年漫画风格的召唤术展示，描绘一只巨大的契约生物从爆炸性的白色烟雾和仪式圆圈中出现，带有聚焦线、碎片和漫画拟声词。
 
-<a href="https://x.com/Eris_Create_Lab/status/2057393463138873789"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4b35450e2116.webp" alt="召唤术漫画展示" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=82692163903766"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4b35450e2116.webp" alt="召唤术漫画展示" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=82692163903766)
 
 **提示词:**
 
@@ -1310,7 +1420,9 @@ Q版/可爱迷你版（小，左下角区域）
 
 **描述:** 为 HER19845 制作的大胆垂直街头服饰杂志封面，全身模特穿着超大叛逆的90年代嘻哈时尚，背景是巨大的渐变 HER19845 字体和杂志纹理。
 
-<a href="https://x.com/her19845/status/2057569603388059833#reversed-1"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ec3e307d7c76.webp" alt="HER19845 街头服饰杂志封面" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=259751845657718"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/ec3e307d7c76.webp" alt="HER19845 街头服饰杂志封面" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=259751845657718)
 
 **提示词:**
 
@@ -1338,7 +1450,9 @@ Q版/可爱迷你版（小，左下角区域）
 
 **描述:** 纵向街头服饰宣传海报，展示HER19845限量版发布，模特全身穿着超大号黑色图案连帽衫和运动裤，背景为巨大的热粉色标题排版，搭配米白色背景。
 
-<a href="https://x.com/her19845/status/2057569603388059833#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2aadac39b559.webp" alt="HER19845 连帽衫发布宣传海报" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=46925407171929"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/2aadac39b559.webp" alt="HER19845 连帽衫发布宣传海报" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=46925407171929)
 
 **提示词:**
 
@@ -1366,7 +1480,9 @@ Q版/可爱迷你版（小，左下角区域）
 
 **描述:** 竖版高级定制肖像拼贴，模特佩戴深色太阳镜，背景有四个重叠的黑白胶卷条面板，前景是同一模特生动的黄色T恤剪影。
 
-<a href="https://x.com/her19845/status/2057475917174190253"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e013489b1993.webp" alt="胶卷条高级定制拼贴" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=246373427124627"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/e013489b1993.webp" alt="胶卷条高级定制拼贴" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=246373427124627)
 
 **提示词:**
 
@@ -1382,7 +1498,9 @@ Q版/可爱迷你版（小，左下角区域）
 
 **描述:** 奢华的电影感快餐广告拼贴，展示三位美丽的年轻厨师呈现奶酪披萨、多汁的美食汉堡和烤三明治，配有时尚的排版和高档金色厨房氛围。
 
-<a href="https://x.com/veylorvisions/status/2057461617487651311"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/a925bd188e20.webp" alt="电影感快餐厨师广告拼贴" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=185979551387168"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/a925bd188e20.webp" alt="电影感快餐厨师广告拼贴" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=185979551387168)
 
 **提示词:**
 
@@ -1406,7 +1524,9 @@ Instagram/X病毒海报设计，电影感的食品宣传，现代图形，闪亮
 
 **描述:** 大胆的Y2K韩国街头编辑拼贴海报，上方有一个大型电影肖像，下面是两个撕裂的拍立得框，超大号韩文字体，和纸胶带、条形码贴纸，以及粗糙的杂志纹理。
 
-<a href="https://x.com/her19845/status/2057430332773662929"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4a5bb6b8b352.webp" alt="Y2K韩国街头编辑拼贴" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=81757768037202"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/4a5bb6b8b352.webp" alt="Y2K韩国街头编辑拼贴" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=81757768037202)
 
 **提示词:**
 
@@ -1422,7 +1542,9 @@ Instagram/X病毒海报设计，电影感的食品宣传，现代图形，闪亮
 
 **描述:** 戏剧性的黑白高端时尚摄影，展现一位女性在未来主义对称金属隧道中回头奔跑，使用直接闪光、运动模糊和大胆的编辑能量捕捉。
 
-<a href="https://x.com/bmx_ai13/status/2057406799037464659"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/53748ef4f5bd.webp" alt="黑白时尚隧道运动" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=91760079730109"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/53748ef4f5bd.webp" alt="黑白时尚隧道运动" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=91760079730109)
 
 **提示词:**
 
@@ -1438,7 +1560,9 @@ Instagram/X病毒海报设计，电影感的食品宣传，现代图形，闪亮
 
 **描述:** 低角度时尚广告摄影，展示一位自信的模特将一个大型产品紧贴相机镜头，采用极端的透视效果，背景为纯白色高调摄影棚。
 
-<a href="https://x.com/iamaiistudio/status/2057402771599700081"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/119c2c1d9e51.webp" alt="透视产品广告" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=19362452708945"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/119c2c1d9e51.webp" alt="透视产品广告" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=19362452708945)
 
 **提示词:**
 
@@ -1454,7 +1578,9 @@ Instagram/X病毒海报设计，电影感的食品宣传，现代图形，闪亮
 
 **描述:** 超现实主义高端产品广告，模特随意倚靠在巨大的未来感舒适木屐上，背景为干净的天空蓝到薰衣草色渐变，配有巨大的竖排字体。
 
-<a href="https://x.com/iamaiistudio/status/2057281549851377866"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/893d1336333a.webp" alt="舒适木屐极简产品广告" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=150895408329530"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/893d1336333a.webp" alt="舒适木屐极简产品广告" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=150895408329530)
 
 **提示词:**
 
@@ -1480,7 +1606,9 @@ Instagram/X病毒海报设计，电影感的食品宣传，现代图形，闪亮
 
 **描述:** 大胆的透明背景T恤图形，展示一个铬色3D飞碟向一个微小剪影投射品红色光束，标题为第一次接触，使用未来派展示字体。
 
-<a href="https://x.com/92digitalartArt/status/2057141494729830591"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/cb36be49bac8.webp" alt="第一次接触飞碟T恤图形" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=223435981175496"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/cb36be49bac8.webp" alt="第一次接触飞碟T恤图形" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=223435981175496)
 
 **提示词:**
 
@@ -1496,7 +1624,9 @@ Instagram/X病毒海报设计，电影感的食品宣传，现代图形，闪亮
 
 **描述:** 极简温暖工作室产品照片，带有手绘白色线条涂鸦覆盖的角色与产品互动，融合真实摄影和素描插图，营造高端品牌感。
 
-<a href="https://x.com/MissDelulu9/status/2056646177106567563"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/70f2ca113a4a.webp" alt="极简产品照片与涂鸦" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=124188074523210"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/70f2ca113a4a.webp" alt="极简产品照片与涂鸦" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=124188074523210)
 
 **提示词:**
 
@@ -1512,7 +1642,9 @@ Instagram/X病毒海报设计，电影感的食品宣传，现代图形，闪亮
 
 **描述:** 奢华的粉色限量版巧克力礼盒照片，十种华丽的巧克力排列成网格，肖像印刷的盖子，缎带，蕾丝，珍珠和玫瑰金风格。
 
-<a href="https://x.com/pochiina/status/2056424531250823669#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/c5c0ae49d15f.webp" alt="粉色巧克力礼盒" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=217431348466015"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/c5c0ae49d15f.webp" alt="粉色巧克力礼盒" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=217431348466015)
 
 **提示词:**
 
@@ -1528,7 +1660,9 @@ Instagram/X病毒海报设计，电影感的食品宣传，现代图形，闪亮
 
 **描述:** 高端方形3D时尚产品展示，悬浮着正好九个奢华单品，包括帽子、运动鞋、球衣、手表、太阳镜、包、背包和鞋子，置于深色大理石基座上。
 
-<a href="https://x.com/abs_uiux/status/2056401853475094759#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b86a012d0eb3.webp" alt="奢华3D时尚产品展示" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=202765425774259"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/b86a012d0eb3.webp" alt="奢华3D时尚产品展示" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=202765425774259)
 
 **提示词:**
 
@@ -1544,7 +1678,9 @@ Instagram/X病毒海报设计，电影感的食品宣传，现代图形，闪亮
 
 **描述:** 超现实的纵向可口可乐广告，深红背景上的冰冷红罐，银色拉链横跨画面，揭示对比鲜明的日落和冰冷山脉世界。
 
-<a href="https://x.com/GeneratePrompt/status/2055757582757712230#reversed-0"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bf1fa79df0c9.webp" alt="可口可乐拉链概念广告" width="640" /></a>
+<a href="https://www.cuty.ai/prompts/gpt-image-2?id=210142677037257"><img src="https://supabase.cuty.ai/storage/v1/object/public/pub-resource/image/awesome/bf1fa79df0c9.webp" alt="可口可乐拉链概念广告" width="640" /></a>
+
+[![▶ 立即试用](https://img.shields.io/badge/%E2%96%B6%20%E7%AB%8B%E5%8D%B3%E8%AF%95%E7%94%A8-2ea44f?style=for-the-badge)](https://www.cuty.ai/prompts/gpt-image-2?id=210142677037257)
 
 **提示词:**
 
